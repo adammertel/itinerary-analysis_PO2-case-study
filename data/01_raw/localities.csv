@@ -1,0 +1,647 @@
+id	name	no_alle	no_activity	no_bi	no_gg	x	y	prazision	noten	region1	region2	region3
+1	Absdorf	1	0	0	1	48.400	15.983	1			Nordostniederösterreich	Nordostniederösterreich
+2	Admont	6	0	6	0	47.583	14.467	1			Nordsteiermark	Nordsteiermark
+3	Aisthofen in Riedmark	1	0	0	1	48.258	14.591	3			Nordwestniederösterreich	Nordwestniederösterreich
+4	Aldersbach	1	0	1	0	48.590	13.090	1			Bayern	Bayern
+5	Alland	1	0	0	1	48.057	16.078	1			Südostniederösterreich	Südostniederösterreich
+6	Alt-Melon/Altmelon	1	0	1	0	48.462	14.966	3			Nordwestniederösterreich	Nordwestniederösterreich
+7	Altenburg	4	1	3	0	48.647	15.593	3			Nordwestniederösterreich	Nordwestniederösterreich
+8	Altenhofen	2	0	1	1	48.182	14.547	1			Oberösterreich	Oberösterreich
+9	Altpölla	2	0	2	0	48.629	15.378	1			Nordwestniederösterreich	Nordwestniederösterreich
+10	Altzelle	1	0	1	0	51.060	13.276	1			Meissen	Meissen
+11	Apfaltersbach	1	0	0	1	47.676	15.902	1			Südostniederösterreich	Südostniederösterreich
+12	Ardagger	4	0	3	1	48.183	14.833	1			Südwestniederösterreich	Südwestniederösterreich
+13	Arnoldstein	1	1	0	0	46.550	13.750	1			Ostkärnten	Ostkärnten
+14	Arzwald	3	0	0	3	47.217	15.283	2			Mittelsteiermark	Mittelsteiermark
+15	Assisi	1	1	0	0	43.075	12.605	1			Italien	Italien
+16	Atzelsdorf	0	0	0	0	48.287	15.960	1			Nordostniederösterreich	Nordostniederösterreich
+17	Bad Aussee	1	0	0	1	47.609	13.784	1			Nordsteiermark	Nordsteiermark
+18	Bad Ischl	2	0	0	2	47.712	13.621	1			Oberösterreich	Oberösterreich
+19	Baumgartenberg	3	0	3	0	48.209	14.744	1			Nordwestniederösterreich	Nordwestniederösterreich
+20	Baumkirchen	1	0	1	0	47.152	14.750	1			Nordsteiermark	Nordsteiermark
+21	Bautzen	1	1	0	0	51.182	14.423	1			Bautzenland	Bautzenland
+22	Bautzenland	0	0	0	0			2			Bautzenland	Bautzenland
+23	Bayern	0	0	0	0			2			Bayern	Bayern
+24	Benešov	1	0	1	0	49.932	18.005	1			Troppauer Teil	Troppauer Teil
+25	Beňovice	2	0	0	2	49.391	13.260	1			Südwestböhmen	Südwestböhmen
+26	Berchtesgaden	1	0	1	0	47.631	13.002	1			Salzburg	Salzburg
+27	Beroun	2	2	0	0	49.964	14.073	1			Mittelböhmen	Mittelböhmen
+28	Bítov	2	0	2	0	48.936	15.729	1			Znaimer Teil	Znaimer Teil
+29	Bítov bei Stříbro	1	0	0	1	49.753	13.004	2			Südwestböhmen	Südwestböhmen
+30	Blansko	2	2	0	0	49.363	16.644	1			Brünner Teil	Brünner Teil
+31	Bliszyczyce	1	0	0	1	50.082	17.755	1			Troppauer Teil	Troppauer Teil
+32	Blučina	1	0	0	1	49.055	16.646	1			Brünner Teil	Brünner Teil
+33	Böhmen	7	0	7	0			2			Böhmen	Böhmen
+34	Böhmisch Bruck	2	0	2	0	49.576	12.353	1			Bayern	Bayern
+35	Böhmischmährische Höhe	0	0	0	0			2			Böhmischmährische Höhe	Böhmischmährische Höhe
+36	Boletice	1	0	0	1	48.825	14.220	1			Südböhmen	Südböhmen
+37	Brandenburg	1	0	1	0			2			Brandenburg	Brandenburg
+38	Bratislava	17	12	5	0	48.142	17.103	1			Westungarn	Westungarn
+39	Břevnov	14	0	14	0	50.074	14.383	1			Prag	Prag
+40	Brixen	1	0	1	0	46.716	11.657	1			Westkärnten	Westkärnten
+41	Brno	55	43	8	4	49.190	16.610	1			Brünner Teil	Brünner Teil
+42	Brozany nad Ohří	1	0	0	1	50.454	14.145	1			Nordböhmen	Nordböhmen
+43	Bruck an der Mur	2	0	2	0	47.410	15.269	1			Nordsteiermark	Nordsteiermark
+44	Brünner Teil	0	0	0	0			2			Brünner Teil	Brünner Teil
+45	Bubeneč	1	0	0	1	50.102	14.399	1			Mittelböhmen	Mittelböhmen
+46	Buda	1	1	0	0	47.488	19.046	1			Westungarn	Westungarn
+47	Budeč	2	0	0	2	50.192	14.246	1	hrad		Mittelböhmen	Mittelböhmen
+48	Budyně nad Ohří	4	4	0	0	50.404	14.126	1			Nordböhmen	Nordböhmen
+49	Čáslav	4	1	2	1	49.910	15.389	1			Ostböhmen	Ostböhmen
+50	Čepihory	1	0	1	0	50.489	13.621	1			Nordwestböhmen	Nordwestböhmen
+51	Cerhonice	1	0	0	1	49.418	14.056	1			Südböhmen	Südböhmen
+52	Cerhovice	1	0	0	1	49.850	13.835	1			Mittelböhmen	Mittelböhmen
+53	Červený Kameň	2	1	1	0	48.392	17.335	1			Westungarn	Westungarn
+54	České Budějovice	3	1	1	1	48.974	14.474	1			Südböhmen	Südböhmen
+55	České Kopisty	1	0	0	1	50.525	14.168	1			Nordböhmen	Nordböhmen
+56	Český Krumlov	1	0	1	0	48.811	14.315	1			Südböhmen	Südböhmen
+57	Cham	2	2	0	0	49.218	12.666	1			Bayern	Bayern
+58	Cheb	3	1	2	0	50.071	12.380	1			Egerland	Egerland
+59	Chełmno	2	2	0	0	53.348	18.424	1			Preussen	Preussen
+60	Chomutov	1	0	1	0	50.464	13.411	1			Nordwestböhmen	Nordwestböhmen
+61	Chomýž	1	0	0	1	50.110	17.648	1			Troppauer Teil	Troppauer Teil
+62	Chotěšov	5	0	5	0	49.654	13.203	3			Südwestböhmen	Südwestböhmen
+63	Chrudim	1	0	1	0	49.951	15.796	1			Ostböhmen	Ostböhmen
+64	Cvilín	1	0	1	0	50.082	17.721	1			Troppauer Teil	Troppauer Teil
+1	Dědice	1	0	1	0	49.295	16.977	3			Olmützer Teil	Olmützer Teil
+2	Deutschlandsberg	1	0	0	1			1				
+3	Diváky	2	0	0	2	48.989	16.790	1			Brünner Teil	Brünner Teil
+4	Dobi	1	0	0	1	46.948	15.374	1			Mittelsteiermark	Mittelsteiermark
+5	Dobra (bei St. Peter in der Au-Markt )	1	0	1	0	48.046	14.625	1			Oberösterreich	Oberösterreich
+6	Dobrava pri Škocjanu	3	0	1	2	45.875	15.327	1			Krain	Krain
+7	Dobrenje	1	0	0	1	46.609	15.662	1			Südsteiermark	Südsteiermark
+8	Dobříš	1	1	0	0	49.783	14.175	1			Mittelböhmen	Mittelböhmen
+9	Doksany	4	0	4	0	50.455	14.160	1			Nordböhmen	Nordböhmen
+10	Doksy	1	0	1	0	50.565	14.656	1			Nordböhmen	Nordböhmen
+11	Dolní Bukovsko	1	0	0	1	49.171	14.580	1			Südböhmen	Südböhmen
+12	Dolní Černošice	1	0	0	1	49.961	14.331	1			Mittelböhmen	Mittelböhmen
+13	Dolní Vltavice	1	0	0	1	48.697	14.076	1			Südböhmen	Südböhmen
+14	Domažlice	4	2	1	1	49.440	12.930	1			Südwestböhmen	Südwestböhmen
+15	Doubravník	2	0	2	0	49.424	16.353	1			Brünner Teil	Brünner Teil
+16	Doudleby	1	0	0	1	48.894	14.500	1			Südböhmen	Südböhmen
+17	Dravograd	1	0	0	1	46.589	15.024	1			Ostkärnten	Ostkärnten
+18	Dřenice	1	0	0	1	49.983	15.745	1			Ostböhmen	Ostböhmen
+19	Drnholec	2	0	2	0	48.857	16.486	1			Znaimer Teil	Znaimer Teil
+20	Drosendorf	3	2	0	1	48.866	15.622	1			Nordwestniederösterreich	Nordwestniederösterreich
+21	Dürnstein	2	0	2	0	48.407	15.525	1			Nordwestniederösterreich	Nordwestniederösterreich
+22	Eferding	1	0	0	1	48.308	14.020	1			Oberösterreich	Oberösterreich
+23	Eger	2	1	1	0	47.903	20.373	1			Westungarn	Westungarn
+24	Egerland	1	0	1	0			2			Egerland	Egerland
+25	Eggenburg	3	1	0	2	48.639	15.819	1			Nordostniederösterreich	Nordostniederösterreich
+26	Eggendorf am Wagram	1	0	0	1	48.403	16.040	1			Nordostniederösterreich	Nordostniederösterreich
+27	Eggendorf bei Wiener Neustadt	1	0	0	1	47.858	16.322	1			Südostniederösterreich	Südostniederösterreich
+28	ein Wald Bor zwischen Kolín und Čáslav	1	0	0	1	49.996	15.310	2	les		Ostböhmen	Ostböhmen
+29	Eisenreichdornach	1	0	0	1	48.131	14.891	3			Südwestniederösterreich	Südwestniederösterreich
+30	Elblag	1	1	0	0	54.152	19.409	1			Preussen	Preussen
+31	Emmersdorf an der Donau	3	0	1	2	48.253	15.324	1			Nordwestniederösterreich	Nordwestniederösterreich
+32	Enns	6	2	2	2	48.214	14.479	1			Oberösterreich	Oberösterreich
+33	Erla	2	0	2	0	48.199	14.570	3			Oberösterreich	Oberösterreich
+34	Ernstbrunn	1	0	0	1	48.526	16.360	1			Nordostniederösterreich	Nordostniederösterreich
+35	Falkenstein	1	0	0	1	48.717	16.586	1			Nordostniederösterreich	Nordostniederösterreich
+36	Falkenstein an der Ranna 	0	0	0	0	48.494	13.783	1			Bayern	Bayern
+37	Feistritz bei Prank	1	0	0	1	47.279	14.863	2			Nordsteiermark	Nordsteiermark
+38	Freising	33	0	33	0	48.399	11.746	3			Bayern	Bayern
+39	Freistadt	9	9	0	0	48.517	14.517	3			Oberösterreich	Oberösterreich
+40	Friesach	7	4	2	1	46.984	14.326	1			Ostkärnten	Ostkärnten
+41	Frýdlant	2	0	1	1	50.921	15.080	1			Nordböhmen	Nordböhmen
+42	Fulštejn	3	0	2	1	50.243	17.714	3			Troppauer Teil	Troppauer Teil
+43	Fürstenfeld	1	0	1	0	47.050	16.071	1			Mittelsteiermark	Mittelsteiermark
+44	Gaflenz	1	0	0	1	47.895	14.726	1			Oberösterreich	Oberösterreich
+45	Gaming	2	2	0	0	47.929	15.088	1			Südwestniederösterreich	Südwestniederösterreich
+46	Gars am Kamp	1	0	0	1	48.599	15.662	1			Nordwestniederösterreich	Nordwestniederösterreich
+47	Garsten	5	0	5	0	48.022	14.409	1			Oberösterreich	Oberösterreich
+48	Geras	3	0	3	0	48.781	15.665	1			Nordwestniederösterreich	Nordwestniederösterreich
+49	Gerasdorf	1	0	0	1	48.296	16.469	1			Nordostniederösterreich	Nordostniederösterreich
+50	Glanz an der Weinstraße	1	0	0	1	46.662	15.537	1			Südsteiermark	Südsteiermark
+51	Glaubitsch	2	0	1	1	48.653	16.380	1			Nordostniederösterreich	Nordostniederösterreich
+52	Gleink	3	0	3	0	48.067	14.417	1			Oberösterreich	Oberösterreich
+53	Głubczyce	6	1	4	1	50.201	17.829	1			Troppauer Teil	Troppauer Teil
+54	Gornji Grad	1	0	1	0	46.289	14.801	1			Patriarchat Aquileia	Patriarchat Aquileia
+55	Gosau	1	0	0	1	47.585	13.536	1			Oberösterreich	Oberösterreich
+56	Gössendorf	2	0	0	2	46.998	15.486	1			Mittelsteiermark	Mittelsteiermark
+57	Göttweig	3	0	3	0	48.368	15.613	1			Südwestniederösterreich	Südwestniederösterreich
+58	Gramastetten	2	0	0	2	48.379	14.192	1			Oberösterreich	Oberösterreich
+59	Graslupp	1	0	0	1	47.071	14.381	1			Nordsteiermark	Nordsteiermark
+60	Gratwein	1	0	1	0	47.129	15.318	1			Mittelsteiermark	Mittelsteiermark
+61	Graz	41	38	2	1	47.067	15.450	1			Mittelsteiermark	Mittelsteiermark
+62	Grobniki	6	0	4	2	50.197	17.871	1			Troppauer Teil	Troppauer Teil
+63	Groißenbrunn	1	1	0	0	48.223	16.902	1			Nordostniederösterreich	Nordostniederösterreich
+64	Großotten	1	0	1	0	48.643	14.981	1			Nordwestniederösterreich	Nordwestniederösterreich
+65	Groß-Enzersdorf	3	0	0	3	48.197	16.551	1			Nordostniederösterreich	Nordostniederösterreich
+66	Grosspolen	0	0	0	0			2			Grosspolen	Grosspolen
+67	Guntersdorf	1	0	0	1	48.645	16.053	1			Nordostniederösterreich	Nordostniederösterreich
+68	Gurk	2	0	2	0	46.875	14.288	1			Ostkärnten (Ausland) 	Ostkärnten (Ausland) 
+69	Gwardeisk	1	1	0	0	54.648	21.065	1			Preussen	Preussen
+70	Györ	2	1	1	0	47.688	17.635	1			Westungarn	Westungarn
+71	Haidershofen	2	0	0	2	48.075	14.458	1			Oberösterreich	Oberösterreich
+72	Hainburg	6	5	0	1	48.146	16.946	3			Südostniederösterreich	Südostniederösterreich
+73	Halbenrein	2	0	1	1	46.727	15.930	1			Mittelsteiermark	Mittelsteiermark
+74	Hardegg	2	0	2	0	48.853	15.858	1			Nordwestniederösterreich	Nordwestniederösterreich
+75	Haringsee	1	0	0	1	48.191	16.786	1			Nordostniederösterreich	Nordostniederösterreich
+76	Hartberg	1	1	0	0	47.281	15.970	1			Mittelsteiermark	Mittelsteiermark
+77	Haslau an der Donau	1	0	1	0	48.118	16.719	1			Südostniederösterreich	Südostniederösterreich
+78	Hassbach	1	0	1	0	47.653	16.057	1			Südostniederösterreich	Südostniederösterreich
+79	Havlíčkův Brod	6	3	2	1	49.607	15.579	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+80	Heiligenkreuz	15	0	15	0	48.056	16.131	1			Südostniederösterreich	Südostniederösterreich
+81	Hejčín	2	0	0	2	49.605	17.240	1			Olmützer Teil	Olmützer Teil
+82	Helfenstein	1	0	0	1	47.090	15.192	1	hrad		Südsteiermark	Südsteiermark
+83	Hennersdorf bei Wien	1	0	0	1	48.111	16.360	1			Wien	Wien
+84	Hernstein	2	0	0	2	47.894	16.104	1			Südostniederösterreich	Südostniederösterreich
+85	Heunburg	1	0	1	0	46.694	14.670	1			Ostkärnten	Ostkärnten
+86	Herzogenbirbaum	1	1	0	0	48.519	16.251	2			Nordostniederösterreich	Nordostniederösterreich
+87	Hluboký	0	0	0	0	49.516	14.036	2	zaniklé		Südböhmen	Südböhmen
+88	Hlučín	1	0	1	0	49.898	18.192	1			Troppauer Teil	Troppauer Teil
+89	Hněvkovice	1	0	0	1	49.686	15.205	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+90	Hohenberg	5	0	5	0	47.910	15.622	3			Südwestniederösterreich	Südwestniederösterreich
+91	Hohenwarth	1	0	0	1	48.506	15.827	1			Nordostniederösterreich	Nordostniederösterreich
+92	Holenstein an der Ybbs	1	0	0	1	47.806	14.771	1			Südwestniederösterreich	Südwestniederösterreich
+93	Hořepník	1	0	1	0	49.513	15.108	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+94	Hórky u Klatov	2	0	0	2	49.396	13.295	2			Südwestböhmen	Südwestböhmen
+95	Horn	1	0	0	1	48.665	15.656	1			Nordwestniederösterreich	Nordwestniederösterreich
+96	Horní Slavkov	1	0	0	1	50.139	12.808	1			Nordwestböhmen	Nordwestböhmen
+97	Hradec Králové	5	4	1	0	50.209	15.833	1			Nordostböhmen	Nordostböhmen
+98	Hradec nad Moravicí	3	3	0	0	49.871	17.875	1			Troppauer Teil	Troppauer Teil
+99	Hradisko u Olomouce	12	0	12	0	49.606	17.265	3	Pokiaľ je to správne Hradisko, tak asi zjednotiť s Olomoucí		Olmützer Teil	Olmützer Teil
+100	Hrdibořice	1	0	0	1	49.478	17.220	1			Olmützer Teil	Olmützer Teil
+101	Hrušovany	3	0	0	3	50.520	14.280	1			Nordböhmen	Nordböhmen
+102	Hulín	1	0	0	1	49.317	17.464	1			Nordostmähren	Nordostmähren
+103	Hundsheim	2	0	1	1	48.387	15.558	1			Südwestniederösterreich	Südwestniederösterreich
+104	Hustopeče	1	0	1	0	48.941	16.738	1			Brünner Teil	Brünner Teil
+105	Imbach	4	0	4	0	48.439	15.576	1	Zjednotiť s Krems?		Nordwestniederösterreich	Nordwestniederösterreich
+106	Italien	0	0	0	0			2			Italien	Italien
+107	Jablonné v Podještědí	1	1	0	0	50.765	14.760	1			Nordböhmen	Nordböhmen
+108	Jägerberg bei Steyr	1	0	1	0	48.039	14.419	1			Oberösterreich	Oberösterreich
+109	Jaroměřice nad Rokytkou	2	1	1	0	49.094	15.893	1	Jaromerice nad Rokytnou?		Znaimer Teil	Znaimer Teil
+110	Jedenspeigen	2	2	0	0	48.499	16.872	1			Nordostniederösterreich	Nordostniederösterreich
+111	Jemníky	1	0	0	1	50.206	14.118	1			Mittelböhmen	Mittelböhmen
+112	Jeneč	1	0	0	1	50.088	14.213	1			Mittelböhmen	Mittelböhmen
+113	Jevíčko	1	0	1	0	49.632	16.711	1			Olmützer Teil	Olmützer Teil
+114	Jihlava	11	7	4	0	49.396	15.591	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+115	Jindřichův Hradec	2	1	1	0	49.144	15.003	1			Südböhmen	Südböhmen
+116	Judenburg	11	5	5	1	47.167	14.667	1			Nordsteiermark	Nordsteiermark
+117	Jundrov	1	0	0	1	49.208	16.545	1			Brünner Teil	Brünner Teil
+118	Kadaň	2	0	2	0	50.376	13.271	1			Nordwestböhmen	Nordwestböhmen
+119	Kaliningrad	1	1	0	0	54.706	20.511	1			Preussen	Preussen
+120	Kalisz	1	1	0	0	51.762	18.090	1			Pollen	Pollen
+121	Kamnik	1	0	1	0	46.223	14.606	1			Krain	Krain
+122	Kamýk nad Vltavou	3	3	0	0	49.639	14.253	1			Mittelböhmen	Mittelböhmen
+123	Kappling	1	0	1	0	48.144	13.902	1			Oberösterreich	Oberösterreich
+124	Kärnten	1	0	1	0			2			Kärnten	Kärnten
+125	Kienberg	1	0	0	1	46.777	14.770	1			Westkärnten	Westkärnten
+126	Kirchberg am Wechsel	1	0	1	0	47.610	15.989	1			Südostniederösterreich	Südostniederösterreich
+127	Kircheim (verschollene?)	0	0	0	0			1			Nordostniederösterreich	Nordostniederösterreich
+128	Kladruby	4	2	2	0	49.712	12.995	3			Südwestböhmen	Südwestböhmen
+129	Klagenfurt	1	0	0	1	46.624	14.310	1			Ostkärnten	Ostkärnten
+130	Klatovy	2	0	2	0	49.396	13.295	1			Südwestböhmen	Südwestböhmen
+131	Kleinweikersdorf	2	1	0	1	48.631	16.198	1			Nordostniederösterreich	Nordostniederösterreich
+132	Kleinzwettl	1	0	0	1	48.881	15.215	1			Nordwestniederösterreich	Nordwestniederösterreich
+133	Klevevž (Klingenfels)	1	0	1	0	45.907	15.233	2			Krain	Krain
+134	Kłodzko	3	0	3	0	50.435	16.661	1			Nordostböhmen	Nordostböhmen
+135	Klosterneuburg	9	1	8	0	48.305	16.325	1			Wien	Wien
+136	Knínice - Konice	1	0	0	1	49.569	16.793	2	oblast		Olmützer Teil	Olmützer Teil
+137	Knittelfeld	1	0	1	0	47.200	14.836	1			Nordsteiermark	Nordsteiermark
+138	Kolín	1	0	1	0	50.028	15.203	1			Ostböhmen	Ostböhmen
+139	Königsbrunn am Wagram	4	0	4	0	48.387	15.932	1			Nordostniederösterreich	Nordostniederösterreich
+140	Korneuburg	8	7	1	0	48.340	16.330	1			Wien	Wien
+141	Kostanjevica na Krki	7	2	4	1	45.846	15.420	1			Krain	Krain
+142	Kostelec	1	0	0	1	50.151	17.671	4	část dnešní obce Radynia		Troppauer Teil	Troppauer Teil
+143	Kostelní Myslová	1	0	0	1	49.148	15.429	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+144	Kouřim	1	0	1	0	50.003	14.976	1			Ostböhmen	Ostböhmen
+145	Kozłówki	1	0	0	1	50.089	17.968	1			Troppauer Teil	Troppauer Teil
+146	Krain	0	0	0	0			2			Krain	Krain
+147	Krakauer Land	0	0	0	0			2			Krakauer Land	Krakauer Land
+148	Kraków	2	0	2	0	50.061	19.937	1			Krakauer Land	Krakauer Land
+149	Kraslice	1	0	0	1	50.324	12.517	1			Nordwestböhmen	Nordwestböhmen
+150	Kravaře u České Lípy	2	1	1	0	50.632	14.392	1			Nordböhmen	Nordböhmen
+151	Krems an der Donau	41	32	3	6	48.410	15.620	1			Nordwestniederösterreich	Nordwestniederösterreich
+152	Kremsmünster	8	0	8	0	48.053	14.128	1			Oberösterreich	Oberösterreich
+153	Křivoklát	7	7	0	0	50.038	13.872	1			Mittelböhmen	Mittelböhmen
+154	Krnov	1	0	1	0	50.090	17.704	1			Troppauer Teil	Troppauer Teil
+155	Kroměříž	7	6	1	0	49.298	17.393	1			Olmützer Teil	Olmützer Teil
+156	Krumau an der Kamp	4	3	0	1	48.591	15.448	1			Nordwestniederösterreich	Nordwestniederösterreich
+157	Krzanowice	1	0	1	0	50.018	18.122	1			Troppauer Teil	Troppauer Teil
+158	Kühnring	1	1	0	0	48.633	15.783	1			Nordostniederösterreich	Nordostniederösterreich
+159	Kumberg	1	0	0	1	47.160	15.535	1			Mittelsteiermark	Mittelsteiermark
+160	Kvítkovice	1	0	1	0	48.957	14.331	1			Südböhmen	Südböhmen
+161	Laa an der Thaya	13	11	2	0	48.728	16.384	1			Nordostniederösterreich	Nordostniederösterreich
+162	Ladendorf	1	0	0	1	48.535	16.490	1			Nordostniederösterreich	Nordostniederösterreich
+163	Lahovice	1	0	0	1	49.989	14.395	1			Mittelböhmen	Mittelböhmen
+164	Lambach	2	0	2	0	48.091	13.877	1			Oberösterreich	Oberösterreich
+165	Laufen	1	1	0	0	47.935	12.931	1			Salzburg	Salzburg
+166	Lavanttal	1	0	1	0	46.700	14.860	1			Ostkärnten	Ostkärnten
+167	Ledce	1	0	0	1	49.822	13.328	1			Südwestböhmen	Südwestböhmen
+168	Leibnitz	2	0	0	2	46.782	15.539	1			Mittelsteiermark	Mittelsteiermark
+169	Leising bei Kraubath	2	0	0	2	47.299	14.934	1			Nordsteiermark	Nordsteiermark
+170	Lemberg pri Novi Cerkvi/Lemberg bei Neuhaus	2	0	2	0	46.322	15.247	1			Südsteiermark	Südsteiermark
+171	Lengbach	0	0	0	0	48.186	15.964	2	Toto je iba nejaké rieka asi		Südostniederösterreich	Südostniederösterreich
+172	Leoben	3	2	1	0	47.379	15.095	1			Nordsteiermark	Nordsteiermark
+173	Leobendorf	1	0	0	1	48.374	16.324	1			Nordostniederösterreich	Nordostniederösterreich
+174	Lešany	1	0	1	0	49.500	17.024	1			Olmützer Teil	Olmützer Teil
+175	Lhota	1	0	0	1	49.312	16.954	1			Olmützer Teil	Olmützer Teil
+176	Lichnice	1	0	1	0	49.879	15.586	1	49.2614067, 13.9023714		Böhmischmährische Höhe	Böhmischmährische Höhe
+177	Liechtenstein	3	0	3	0	48.093	16.270	2			Südostniederösterreich	Südostniederösterreich
+178	Liesing	1	0	0	1	48.146	16.299	1			Nordsteiermark	Nordsteiermark
+179	Lilienfeld	19	4	15	0	48.014	15.598	1			Südwestniederösterreich	Südwestniederösterreich
+180	Linz	30	19	4	7	48.306	14.286	1			Oberösterreich	Oberösterreich
+181	Litoměřice	10	4	6	0	50.533	14.132	1			Nordböhmen	Nordböhmen
+182	Litomyšl	8	0	8	0	49.868	16.313	1			Ostböhmen	Ostböhmen
+183	Litovel	1	0	1	0	49.701	17.076	1			Olmützer Teil	Olmützer Teil
+184	Lobenstein	2	0	2	0	48.445	14.237	1			Oberösterreich	Oberösterreich
+185	Logvino	1	1	0	0	54.766	20.208	1			Preussen	Preussen
+186	Loket	1	1	0	0	50.187	12.754	1			Südwestböhmen	Südwestböhmen
+187	Losenstein	1	0	0	1	47.925	14.438	1			Oberösterreich	Oberösterreich
+188	Louka	1	0	1	0	48.841	16.059	1			Znaimer Teil	Znaimer Teil
+189	Lovešice	1	0	0	1	49.427	17.450	1			Nordostmähren	Nordostmähren
+190	Lovosice	1	0	0	1	50.515	14.051	1			Nordböhmen	Nordböhmen
+191	Lubljana	2	1	1	0	46.050	14.507	1			Krain	Krain
+192	Lukov	2	0	1	1	49.073	15.824	1			Znaimer Teil	Znaimer Teil
+193	Magyaróvár	3	1	2	0	47.873	17.264	1			Westungarn	Westungarn
+194	Machland	1	0	1	0						Nordwestniederösterreich	Nordwestniederösterreich
+195	Mähren	4	0	4	0			2			Mähren	Mähren
+196	Mailberg	6	1	5	0	48.673	16.183	1			Nordostniederösterreich	Nordostniederösterreich
+197	Mainz	3	0	3	0	50.001	8.272	1			Rheinland	Rheinland
+198	Maissau	2	0	2	0	48.569	15.792	1			Nordostniederösterreich	Nordostniederösterreich
+199	Makarov	1	0	0	1	49.245	13.807	1			Südböhmen	Südböhmen
+200	Malé Hoštice	1	0	0	1	49.938	17.944	1			Troppauer Teil	Troppauer Teil
+201	Marchegg	5	2	2	1	48.257	16.891	1			Nordostniederösterreich	Nordostniederösterreich
+202	Maria Enzersdorf	2	0	0	2	48.097	16.285	1			Südostniederösterreich	Südostniederösterreich
+203	Mariazell	3	2	0	1	47.772	15.317	1			Nordsteiermark	Nordsteiermark
+204	Maribor	6	5	0	1	46.554	15.648	1			Südsteiermark	Südsteiermark
+205	Marienthal	3	0	3	0	50.997	14.926	1			Nordböhmen	Nordböhmen
+206	Martinsberg	2	0	0	2	48.376	15.149	1			Nordwestniederösterreich	Nordwestniederösterreich
+207	Massenburg	2	0	1	1	47.375	15.097	1			Nordsteiermark	Nordsteiermark
+208	Mauthausen	3	0	0	3	48.241	14.516	1			Oberösterreich	Oberösterreich
+209	Meissen	1	0	1	0	51.163	13.470	1			Meissen	Meissen
+210	region Meissen	0	0	0	0			2			Meissen	Meissen
+211	Mel'nikovo	1	1	0	0	54.875	20.461	1			Preussen	Preussen
+212	Melk	8	0	7	1	48.228	15.330	1			Südwestniederösterreich	Südwestniederösterreich
+213	Mělník	4	0	4	0	50.351	14.474	1			Nordböhmen	Nordböhmen
+214	Metten	4	0	4	0	48.852	12.914	3	Je ich viac v Nemecku		Bayern	Bayern
+215	Michelhausen	2	0	0	2	48.290	15.937	1			Südostniederösterreich	Südostniederösterreich
+216	Michelndorf	1	0	0	1	48.280	15.895	1			Südostniederösterreich	Südostniederösterreich
+217	Michelstetten	1	0	0	1	48.583	16.429	1			Nordostniederösterreich	Nordostniederösterreich
+218	Mikulov	3	0	2	1	48.806	16.638	1			Znaimer Teil	Znaimer Teil
+219	Mikulovce	1	0	0	1	50.389	13.228	1			Nordwestböhmen	Nordwestböhmen
+220	Miletín	1	0	1	0	50.489	15.678	1			Nordostböhmen	Nordostböhmen
+221	Milevsko	1	1	0	0	49.450	14.361	1			Südböhmen	Südböhmen
+222	Mirotice	1	0	1	0	49.429	14.037	1			Südböhmen	Südböhmen
+223	Mírov	2	2	0	0	49.798	16.848	1			Olmützer Teil	Olmützer Teil
+224	Mittelböhmen	0	0	0	0			2			Mittelböhmen	Mittelböhmen
+225	Mittelsteiermark	0	0	0	0			2			Mittelsteiermark	Mittelsteiermark
+226	Mödling	3	0	0	3	48.086	16.283	1			Südostniederösterreich	Südostniederösterreich
+227	Modřice	4	4	0	0	49.128	16.615	1			Brünner Teil	Brünner Teil
+228	Mokrá	1	0	0	1	48.758	14.132	1			Südböhmen	Südböhmen
+229	Mokrá	1	0	0	1	48.758	14.132	1			Südböhmen	Südböhmen
+230	Molln	2	0	1	1	47.886	14.257	1			Oberösterreich	Oberösterreich
+231	Mondsee	7	0	7	0	47.855	13.350	1			Salzburg	Salzburg
+232	Moravská Loděnice	1	0	0	1	49.661	17.277	3			Olmützer Teil	Olmützer Teil
+233	Moravské Málkovice	1	0	1	0	49.219	17.005	1			Olmützer Teil	Olmützer Teil
+234	Moson	1	1	0	0	47.859	17.262	2			Westungarn	Westungarn
+235	Most	5	1	3	1	50.503	13.636	1			Nordwestböhmen	Nordwestböhmen
+236	Mühldorf	1	1	0	0	48.242	12.524	1	Muhldorf am Inn		Bayern	Bayern
+237	Münchendorf	1	1	0	0	48.030	16.379	1			Südostniederösterreich	Südostniederösterreich
+238	Münichreith um Garsten	1	0	0	1	48.020	14.411	2			Oberösterreich	Oberösterreich
+239	Muta	1	0	0	1	46.609	15.165	1			Ostkärnten	Ostkärnten
+240	Muthmannsdorf	1	0	0	1	47.839	16.111	1			Südostniederösterreich	Südostniederösterreich
+241	Myšenec	1	1	0	0	49.223	14.208	1			Südböhmen	Südböhmen
+242	Němčice	1	0	0	1	49.031	14.269	1			Südböhmen	Südböhmen
+243	Nenakovice	1	0	0	1	49.470	17.287	1			Olmützer Teil	Olmützer Teil
+244	Neprobylice 	1	0	0	1	50.264	14.028	1			Mittelböhmen	Mittelböhmen
+245	Netolice	1	1	0	0	49.050	14.197	1			Südböhmen	Südböhmen
+246	Neuburg am Inn	9	1	2	6	48.518	13.405	1			Oberösterreich	Oberösterreich
+247	Neuhofen an der Ybbs	1	0	0	1	48.060	14.851	1			Südwestniederösterreich	Südwestniederösterreich
+248	Neulengbach	2	0	2	0	48.199	15.910	1			Südostniederösterreich	Südostniederösterreich
+249	Neumarkt	3	0	1	2	47.058	14.438	1			Nordsteiermark	Nordsteiermark
+250	Neunkirchen	2	1	1	0	47.727	16.082	3	V Nemecku sú ďalšie		Südostniederösterreich	Südostniederösterreich
+251	Neuruppersdorf	1	0	1	0	48.752	16.519	1			Nordostniederösterreich	Nordostniederösterreich
+252	Niederabsdorf	1	0	0	1	48.568	16.857	1			Nordostniederösterreich	Nordostniederösterreich
+253	Niederaltaich	5	0	5	0	48.766	13.027	1			Bayern	Bayern
+254	Niederhollabrunn	2	0	0	2	48.449	16.311	1			Nordostniederösterreich	Nordostniederösterreich
+255	Niederösterreich	5	0	5	0			2			Niederösterreich	Niederösterreich
+256	Nisowje	1	1	0	0	54.703	20.739	1			Preussen	Preussen
+257	Nitra	1	0	1	0	48.313	18.089	1			Westungarn	Westungarn
+258	Nittenau	1	1	0	0	49.196	12.268	1			Bayern	Bayern
+259	Nižbor	2	2	0	0	50.002	14.003	1			Mittelböhmen	Mittelböhmen
+260	Nordböhmen	0	0	0	0			2			Nordböhmen	Nordböhmen
+261	Nordkärnten	0	0	0	0			2			Ostkärnten	Ostkärnten
+262	Nordostböhmen	0	0	0	0			2			Nordostböhmen	Nordostböhmen
+263	Nordostmähren	1	0	1	0			2			Nordostmähren	Nordostmähren
+264	Nordostniederösterreich	0	0	0	0			2			Nordostniederösterreich	Nordostniederösterreich
+265	Nordostniederösterreich (Ausland)	0	0	0	0			2			Nordostniederösterreich (Ausland)	Nordostniederösterreich (Ausland)
+266	Nordoststeiermark	0	0	0	0			2			Nordsteiermark	Nordsteiermark
+267	Nordsteiermark	0	0	0	0			2			Nordsteiermark	Nordsteiermark
+268	Nordwestböhmen	0	0	0	0			2			Nordwestböhmen	Nordwestböhmen
+269	Nordwestniederösterreich	0	0	0	0			2			Nordwestniederösterreich	Nordwestniederösterreich
+270	Nordwestniederösterreich, Nordostniederösterreich	0	0	0	0			2			Nordwestniederösterreich, Nordostniederösterreich	Nordwestniederösterreich, Nordostniederösterreich
+271	Norsteiermark	0	0	0	0			2			Nordsteiermark	Nordsteiermark
+272	Nová Říše	1	0	1	0	49.139	15.564	1			Znaimer Teil	Znaimer Teil
+273	Novákovice	2	0	0	2	49.375	13.262	1			Südwestböhmen	Südwestböhmen
+274	Nowa Cerekwia	2	0	0	2	50.091	17.930	1			Troppauer Teil	Troppauer Teil
+275	Nučice	1	1	0	0	49.956	14.884	1			Mittelböhmen	Mittelböhmen
+276	Nürnberg	9	0	9	0	49.452	11.075	1			Bayern	Bayern
+277	Nuzice	1	0	0	1	49.272	14.457	1			Südböhmen	Südböhmen
+278	Nymburk	1	0	1	0	50.186	15.042	1			Ostböhmen	Ostböhmen
+279	Oberösterreich	6	0	6	0			2			Oberösterreich	Oberösterreich
+280	Oberösterreich	6	0	6	0			2			Oberösterreich	Oberösterreich
+281	Oberseifersdorf	1	0	0	1	50.942	14.805	1			Nordböhmen	Nordböhmen
+282	Öblarn	1	0	0	1	47.459	13.992	1			Nordsteiermark	Nordsteiermark
+283	Očihovec	1	0	0	1	50.190	13.474	1			Nordwestböhmen	Nordwestböhmen
+284	Offenburg	3	0	3	0	47.234	14.595	1			Nordsteiermark	Nordsteiermark
+285	Ohučov	1	0	0	1	49.570	13.080	1			Südwestböhmen	Südwestböhmen
+286	Ollern	1	0	0	1	48.267	16.085	1			Südostniederösterreich	Südostniederösterreich
+287	Olmützer Teil	1	0	1	0			2			Olmützer Teil	Olmützer Teil
+288	Olomouc	53	22	27	4	49.596	17.252	1			Olmützer Teil	Olmützer Teil
+289	Opatovice nad Labem	2	0	2	0	50.145	15.790	3			Ostböhmen	Ostböhmen
+290	Opava	10	5	4	1	49.939	17.903	1			Troppauer Teil	Troppauer Teil
+291	Opavice 	1	0	0	1	50.151	17.596	1			Troppauer Teil	Troppauer Teil
+292	Opole	1	0	1	0	50.672	17.925	1			Schlesien	Schlesien
+293	Orlamünde	1	1	0	0	50.776	11.527	1			Brandenburg	Brandenburg
+294	Osek	7	0	7	0	50.621	13.693	1			Nordböhmen	Nordböhmen
+295	Oslavany	5	1	4	0	49.123	16.337	1			Brünner Teil	Brünner Teil
+296	Ostböhmen	0	0	0	0			2			Ostböhmen	Ostböhmen
+297	Osterhofen	2	0	2	0	48.687	12.997	1			Bayern	Bayern
+298	Ostkärnten	2	0	2	0			2			Ostkärnten	Ostkärnten
+299	Ostritz	0	0	0	0	51.016	14.931	1			Nordböhmen	Nordböhmen
+300	Ostrov	2	0	2	0	50.308	12.949	1			Nordwestböhmen	Nordwestböhmen
+301	Ostrov u Davle	0	0	0	0	49.880	14.391	1			Mittelböhmen	Mittelböhmen
+302	Osttkärnten (Ausland)	0	0	0	0			2			Ostkärnten (Ausland)	Ostkärnten (Ausland)
+303	Ottenschlag im Mühlkreis	1	0	0	1	48.467	14.384	1			Oberösterreich	Oberösterreich
+304	Ottensheim	1	0	1	0	48.332	14.175	1			Oberösterreich	Oberösterreich
+305	Panbruck	1	0	1	0	48.217	13.717	1			Südwestniederösterreich	Südwestniederösterreich
+306	Pannonhalma	2	1	1	0	47.549	17.755	1			Westungarn	Westungarn
+307	Passau	16	1	15	0	48.575	13.469	1			Bayern	Bayern
+308	Patriarchat Aquileia	0	0	0	0			2			Patriarchat Aquileia	Patriarchat Aquileia
+309	Pellendorf	1	0	0	1	48.098	16.454	1			Südostniederösterreich	Südostniederösterreich
+310	Perchtolsdorf	2	0	2	0	48.122	16.268	1			Südostniederösterreich	Südostniederösterreich
+311	Perg	1	0	1	0	48.250	14.633	1			Nordwestniederösterreich	Nordwestniederösterreich
+312	Pernegg	1	0	0	1	48.739	15.627	1			Nordwestniederösterreich	Nordwestniederösterreich
+313	Persenbeug - Gottsdorf	1	0	0	1	48.190	15.075	1			Nordostniederösterreich	Nordostniederösterreich
+314	Pezinok	2	1	1	0	48.290	17.269	1			Westungarn	Westungarn
+315	Pfannberg	3	0	3	0	47.243	15.343	1			Mittelsteiermark	Mittelsteiermark
+316	Pillichsdorf	1	0	1	0	48.364	16.540	1			Nordostniederösterreich	Nordostniederösterreich
+317	Písek	15	13	1	1	49.309	14.148	1			Südböhmen	Südböhmen
+318	Planá	3	0	1	2	49.868	12.744	1			Südwestböhmen	Südwestböhmen
+319	Planina pri Sevnici	1	0	1	0	46.105	15.405	1			Krain	Krain
+320	Plasy	12	5	7	0	49.934	13.390	1			Mittelböhmen	Mittelböhmen
+321	Plauen	1	0	1	0	50.494	12.139	1			Bayern	Bayern
+322	Plchov	1	0	0	1	50.255	13.987	1			Mittelböhmen	Mittelböhmen
+323	Plzeň	1	0	0	1	49.745	13.374	1			Südwestböhmen	Südwestböhmen
+324	Poboří	1	0	0	1	50.024	15.047	1			Ostböhmen	Ostböhmen
+325	Poděbrady	9	9	0	0	50.142	15.119	1			Ostböhmen	Ostböhmen
+326	Podgrad	1	0	0	1	46.131	15.226	1			Südsteiermark	Südsteiermark
+327	Podmokly	1	0	0	1	49.943	13.705	1			Mittelböhmen	Mittelböhmen
+328	Podůlšany	1	0	0	1	50.129	15.738	1			Ostböhmen	Ostböhmen
+329	Pohled	1	0	1	0	49.604	15.648	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+330	Pohořelice	2	1	0	1	48.981	16.520	1			Brünner Teil	Brünner Teil
+331	Police nad Metují	2	0	1	1	50.537	16.234	1			Nordostböhmen	Nordostböhmen
+332	Polička	1	0	1	0	49.715	16.265	1			Ostböhmen	Ostböhmen
+333	Pollen	0	0	0	0			2			Pollen	Pollen
+334	Possendorf	1	0	0	1			1			Südostniederösterreich	Südostniederösterreich
+335	Postoloprty	1	0	1	0	50.360	13.703	1			Nordwestböhmen	Nordwestböhmen
+336	Pottschach	1	0	1	0	47.704	16.000	3	Druhý je na hraniciach SI-AT		Südostniederösterreich	Südostniederösterreich
+337	Pottenburg	1	1	0	0	48.119	17.026	1			Westungarn	Westungarn
+338	Pottschach	1	0	1	0	47.702	16.012	1			Südostniederösterreich	Südostniederösterreich
+339	Prácheň	1	0	0	1	49.316	13.681	1			Südböhmen	Südböhmen
+340	Prag	0	0	0	0			2			Prag	Prag
+341	Praha	224	174	44	6	50.090	14.410	1			Prag	Prag
+342	Přelouč	1	0	1	0	50.040	15.560	1			Ostböhmen	Ostböhmen
+343	Prepolje	1	0	0	1	46.445	15.765	1			Südsteiermark	Südsteiermark
+344	Přerov	2	0	1	1	49.455	17.451	1			Nordostmähren	Nordostmähren
+345	Přešovice	1	0	0	1	49.050	16.061	1			Znaimer Teil	Znaimer Teil
+346	Preussen	0	0	0	0			2			Preussen	Preussen
+347	Příbor	1	0	1	0	49.641	18.145	1			Nordostmähren	Nordostmähren
+348	Přibyslavice	1	0	1	0	49.261	15.778	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+349	Přimda	1	0	1	0	49.675	12.674	1			Südwestböhmen	Südwestböhmen
+350	Přištpo	1	1	0	0	49.074	15.935	1			Znaimer Teil	Znaimer Teil
+351	Probstdorf	1	0	0	1	48.170	16.616	1			Nordostniederösterreich	Nordostniederösterreich
+352	Prudnik	1	0	0	1	50.318	17.576	1			Troppauer Teil	Troppauer Teil
+353	Prüfening	1	0	1	0	49.009	12.045	1			Bayern	Bayern
+354	Prunéřov	1	0	0	1	50.430	13.260	1			Nordwestböhmen	Nordwestböhmen
+355	Ptuj	4	0	4	0	46.422	15.879	1			Südsteiermark	Südsteiermark
+356	Puchheim	1	0	1	0	48.011	13.721	1			Oberösterreich	Oberösterreich
+357	Purschenstein	1	0	0	1	50.676	13.463	1			Nordwestböhmen	Nordwestböhmen
+358	Pustiměř	2	2	0	0	49.323	17.028	1			Olmützer Teil	Olmützer Teil
+359	Raabs an der Thaya	4	0	2	2	48.848	15.492	1			Nordwestniederösterreich	Nordwestniederösterreich
+360	Rabenstein	0	0	0	0	47.401	14.815	1			Nordsteiermark	Nordsteiermark
+361	Radkersburg -Bad Radkersburg	1	1	0	0	46.693	15.991	1			Mittelsteiermark	Mittelsteiermark
+362	Radlje ob Dravi	3	0	3	0	46.615	15.222	1			Südsteiermark	Südsteiermark
+363	Radynia	1	0	0	1	50.151	17.671	1			Troppauer Teil	Troppauer Teil
+364	Ragogna	1	0	1	0	46.174	12.983	1			Patriarchat Aquileia 	Patriarchat Aquileia 
+365	Raitenhaslach	3	0	3	0	48.129	12.787	1			Bayern	Bayern
+366	Rakovník	1	0	0	1	50.104	13.733	1			Mittelböhmen	Mittelböhmen
+367	Randegg	4	0	0	4	48.011	14.973	1			Südwestniederösterreich	Südwestniederösterreich
+368	Rauchenwarth	1	0	0	1	48.084	16.530	1			Südostniederösterreich	Südostniederösterreich
+369	Řečkovice	1	0	0	1	49.251	16.579	1			Brünner Teil	Brünner Teil
+370	Regensburg	5	1	4	0	49.015	12.102	1			Bayern	Bayern
+371	Regenstauf	1	1	0	0	49.155	12.170	1			Bayern	Bayern
+372	Reichersberg	1	0	1	0	48.338	13.358	1			Bayern	Bayern
+373	Rein	9	1	8	0	47.135	15.285	1			Mittelsteiermark	Mittelsteiermark
+374	Reinsberg	2	0	2	0	47.986	15.072	1			Südwestniederösterreich	Südwestniederösterreich
+375	Répca (Fluss)	0	0	0	0	47.596	16.992	2			Westungarn	Westungarn
+376	Řeporyje	1	0	0	1	50.032	14.304	1			Mittelböhmen	Mittelböhmen
+377	Rettenbach in Oststeiermark	1	0	0	1	46.986	15.605	2			Mittelsteiermark	Mittelsteiermark
+378	Retz	1	0	0	1	48.757	15.952	1			Nordostniederösterreich	Nordostniederösterreich
+379	Řevnice	1	0	0	1	49.913	14.233	1			Mittelböhmen	Mittelböhmen
+380	Rheinland	0	0	0	0			2			Rheinland	Rheinland
+381	Ried am Riederberg	1	0	0	1	48.255	16.065	1			Südostniederösterreich	Südostniederösterreich
+382	Ried im Innkreis	2	1	1	0	48.209	13.488	1	BUrg		Oberösterreich	Oberösterreich
+383	Rinchnach	1	0	1	0	48.950	13.199	1			Bayern	Bayern
+384	Rohr	1	1	0	0	48.776	11.990	3			Bayern	Bayern
+385	Rohr im Kremstal	1	0	1	0	48.067	14.190	1			Oberösterreich	Oberösterreich
+386	Röhrenbach	2	0	0	2	48.663	15.489	3			Nordwestniederösterreich	Nordwestniederösterreich
+387	Rossatz	1	0	0	1	48.398	15.505	1			Südwestniederösterreich	Südwestniederösterreich
+388	Roštín	1	0	0	1	49.189	17.286	1			Olmützer Teil	Olmützer Teil
+389	Rottenmann	1	0	0	1	47.527	14.360	1			Nordsteiermark	Nordsteiermark
+390	Rouchovany	1	0	1	0	49.070	16.108	1			Znaimer Teil	Znaimer Teil
+391	Rožmberk nad Vltavou	6	0	6	0	48.654	14.365	1			Südböhmen	Südböhmen
+392	Rožnov u Českých Budějovic	1	0	0	1	48.948	14.467	1			Südböhmen	Südböhmen
+393	Rozvadovice	1	0	0	1	49.676	17.092	1			Olmützer Teil	Olmützer Teil
+394	Rudeč	1	0	0	1	50.236	14.585	1			Mittelböhmen	Mittelböhmen
+395	Ruprechtsdorf	1	0	1	0			3	nicht identifiziert		Nordostniederösterreich	Nordostniederösterreich
+396	Russdorf bei Ostritz	1	0	0	1	51.016	14.931	2			Nordböhmen	Nordböhmen
+397	Ruzyně	1	0	0	1	50.090	14.312	1			Mittelböhmen	Mittelböhmen
+398	Rýzmburk	3	0	3	0	50.634	13.665	1			Nordwestböhmen	Nordwestböhmen
+399	Sadská	3	3	0	0	50.134	14.985	1			Ostböhmen	Ostböhmen
+400	Salzburg	21	1	20	0	47.797	13.048	1			Salzburg	Salzburg
+401	Salzburg	21	1	20	0			2			Salzburg	Salzburg
+402	Sankt Georgen an der Stiefing	1	0	0	1	46.878	15.576	1			Mittelsteiermark	Mittelsteiermark
+403	Sankt Peter am Kammersberg	1	0	0	1	47.186	14.189	1			Nordsteiermark	Nordsteiermark
+404	Sankt Peter in der Au-Markt, Austria	1	0	0	1	48.044	14.621	1			Oberösterreich	Oberösterreich
+405	Sankt Veit an der Gölsen	1	0	0	1	48.044	15.671	1			Südwestniederösterreich	Südwestniederösterreich
+406	Sayda	1	0	0	1	50.712	13.419	1			Nordwestböhmen	Nordwestböhmen
+407	Scharlinz	0	0	0	0	48.268	14.316	1			Oberösterreich	Oberösterreich
+408	Schlesien	0	0	0	0			2			Schlesien	Schlesien
+409	Schönau an der Triesting	0	0	0	0	48.172	16.615	3			Nordostniederösterreich	Nordostniederösterreich
+410	Schönberg am Kamp	1	0	1	0	48.539	15.680	1			Nordwestniederösterreich	Nordwestniederösterreich
+411	Schwechat	1	0	0	1	48.141	16.477	1			Südostniederösterreich	Südostniederösterreich
+412	Sebranice	1	0	0	1	49.497	16.575	1			Brünner Teil	Brünner Teil
+413	Seckau	25	0	25	0	47.275	14.786	1			Nordsteiermark	Nordsteiermark
+414	Sedlec	4	0	4	0	49.961	15.288	1			Ostböhmen	Ostböhmen
+415	Sedlisko	1	0	0	1	49.640	17.217	3	Sedlisko u Olomouce, Horka nad Moravou		Olmützer Teil	Olmützer Teil
+416	Seefeld	2	0	2	0	48.724	16.191	1			Nordostniederösterreich	Nordostniederösterreich
+417	Seitenstetten	3	1	2	0	48.036	14.655	1			Südwestniederösterreich	Südwestniederösterreich
+418	Sereď	1	1	0	0	48.285	17.733	1			Westungarn	Westungarn
+419	Sewernaja Gora	1	1	0	0	54.760	20.550	1			Preussen	Preussen
+420	Sitzenberg	2	1	1	0	48.321	15.809	1	Druhá je v Bavorsku		Südwestniederösterreich	Südwestniederösterreich
+421	Skřípov	1	0	0	1	49.819	17.910	2			Troppauer Teil	Troppauer Teil
+422	Šlapanice	1	1	0	0	49.169	16.727	1			Brünner Teil	Brünner Teil
+423	Slovenj Gradec	2	2	0	0	46.516	15.079	1			Ostkärnten	Ostkärnten
+424	Sobotovice	1	0	0	1	49.060	16.557	1			Brünner Teil	Brünner Teil
+425	Söding	2	0	0	2	47.000	15.291	1			Mittelsteiermark	Mittelsteiermark
+426	Sonnegg	2	0	0	2	46.559	14.641	3			Ostkärnten	Ostkärnten
+427	Sopron	4	2	2	0	47.685	16.590	1			Westungarn	Westungarn
+428	Spital am Pyhrn	4	0	4	0	47.665	14.340	1			Oberösterreich	Oberösterreich
+429	Spital am Semmering	5	0	5	0	47.615	15.752	1			Nordsteiermark	Nordsteiermark
+430	St. Florian	4	1	3	0	48.206	14.379	1			Oberösterreich	Oberösterreich
+431	St. Lambrecht	8	0	8	0	47.072	14.300	1			Nordsteiermark	Nordsteiermark
+432	St. Martin	1	0	0	1	47.100	13.654	1			Salzburg	Salzburg
+433	St. Pölten	7	0	7	0	48.200	15.633	1			Südwestniederösterreich	Südwestniederösterreich
+434	Staatz	0	0	0	0	48.693	16.487	1			Nordostniederösterreich	Nordostniederösterreich
+435	Stadlau	1	0	1	0	48.221	16.449	3			Wien	Wien
+436	Stainz	1	0	1	0	46.894	15.264	1			Mittelsteiermark	Mittelsteiermark
+437	Stammersdorf	2	0	0	2	48.301	16.422	1			Nordostniederösterreich	Nordostniederösterreich
+438	Staňkov	1	0	0	1	49.554	13.072	1			Südwestböhmen	Südwestböhmen
+439	Stará Říše	2	0	2	0	49.180	15.595	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+440	Steiermark	5	0	5	0			2			Steiermark	Steiermark
+441	Stein an der Donau	6	0	2	4	48.402	15.582	1			Nordwestniederösterreich	Nordwestniederösterreich
+442	Šternberk	0	0	0	0	49.730	17.298	1			Olmützer Teil	Olmützer Teil
+443	Steyeregg	1	0	1	0	48.283	14.369	1			Oberösterreich	Oberösterreich
+444	Steyr	5	2	1	2	48.039	14.419	1			Oberösterreich	Oberösterreich
+445	Stičná	1	1	0	0	45.957	14.806	1			Krain	Krain
+446	Strahov	4	0	4	0	50.083	14.386	1			Prag	Prag
+447	Strakonice	3	0	3	0	49.261	13.902	1			Südböhmen	Südböhmen
+448	Straning-Grafenberg	3	0	0	3	48.611	15.864	1			Nordostniederösterreich	Nordostniederösterreich
+449	Stranzendorf	1	0	0	1	48.452	16.082	1			Nordostniederösterreich	Nordostniederösterreich
+450	Straßberg	2	0	0	2	45.993	15.158	1	hrad		Krain	Krain
+451	Stratzing	0	0	0	0	48.450	15.607	1			Nordwestniederösterreich	Nordwestniederösterreich
+452	Strettweg	5	0	3	2	47.176	14.656	1			Nordsteiermark	Nordsteiermark
+453	Stříbro	3	1	1	1	49.752	13.003	1			Südwestböhmen	Südwestböhmen
+454	Střílky	1	0	1	0	49.140	17.215	1			Brünner Teil	Brünner Teil
+455	Stubenberg	2	0	2	0	47.251	15.807	1			Südsteiermark	Südsteiermark
+456	Studenice	2	0	2	0	46.302	15.613	1			Südsteiermark	Südsteiermark
+457	Südböhmen	1	0	0	1			2			Südböhmen	Südböhmen
+458	Sudice	1	0	0	1	49.530	16.669	1			Brünner Teil	Brünner Teil
+459	Südostmähren	0	0	0	0			2			Südostmähren	Südostmähren
+460	Südostniederösterreich	0	0	0	0			2			Südostniederösterreich	Südostniederösterreich
+461	Südsteiermark	0	0	0	0			2			Südsteiermark	Südsteiermark
+462	Südwestböhmen	0	0	0	0			2			Südwestböhmen	Südwestböhmen
+463	Sudwestniederösterreich	0	0	0	0			2			Sudwestniederösterreich	Sudwestniederösterreich
+464	Südwestniederösterreich	0	0	0	0			2			Südwestniederösterreich	Südwestniederösterreich
+465	Sušice	1	0	1	0	49.231	13.520	1			Südböhmen	Südböhmen
+466	Svařenice	1	0	0	1	50.500	14.300	1			Nordböhmen	Nordböhmen
+467	Svatobor	1	0	0	1	50.244	13.021	1			Nordwestböhmen	Nordwestböhmen
+468	Svätý Júr	2	1	1	0	48.254	17.213	1			Westungarn	Westungarn
+469	Svečina	1	1	0	0	46.666	15.588	1			Südsteiermark	Südsteiermark
+470	Svibno	1	0	1	0	46.064	15.098	1			Krain	Krain
+471	Tachov	2	0	1	1	49.795	12.634	1			Südwestböhmen	Südwestböhmen
+472	Tannberg	1	0	1	0	48.502	13.939	1			Bayern	Bayern
+473	Tegernsee	3	0	3	0	47.710	11.756	1			Bayern	Bayern
+474	Teplá	3	0	3	0	49.980	12.862	1			Südwestböhmen	Südwestböhmen
+475	Ternberg	2	0	1	1	47.946	14.357	1			Oberösterreich	Oberösterreich
+476	Těšetice	1	0	0	1	49.593	17.129	1			Olmützer Teil	Olmützer Teil
+477	Thallern	2	0	0	2	48.050	16.290	3			Südostniederösterreich	Südostniederösterreich
+478	Theiß	1	0	0	1	48.399	15.692	1			Nordwestniederösterreich	Nordwestniederösterreich
+479	Tišnov	4	0	4	0	49.349	16.424	1			Brünner Teil	Brünner Teil
+480	Tittmoning	1	1	0	0	48.063	12.768	1			Salzburg	Salzburg
+481	Tobra	1	0	0	1	48.231	14.686	1			Nordwestniederösterreich	Nordwestniederösterreich
+482	Toruń	1	1	0	0	53.010	18.605	1			Pommern	Pommern
+483	Traboch	1	0	0	1	47.377	14.990	1			Nordsteiermark	Nordsteiermark
+484	Traiskirchen	1	1	0	0	48.014	16.295	1			Südostniederösterreich	Südostniederösterreich
+485	Traubenberg	1	0	0	1	46.950	15.617	1	kopec		Mittelsteiermark	Mittelsteiermark
+486	Třebelovice	1	0	1	0	49.021	15.667	1			Znaimer Teil	Znaimer Teil
+487	Trhové Sviny	2	0	2	0	48.842	14.639	1			Südböhmen	Südböhmen
+488	Trnava	2	1	1	0	48.377	17.586	1			Westungarn	Westungarn
+489	Trnovany	1	0	1	0	50.316	13.601	1			Nordwestböhmen	Nordwestböhmen
+490	Troppauer Teil	0	0	0	0			2			Troppauer Teil	Troppauer Teil
+491	Troppauer Teil Olmützer Teil	0	0	0	0			2			Troppauer Teil Olmützer Teil	Troppauer Teil Olmützer Teil
+492	Trübensee	2	0	1	1	48.362	16.038	1			Nordostniederösterreich	Nordostniederösterreich
+493	Trzebnica	1	1	0	0	51.310	17.063	1			Schlesien	Schlesien
+494	Tulln	9	0	7	2	48.331	16.059	1			Südostniederösterreich	Südostniederösterreich
+495	Türnitz	1	0	0	1	47.929	15.485	1			Südwestniederösterreich	Südwestniederösterreich
+496	Tursko	1	0	0	1	50.191	14.322	1			Mittelböhmen	Mittelböhmen
+497	Úherce	1	0	0	1	50.369	14.990	3			Nordböhmen	Nordböhmen
+498	Uherské Hradiště	6	2	3	1	49.070	17.460	1			Südostmähren	Südostmähren
+499	Uherský Brod	3	0	3	0	49.025	17.647	1			Südostmähren	Südostmähren
+500	Uherský Ostroh	1	1	0	0	48.986	17.390	1			Südostmähren	Südostmähren
+501	Ujazd	1	1	0	0	50.389	18.350	1			Troppauer Teil	Troppauer Teil
+502	Ulmerfeld	1	0	0	1	48.076	14.822	1			Südwestniederösterreich	Südwestniederösterreich
+503	Uničov	1	1	0	0	49.771	17.121	1			Olmützer Teil	Olmützer Teil
+504	Unterlaa	1	0	0	1	48.128	16.419	1			Südostniederösterreich	Südostniederösterreich
+505	Ústí nad Labem	2	0	2	0	50.660	14.041	1			Nordböhmen	Nordböhmen
+506	Valtice	1	0	0	1	48.741	16.755	1			Nordostniederösterreich	Nordostniederösterreich
+507	Velehrad	11	2	9	0	49.105	17.395	1		Mähren	Südostmähren	Südostmähren
+508	Velké Hoštice	1	0	0	1	49.936	17.974	1			Troppauer Teil	Troppauer Teil
+509	Velký Týnec	1	0	0	1	49.552	17.340	1			Olmützer Teil	Olmützer Teil
+510	Vernéřov	1	0	0	1	50.402	13.223	1			Nordwestböhmen	Nordwestböhmen
+511	Veveří	1	1	0	0	49.257	16.462	1			Brünner Teil	Brünner Teil
+512	Viechtwang	1	0	0	1	47.915	13.963	1			Oberösterreich	Oberösterreich
+513	Viehofen	2	0	2	0	48.193	15.620	1			Südwestniederösterreich	Südwestniederösterreich
+514	Viktring	4	0	4	0	46.589	14.270	1			Ostkärnten	Ostkärnten
+515	Vilémov	2	0	2	0	49.814	15.535	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+516	Villach	1	1	0	0	46.610	13.856	1			Westkärnten	Westkärnten
+517	Vöcklabruck	1	1	0	0	48.009	13.653	1			Oberösterreich	Oberösterreich
+518	Vogtland	0	0	0	0			2			Bayern	Bayern
+519	Voitsberg	2	2	0	0	47.050	15.147	1			Mittelsteiermark	Mittelsteiermark
+520	Völkermarkt	1	1	0	0	46.662	14.633	1			Ostkärnten	Ostkärnten
+521	Volkersdorf	1	0	1	0	48.195	14.430	1			Oberösterreich	Oberösterreich
+522	Vornbach	1	0	1	0	48.486	13.442	1			Bayern	Bayern
+523	Vracov	1	1	0	0	48.977	17.209	1			Südostmähren	Südostmähren
+524	Vratěnín	1	0	0	1	48.904	15.595	1			Znaimer Teil	Znaimer Teil
+525	Vsisko	1	0	0	1	49.552	17.314	1			Olmützer Teil	Olmützer Teil
+526	Vyšehrad	13	0	13	0	50.065	14.418	1			Prag	Prag
+527	Vyškov	2	2	0	0	49.280	17.000	1			Olmützer Teil	Olmützer Teil
+528	Vysoké Mýto	1	0	1	0	49.953	16.162	1			Ostböhmen	Ostböhmen
+529	Vyšší Brod	3	1	2	0	48.618	14.312	1			Südböhmen	Südböhmen
+530	Waidhofen	1	0	1	0	47.961	14.774	1			Südwestniederösterreich	Südwestniederösterreich
+531	Waidhofen an der Ybbs	1	0	0	1	47.961	14.774	1			Südwestniederösterreich	Südwestniederösterreich
+532	Waldhausen	0	0	0	0	48.522	15.261	1			Nordwestniederösterreich	Nordwestniederösterreich
+533	Waldhausen im Strudengau	4	0	4	0	48.273	14.948	1			Nordwestniederösterreich	Nordwestniederösterreich
+534	Waldsassen	4	0	4	0	50.004	12.306	1			Egerland	Egerland
+535	Waxenegg	1	0	0	1	47.271	15.680	1	ruiny hradu		Mittelsteiermark	Mittelsteiermark
+536	Weikertschlag	1	0	0	1	48.615	14.856	1			Nordwestniederösterreich	Nordwestniederösterreich
+537	Weiselburg	1	0	0	1	48.130	15.138	1			Südwestniederösterreich	Südwestniederösterreich
+538	Weißenstein	2	0	1	1	46.674	13.744	1			Westkärnten	Westkärnten
+539	Weißkirchen in Steiermark	1	0	0	1	47.158	14.738	1			Nordsteiermark	Nordsteiermark
+540	Weitra	3	0	3	0	48.688	14.932	1			Nordwestniederösterreich	Nordwestniederösterreich
+541	Wels	7	6	0	1	48.158	14.027	1			Oberösterreich	Oberösterreich
+542	Westkärnten	0	0	0	0			2			Westkärnten	Westkärnten
+543	Westungarn	0	0	0	0			2			Westungarn	Westungarn
+544	Wetzleinsdorf	1	0	0	1	48.477	16.385	1			Nordostniederösterreich	Nordostniederösterreich
+545	Wien	147	119	18	10	48.221	16.388	1			Wien	Wien
+546	Wiener Neustadt	23	8	10	5	47.810	16.240	1			Südostniederösterreich	Südostniederösterreich
+547	Wienflusse	1	0	1	0	48.208	16.373	2			Wien	Wien
+548	Wiesenfeld	2	0	1	1	48.050	15.643	3			Südwestniederösterreich	Südwestniederösterreich
+549	Wildon	3	0	3	0	46.888	15.503	1			Mittelsteiermark	Mittelsteiermark
+550	Wilfleinsdorf	1	0	0	1	48.011	16.723	1			Südostniederösterreich	Südostniederösterreich
+551	Wilhemsburg	1	1	0	0	48.105	15.606	1			Südwestniederösterreich	Südwestniederösterreich
+552	Wilhering	9	0	9	0	48.324	14.190	1			Oberösterreich	Oberösterreich
+553	Wimpassing im Schwarzatale	1	0	0	1	47.700	16.032	1			Südostniederösterreich	Südostniederösterreich
+554	Winden am See	2	0	1	1	47.953	16.753	1			Westungarn	Westungarn
+555	Windischgarsten	3	0	0	3	47.722	14.328	1			Oberösterreich	Oberösterreich
+556	Winzendorf-Muthmannsdorf	1	0	0	1	47.810	16.116	1			Südostniederösterreich	Südostniederösterreich
+557	Wolkersdorf	1	0	1	0	48.383	16.518	1			Nordostniederösterreich	Nordostniederösterreich
+558	Wrocław	7	6	1	0	51.109	17.034	1			Schlesien	Schlesien
+559	Ybbs an der Donau	5	0	2	3	48.175	15.064	1			Südwestniederösterreich	Südwestniederösterreich
+560	Ysperklamm	1	0	0	1	48.339	15.061	1			Nordwestniederösterreich	Nordwestniederösterreich
+561	Zábrdovice	1	0	1	0	49.200	16.615	1			Brünner Teil	Brünner Teil
+562	Zahořany	1	0	0	1	49.434	13.002	1			Südwestböhmen	Südwestböhmen
+563	Žalkovice	1	0	0	1	49.372	17.436	1			Nordostmähren	Nordostmähren
+564	Žatec	3	1	1	1	50.330	13.540	1			Nordwestböhmen	Nordwestböhmen
+565	Zbraslav	3	3	0	0	49.976	14.394	1			Mittelböhmen	Mittelböhmen
+566	Zbůch	1	0	0	1	49.678	13.226	1			Südwestböhmen	Südwestböhmen
+567	Žďákov	1	0	0	1	49.505	14.167	2	zaniklé		Südböhmen	Südböhmen
+568	Ždánice	1	0	0	1	49.969	14.959	1			Ostböhmen	Ostböhmen
+569	Žďár nad Sázavou	6	0	6	0	49.564	15.939	1			Böhmischmährische Höhe	Böhmischmährische Höhe
+570	Zduchovice	0	0	0	0	49.639	14.209	1			Mittelböhmen	Mittelböhmen
+571	Železná	1	0	0	1	49.969	14.959	1			Mittelböhmen	Mittelböhmen
+572	Zelking-Matzleinsdorf	1	0	1	0	48.183	15.255	1			Südwestniederösterreich	Südwestniederösterreich
+573	Zhoř (Tachov)	1	0	0	1	49.660	12.969	1			Südwestböhmen	Südwestböhmen
+574	Žiče	3	0	3	0	46.315	15.476	3	Na severe SI je ďalšia Žiče		Südsteiermark	Südsteiermark
+575	Zlatá Koruna	5	0	5	0	48.855	14.370	1			Südböhmen	Südböhmen
+576	Zlatníky	1	0	0	1	49.942	17.830	3			Troppauer Teil	Troppauer Teil
+577	Zlíchov	2	0	0	2	50.046	14.408	1			Mittelböhmen	Mittelböhmen
+578	Znaimer Teil	1	0	1	0			2			Znaimer Teil	Znaimer Teil
+579	Znojmo	31	27	2	2	48.860	16.050	1			Znaimer Teil	Znaimer Teil
+580	Zvíkov	3	2	1	0	49.439	14.192	1			Südböhmen	Südböhmen
+581	Zwerndorf	1	0	0	1	48.342	16.840	1			Nordostniederösterreich	Nordostniederösterreich
+582	Zwettl	18	2	15	1	48.607	15.169	1			Nordwestniederösterreich	Nordwestniederösterreich
