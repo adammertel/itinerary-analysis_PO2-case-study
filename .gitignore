@@ -1,1 +1,4 @@
 .env
+.vscode
+data/01_raw/**/*.*
+maps/data/topo.tiff
