@@ -1,703 +1,698 @@
-id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,noten,region1,region2,region3
-1,Absdorf,1,0,0,0,1,48.40,15.98,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-2,Admont,6,0,0,6,0,47.58,14.47,1,,Steiermark,Nordsteiermark,Nordsteiermark
-3,Aisthofen in Riedmark,1,0,0,0,1,48.26,14.59,3,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-4,Aldersbach,1,0,0,1,0,48.59,13.09,1,,Bayern,Bayern,Bayern
-5,Alland,1,0,0,0,1,48.06,16.08,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-6,Alt-Melon/Altmelon,1,0,0,1,0,48.46,14.97,3,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-7,Altenburg,6,1,1,4,0,48.65,15.59,3,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-8,Altenhofen,2,0,0,1,1,48.18,14.55,1,,Oberösterreich,Oberösterreich,Oberösterreich
-9,Altpölla,3,0,0,2,1,48.63,15.38,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-10,Altzelle,1,0,0,1,0,51.06,13.28,1,,Meissen,Meissen,Meissen
-11,Amstetten,2,1,1,0,0,48.12,14.87,1,,,,
-12,Apfaltersbach,1,0,0,0,1,47.68,15.90,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-13,Ardagger,4,0,0,3,1,48.18,14.83,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-14,Arnoldstein,2,1,1,0,0,46.55,13.75,1,,Kärnten,Ostkärnten,Ostkärnten
-15,Arzwald,3,0,0,0,3,47.22,15.28,2,,Steiermark,Mittelsteiermark,Mittelsteiermark
-16,Assisi,2,1,1,0,0,43.07,12.61,1,,Italien,Italien,Italien
-17,Atzelsdorf,0,0,0,0,0,48.29,15.96,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-18,Bad Aussee,1,0,0,0,1,47.61,13.78,1,,Steiermark,Nordsteiermark,Nordsteiermark
-19,Bad Ischl,2,0,0,0,2,47.71,13.62,1,,Oberösterreich,Oberösterreich,Oberösterreich
-20,Bad Radkersburg,2,1,1,0,0,46.69,15.99,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-21,Balga,2,1,1,0,0,54.56,19.97,1,,Preussen (Ausland),Preussen (Ausland),Preussen (Ausland)
-22,Baumgartenberg,3,0,0,3,0,48.21,14.74,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-23,Baumkirchen,1,0,0,1,0,47.15,14.75,1,,Steiermark,Nordsteiermark,Nordsteiermark
-24,Bautzen,0,0,0,0,0,51.18,14.42,1,,Bautzenland,Bautzenland,Bautzenland
-25,Bautzenland,0,0,0,0,0,,,2,,Bautzenland,Bautzenland,Bautzenland
-26,Bayern,1,0,0,1,0,,,2,,Bayern,Bayern,Bayern
-27,Benešov,1,0,0,1,0,49.93,18.00,1,,Schlesien,Troppauer Teil,Troppauer Teil
-28,Beňovice,2,0,0,0,2,49.39,13.26,1,,Böhmen,Südwestböhmen,Südwestböhmen
-29,Berchtesgaden,2,0,0,2,0,47.63,13.00,1,,Salzburg,Salzburg,Salzburg
-30,Beroun,4,2,2,0,0,49.96,14.07,1,,Böhmen,Mittelböhmen,Mittelböhmen
-31,Bítov,2,0,0,2,0,48.94,15.73,1,,Mähren,Znaimer Teil,Znaimer Teil
-32,Bítov bei Stříbro,1,0,0,0,1,49.75,13.00,2,,Böhmen,Südwestböhmen,Südwestböhmen
-33,Blansko,4,2,2,0,0,49.36,16.64,1,,Mähren,Brünner Teil,Brünner Teil
-34,Bliszyczyce,1,0,0,0,1,50.08,17.75,1,,Schlesien,Troppauer Teil,Troppauer Teil
-35,Blučina,1,0,0,0,1,49.06,16.65,1,,Mähren,Brünner Teil,Brünner Teil
-36,Böhmen,8,0,0,8,0,,,2,,Böhmen,Böhmen,Böhmen
-37,Böhmisch Bruck,2,0,0,2,0,49.58,12.35,1,,Bayern,Bayern,Bayern
-38,Böhmischmährische Höhe,0,0,0,0,0,,,2,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-39,Boletice,1,0,0,0,1,48.83,14.22,1,,Böhmen,Südböhmen,Südböhmen
-40,Brandenburg,0,0,0,0,0,,,2,,Brandenburg,Brandenburg,Brandenburg
-41,Bratislava,29,12,12,5,0,48.14,17.10,1,,Ungarn,Westungarn,Westungarn
-42,Břevnov,13,0,0,13,0,50.07,14.38,1,,Prag,Prag,Prag
-43,Brixen,1,0,0,1,0,46.72,11.66,1,,Kärnten,Westkärnten,Westkärnten
-44,Brno,105,43,49,9,4,49.19,16.61,1,,Mähren,Brünner Teil,Brünner Teil
-45,Brozany nad Ohří,1,0,0,0,1,50.45,14.15,1,,Böhmen,Nordböhmen,Nordböhmen
-46,Bruck an der Mur,2,0,0,2,0,47.41,15.27,1,,Steiermark,Nordsteiermark,Nordsteiermark
-47,Brünner Teil,0,0,0,0,0,,,2,,Mähren,Brünner Teil,Brünner Teil
-48,Bubeneč,1,0,0,0,1,50.10,14.40,1,,Böhmen,Mittelböhmen,Mittelböhmen
-49,Buda,0,0,0,0,0,47.49,19.05,1,,Ungarn,Westungarn,Westungarn
-50,Budeč,2,0,0,0,2,50.19,14.25,1,hrad,Böhmen,Mittelböhmen,Mittelböhmen
-51,Budyně nad Ohří,8,4,4,0,0,50.40,14.13,1,,Böhmen,Nordböhmen,Nordböhmen
-52,Čáslav,5,1,1,2,1,49.91,15.39,1,,Böhmen,Ostböhmen,Ostböhmen
-53,Čepihory,1,0,0,1,0,50.49,13.62,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-54,Cerhonice,1,0,0,0,1,49.42,14.06,1,,Böhmen,Südböhmen,Südböhmen
-55,Cerhovice,1,0,0,0,1,49.85,13.83,1,,Böhmen,Mittelböhmen,Mittelböhmen
-56,Červený Kameň,3,1,1,1,0,48.39,17.34,1,,Ungarn,Westungarn,Westungarn
-57,České Budějovice,4,1,1,1,1,48.97,14.47,1,,Böhmen,Südböhmen,Südböhmen
-58,České Kopisty,1,0,0,0,1,50.53,14.17,1,,Böhmen,Nordböhmen,Nordböhmen
-59,Český Krumlov,1,0,0,1,0,48.81,14.32,1,,Böhmen,Südböhmen,Südböhmen
-60,Cetonice,1,0,0,0,1,48.88,15.96,1,,Mähren,Znaimer Teil,Znaimer Teil
-61,Cham,4,2,2,0,0,49.22,12.67,1,,Bayern,Bayern,Bayern
-62,Cheb,4,1,1,2,0,50.07,12.38,1,,Egerland,Egerland,Egerland
-63,Chełmno,4,2,2,0,0,53.35,18.42,1,,Preussen,Preussen,Preussen
-64,Chomutov,1,0,0,1,0,50.46,13.41,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-65,Chomýž,1,0,0,0,1,50.11,17.65,1,,Schlesien,Troppauer Teil,Troppauer Teil
-66,Chotěšov,5,0,0,5,0,49.65,13.20,3,,Böhmen,Südwestböhmen,Südwestböhmen
-67,Chrudim,1,0,0,1,0,49.95,15.80,1,,Böhmen,Ostböhmen,Ostböhmen
-68,Cvilín,1,0,0,1,0,50.08,17.72,1,,Schlesien,Troppauer Teil,Troppauer Teil
-69,Dědice,2,0,0,2,0,49.29,16.98,3,,Mähren,Olmützer Teil,Olmützer Teil
-70,Deutschlandsberg,1,0,0,0,1,,,1,,,,
-71,Diváky,2,0,0,0,2,48.99,16.79,1,,Mähren,Brünner Teil,Brünner Teil
-72,Dobi,1,0,0,0,1,46.95,15.37,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-73,Dobra (bei St. Peter in der Au-Markt ),1,0,0,1,0,48.05,14.63,1,,Oberösterreich,Oberösterreich,Oberösterreich
-74,Dobrava pri Škocjanu,3,0,0,1,2,45.88,15.33,1,,Krain,Krain,Krain
-75,Dobrenje,1,0,0,0,1,46.61,15.66,1,,Steiermark,Südsteiermark,Südsteiermark
-76,Dobříš,2,1,1,0,0,49.78,14.18,1,,Böhmen,Mittelböhmen,Mittelböhmen
-77,Doksany,4,0,0,4,0,50.45,14.16,1,,Böhmen,Nordböhmen,Nordböhmen
-78,Doksy,1,0,0,1,0,50.56,14.66,1,,Böhmen,Nordböhmen,Nordböhmen
-79,Dolní Bukovsko,1,0,0,0,1,49.17,14.58,1,,Böhmen,Südböhmen,Südböhmen
-80,Dolní Černošice,1,0,0,0,1,49.96,14.33,1,,Böhmen,Mittelböhmen,Mittelböhmen
-81,Dolní Vltavice,1,0,0,0,1,48.70,14.08,1,,Böhmen,Südböhmen,Südböhmen
-82,Domažlice,6,2,2,1,1,49.44,12.93,1,,Böhmen,Südwestböhmen,Südwestböhmen
-83,Doubravník,2,0,0,2,0,49.42,16.35,1,,Mähren,Brünner Teil,Brünner Teil
-84,Doudleby,1,0,0,0,1,48.89,14.50,1,,Böhmen,Südböhmen,Südböhmen
-85,Dranek (Treun heute bei Videm při Ptuju),1,0,0,1,0,46.37,15.90,1,,Steiermark,Südsteiermark,
-86,Dravograd,1,0,0,0,1,46.59,15.02,1,,Kärnten,Ostkärnten,Ostkärnten
-87,Dřenice,1,0,0,0,1,49.98,15.75,1,,Böhmen,Ostböhmen,Ostböhmen
-88,Drnholec,2,0,0,2,0,48.86,16.49,1,,Mähren,Znaimer Teil,Znaimer Teil
-89,Drosendorf,5,2,2,0,1,48.87,15.62,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-90,Dürnstein,2,0,0,2,0,48.41,15.52,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-91,Eckartsau,1,0,0,1,0,48.16,16.80,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-92,Eferding,1,0,0,0,1,48.31,14.02,1,,Oberösterreich,Oberösterreich,Oberösterreich
-93,Eger,3,1,1,1,0,47.90,20.37,1,,Ungarn,Westungarn,Westungarn
-94,Egerland,1,0,0,1,0,,,2,,Egerland,Egerland,Egerland
-95,Eggenburg,4,1,1,0,2,48.64,15.82,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-96,Eggendorf am Wagram,1,0,0,0,1,48.40,16.04,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-97,Eggendorf bei Wiener Neustadt,1,0,0,0,1,47.86,16.32,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-98,ein Wald Bor zwischen Kolín und Čáslav,2,0,0,0,2,50.00,15.31,2,les,Böhmen,Ostböhmen,Ostböhmen
-99,Eisdorf,1,0,0,1,0,51.76,10.18,1,untergegangenes Dorf,Niederösterreich,Nordostniederösterreich,
-100,Eisenreichdornach,1,0,0,0,1,48.13,14.89,3,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-101,Elbląg,4,2,2,0,0,54.15,19.41,1,,Preussen,Preussen,Preussen
-102,Emmersdorf an der Donau,3,0,0,1,2,48.25,15.32,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-103,Enns,8,2,2,2,2,48.21,14.48,1,,Oberösterreich,Oberösterreich,Oberösterreich
-104,Erla,2,0,0,2,0,48.20,14.57,3,,Oberösterreich,Oberösterreich,Oberösterreich
-105,Ernstbrunn,2,0,0,1,1,48.53,16.36,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-106,Falkenberg,2,0,0,2,0,48.50,15.73,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-107,Falkenstein,1,0,0,0,1,48.72,16.59,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-108,Falkenstein an der Ranna,1,0,0,1,0,48.49,13.78,1,,Bayern,Bayern,Bayern
-109,Feistritz bei Prank,1,0,0,0,1,47.28,14.86,2,,Steiermark,Nordsteiermark,Nordsteiermark
-110,Frankenreith,1,0,0,0,1,48.68,15.53,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-111,Freising,33,0,0,33,0,48.40,11.75,3,,Bayern,Bayern,Bayern
-112,Freistadt,18,9,9,0,0,48.52,14.52,3,,Oberösterreich,Oberösterreich,Oberösterreich
-113,Friesach,11,4,4,2,1,46.98,14.33,1,,Kärnten,Ostkärnten,Ostkärnten
-114,Frýdlant,2,0,0,1,1,50.92,15.08,1,,Böhmen,Nordböhmen,Nordböhmen
-115,Fulštejn,3,0,0,2,1,50.24,17.71,3,,Schlesien,Troppauer Teil,Troppauer Teil
-116,Fürstenfeld,1,0,0,1,0,47.05,16.07,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-117,Gaflenz,1,0,0,0,1,47.90,14.73,1,,Oberösterreich,Oberösterreich,Oberösterreich
-118,Gaming,4,2,2,0,0,47.93,15.09,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-119,Gars am Kamp,1,0,0,0,1,48.60,15.66,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-120,Garsten,5,0,0,5,0,48.02,14.41,1,,Oberösterreich,Oberösterreich,Oberösterreich
-121,Geras,3,0,0,3,0,48.78,15.66,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-122,Gerasdorf,1,0,0,0,1,48.30,16.47,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-123,Glanz an der Weinstraße,1,0,0,0,1,46.66,15.54,1,,Steiermark,Südsteiermark,Südsteiermark
-124,Glaubitsch,2,0,0,1,1,48.65,16.38,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-125,Gleink,4,0,0,4,0,48.07,14.42,1,,Oberösterreich,Oberösterreich,Oberösterreich
-126,Głubczyce,7,1,1,4,1,50.20,17.83,1,,Schlesien,Troppauer Teil,Troppauer Teil
-127,Gornji Grad,1,0,0,1,0,46.29,14.80,1,,Patriarchat Aquileia,Patriarchat Aquileia,Patriarchat Aquileia
-128,Gosau,1,0,0,0,1,47.59,13.54,1,,Oberösterreich,Oberösterreich,Oberösterreich
-129,Gössendorf,2,0,0,0,2,47.00,15.49,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-130,Göttweig,3,0,0,3,0,48.37,15.61,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-131,Gramastetten,2,0,0,0,2,48.38,14.19,1,,Oberösterreich,Oberösterreich,Oberösterreich
-132,Graslupp,0,0,0,0,0,47.07,14.38,1,,Steiermark,Nordsteiermark,Nordsteiermark
-133,Gratwein,2,0,0,1,1,47.13,15.32,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-134,Graz,80,38,39,2,1,47.07,15.45,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-135,Grobniki,6,0,0,4,2,50.20,17.87,1,,Schlesien,Troppauer Teil,Troppauer Teil
-136,Groißenbrunn,2,1,1,0,0,48.22,16.90,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-137,Großjedlersdorf,0,0,0,0,0,48.28,16.41,,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-138,Groß-Enzersdorf,3,0,0,0,3,48.20,16.55,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-139,Großotten,2,0,0,2,0,48.64,14.98,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-140,Grosspolen,0,0,0,0,0,,,2,,Pollen,Grosspolen,Grosspolen
-141,Guntersdorf,1,0,0,0,1,48.65,16.05,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-142,Gurk,3,0,0,2,1,46.87,14.29,1,,Kärnten,Ostkärnten (Ausland),Ostkärnten (Ausland)
-143,Gwardeisk,2,1,1,0,0,54.65,21.07,1,,Preussen,Preussen,Preussen
-144,Györ,3,1,1,1,0,47.69,17.63,1,,Ungarn,Westungarn,Westungarn
-145,Haidershofen,2,0,0,0,2,48.08,14.46,1,,Oberösterreich,Oberösterreich,Oberösterreich
-146,Hainburg,11,5,5,0,1,48.15,16.95,3,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-147,Halbenrein,2,0,0,1,1,46.73,15.93,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-148,Hardegg,3,0,0,3,0,48.85,15.86,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-149,Haringsee,1,0,0,0,1,48.19,16.79,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-150,Hartberg,2,1,1,0,0,47.28,15.97,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-151,Haslau an der Donau,1,0,0,1,0,48.12,16.72,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-152,Hassbach,1,0,0,1,0,47.65,16.06,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-153,Havlíčkův Brod,9,3,3,2,1,49.61,15.58,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-154,Heiligenkreuz,15,0,0,15,0,48.06,16.13,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-155,Hejčín,2,0,0,0,2,49.60,17.24,1,,Mähren,Olmützer Teil,Olmützer Teil
-156,Helfenstein,1,0,0,0,1,47.09,15.19,1,hrad,Steiermark,Mittelsteiermark,Mittelsteiermark
-157,Hennersdorf bei Wien,1,0,0,0,1,48.11,16.36,1,,Wien,Wien,Wien
-158,Hernstein,2,0,0,0,2,47.89,16.10,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-159,Herzogenbirbaum,2,1,1,0,0,48.52,16.25,2,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-160,Heunburg,1,0,0,1,0,46.69,14.67,1,,Kärnten,Ostkärnten,Ostkärnten
-161,Hluboký,0,0,0,0,0,49.52,14.04,2,zaniklé,Böhmen,Südböhmen,Südböhmen
-162,Hlučín,1,0,0,1,0,49.90,18.19,1,,Schlesien,Troppauer Teil,Troppauer Teil
-163,Hněvkovice,1,0,0,0,1,49.69,15.20,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-164,Hohenberg,5,0,0,5,0,47.91,15.62,3,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-165,Hohenwarth,1,0,0,0,1,48.51,15.83,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-166,Holenstein an der Ybbs,1,0,0,0,1,47.81,14.77,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-167,Hořepník,2,0,0,1,1,49.51,15.11,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-168,Hórky u Klatov,2,0,0,0,2,49.40,13.30,2,,Böhmen,Südwestböhmen,Südwestböhmen
-169,Horn,1,0,0,1,0,48.67,15.66,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-170,Horní Slavkov,1,0,0,0,1,50.14,12.81,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-171,Hradec Králové,9,4,4,1,0,50.21,15.83,1,,Böhmen,Nordostböhmen,Nordostböhmen
-172,Hradec nad Moravicí,6,3,3,0,0,49.87,17.87,1,,Schlesien,Troppauer Teil,Troppauer Teil
-173,Hradisko u Olomouce,0,0,0,0,0,49.61,17.27,3,"Pokiaľ je to správne Hradisko, tak asi zjednotiť s Olomoucí",Mähren,Olmützer Teil,Olmützer Teil
-174,Hrdibořice,1,0,0,0,1,49.48,17.22,1,,Mähren,Olmützer Teil,Olmützer Teil
-175,Hrušovany,3,0,0,0,3,50.52,14.28,1,,Böhmen,Nordböhmen,Nordböhmen
-176,Hulín,1,0,0,0,1,49.32,17.46,1,,Mähren,Nordostmähren,Nordostmähren
-177,Hundsheim,2,0,0,1,1,48.39,15.56,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-178,Hustopeče,1,0,0,1,0,48.94,16.74,1,,Mähren,Brünner Teil,Brünner Teil
-179,Imbach,4,0,0,4,0,48.44,15.58,1,Zjednotiť s Krems?,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-180,Italien,0,0,0,0,0,,,2,,Italien,Italien,Italien
-181,Jablonné v Podještědí,2,1,1,0,0,50.77,14.76,1,,Böhmen,Nordböhmen,Nordböhmen
-182,Jägerberg bei Steyr,1,0,0,1,0,48.04,14.42,1,,Oberösterreich,Oberösterreich,Oberösterreich
-183,Jaroměřice nad Rokytkou,5,2,2,1,0,49.09,15.89,1,Jaromerice nad Rokytnou?,Mähren,Znaimer Teil,Znaimer Teil
-184,Jedenspeigen,4,2,2,0,0,48.50,16.87,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-185,Jemníky,1,0,0,0,1,50.21,14.12,1,,Böhmen,Mittelböhmen,Mittelböhmen
-186,Jeneč,1,0,0,0,1,50.09,14.21,1,,Böhmen,Mittelböhmen,Mittelböhmen
-187,Jevíčko,1,0,0,1,0,49.63,16.71,1,,Mähren,Olmützer Teil,Olmützer Teil
-188,Jihlava,18,7,7,4,0,49.40,15.59,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-189,Jindřichův Hradec,3,1,1,1,0,49.14,15.00,1,,Böhmen,Südböhmen,Südböhmen
-190,Judenburg,16,5,5,5,1,47.17,14.67,1,,Steiermark,Nordsteiermark,Nordsteiermark
-191,Jundrov,1,0,0,0,1,49.21,16.54,1,,Mähren,Brünner Teil,Brünner Teil
-192,Kadaň,2,0,0,2,0,50.38,13.27,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-193,Kahlenberg (heute Leopoldberg),1,1,0,0,0,48.28,16.35,1,,Wien,Wien,Wien
-194,Kaliningrad,2,1,1,0,0,54.71,20.51,1,,Preussen,Preussen,Preussen
-195,Kalisz,2,1,1,0,0,51.76,18.09,1,,Pollen,Pollen,Pollen
-196,Kamenz,2,1,1,0,0,51.27,14.10,1,,,,
-197,Kamnik,1,0,0,1,0,46.22,14.61,1,,Krain,Krain,Krain
-198,Kamýk nad Vltavou,6,3,3,0,0,49.64,14.25,1,,Böhmen,Mittelböhmen,Mittelböhmen
-199,Kappling,1,0,0,1,0,48.14,13.90,1,,Oberösterreich,Oberösterreich,Oberösterreich
-200,Kärnten,1,0,0,1,0,,,2,,Kärnten,Kärnten,Kärnten
-201,Kelč,4,2,2,0,0,49.48,17.82,1,,,,
-202,Kienberg,1,0,0,0,1,46.78,14.77,1,,Kärnten,Westkärnten,Westkärnten
-203,Kirchberg am Wechsel,1,0,0,1,0,47.61,15.99,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-204,Kircheim unter Teck,1,0,0,0,1,48.65,9.45,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-205,Kladruby,6,2,2,2,0,49.71,13.00,3,,Böhmen,Südwestböhmen,Südwestböhmen
-206,Klagenfurt,1,0,0,0,1,46.62,14.31,1,,Kärnten,Ostkärnten,Ostkärnten
-207,Klatovy,2,0,0,2,0,49.40,13.30,1,,Böhmen,Südwestböhmen,Südwestböhmen
-208,Kleinweikersdorf,3,1,1,0,1,48.63,16.20,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-209,Kleinzwettl,1,0,0,0,1,48.88,15.22,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-210,Klevevž (Klingenfels),1,0,0,1,0,45.91,15.23,2,,Krain,Krain,Krain
-211,Kłodzko,3,0,0,3,0,50.43,16.66,1,,Böhmen,Nordostböhmen,Nordostböhmen
-212,Klosterneuburg,9,0,0,8,1,48.31,16.33,1,,Wien,Wien,Wien
-213,Knínice - Konice,1,0,0,0,1,49.57,16.79,2,oblast,Mähren,Olmützer Teil,Olmützer Teil
-214,Knittelfeld,1,0,0,1,0,47.20,14.84,1,,Steiermark,Nordsteiermark,Nordsteiermark
-215,Kolín,1,0,0,1,0,50.03,15.20,1,,Böhmen,Ostböhmen,Ostböhmen
-216,Königsbrunn am Wagram,4,0,0,4,0,48.39,15.93,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-217,Korneuburg,8,7,0,1,0,48.34,16.33,1,,Wien,Wien,Wien
-218,Kostanjevica na Krki,9,2,2,4,1,45.85,15.42,1,,Krain,Krain,Krain
-219,Kostelec,1,0,0,0,1,50.15,17.67,4,část dnešní obce Radynia,Schlesien,Troppauer Teil,Troppauer Teil
-220,Kostelní Myslová,1,0,0,0,1,49.15,15.43,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-221,Kouřim,1,0,0,1,0,50.00,14.98,1,,Böhmen,Ostböhmen,Ostböhmen
-222,Kozłówki,1,0,0,0,1,50.09,17.97,1,,Schlesien,Troppauer Teil,Troppauer Teil
-223,Krain,0,0,0,0,0,,,2,,Krain,Krain,Krain
-224,Krakauer Land,0,0,0,0,0,,,2,,Pollen,Krakauer Land,Krakauer Land
-225,Kraków,2,0,0,2,0,50.06,19.94,1,,Pollen,Krakauer Land,Krakauer Land
-226,Kralice,1,0,0,0,1,49.20,16.20,1,,,,
-227,Kraslice,1,0,0,0,1,50.32,12.52,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-228,Kravaře u České Lípy,3,1,1,1,0,50.63,14.39,1,,Böhmen,Nordböhmen,Nordböhmen
-229,Krems an der Donau,72,30,30,5,7,48.41,15.62,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-230,Kremsmünster,8,0,0,8,0,48.05,14.13,1,,Oberösterreich,Oberösterreich,Oberösterreich
-231,Křivoklát,14,7,7,0,0,50.04,13.87,1,,Böhmen,Mittelböhmen,Mittelböhmen
-232,Krnov,1,0,0,1,0,50.09,17.70,1,,Schlesien,Troppauer Teil,Troppauer Teil
-233,Kroměříž,13,6,6,1,0,49.30,17.39,1,,Mähren,Olmützer Teil,Olmützer Teil
-234,Krumau an der Kamp,7,3,3,0,1,48.59,15.45,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-235,Krzanowice,1,0,0,1,0,50.02,18.12,1,,Schlesien,Troppauer Teil,Troppauer Teil
-236,Kühnring,1,0,0,1,0,48.63,15.78,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-237,Kumberg,1,0,0,0,1,47.16,15.53,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-238,Kvítkovice,1,0,0,1,0,48.96,14.33,1,,Böhmen,Südböhmen,Südböhmen
-239,Laa an der Thaya,24,11,11,2,0,48.73,16.38,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-240,Ladendorf,1,0,0,0,1,48.53,16.49,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-241,Lahovice,1,0,0,0,1,49.99,14.39,1,,Böhmen,Mittelböhmen,Mittelböhmen
-242,Lambach,2,0,0,2,0,48.09,13.88,1,,Oberösterreich,Oberösterreich,Oberösterreich
-243,Laufen,2,1,1,0,0,47.94,12.93,1,,Salzburg,Salzburg,Salzburg
-244,Lavanttal,1,0,0,1,0,46.70,14.86,1,,Kärnten,Ostkärnten,Ostkärnten
-245,Ledce,1,0,0,0,1,49.82,13.33,1,,Böhmen,Südwestböhmen,Südwestböhmen
-246,Leibnitz,3,0,0,0,3,46.78,15.54,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-247,Leising bei Kraubath,2,0,0,0,2,47.30,14.93,1,,Steiermark,Nordsteiermark,Nordsteiermark
-248,Lemberg pri Novi Cerkvi/Lemberg bei Neuhaus,2,0,0,2,0,46.32,15.25,1,,Steiermark,Südsteiermark,Südsteiermark
-249,Lengbach,0,0,0,0,0,48.19,15.96,2,Toto je iba nejaké rieka asi,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-250,Leoben,5,2,2,1,0,47.38,15.10,1,,Steiermark,Nordsteiermark,Nordsteiermark
-251,Leobendorf,1,0,0,0,1,48.37,16.32,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-252,Lešany,1,0,0,1,0,49.50,17.02,1,,Mähren,Olmützer Teil,Olmützer Teil
-253,Lhota,1,0,0,0,1,49.31,16.95,1,,Mähren,Olmützer Teil,Olmützer Teil
-254,Libčice nad Vltavou,2,1,1,0,0,50.20,14.36,1,,Prag,Prag,Prag
-255,Lichnice,1,0,0,1,0,49.88,15.59,1,"49.2614067, 13.9023714",Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-256,Liechtenstein,3,0,0,3,0,48.09,16.27,2,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-257,Liesing,1,0,0,0,1,48.15,16.30,1,,Steiermark,Nordsteiermark,Nordsteiermark
-258,Lilienfeld,23,4,4,15,0,48.01,15.60,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-259,Linz,49,19,19,4,7,48.31,14.29,1,,Oberösterreich,Oberösterreich,Oberösterreich
-260,Litoměřice,14,4,4,6,0,50.53,14.13,1,,Böhmen,Nordböhmen,Nordböhmen
-261,Litomyšl,8,0,0,8,0,49.87,16.31,1,,Böhmen,Ostböhmen,Ostböhmen
-262,Litovel,1,0,0,1,0,49.70,17.08,1,,Mähren,Olmützer Teil,Olmützer Teil
-263,Lobenstein,2,0,0,2,0,48.44,14.24,1,,Oberösterreich,Oberösterreich,Oberösterreich
-264,Logvino,2,1,1,0,0,54.77,20.21,1,,Preussen,Preussen,Preussen
-265,Loket,2,1,1,0,0,50.19,12.75,1,,Böhmen,Südwestböhmen,Südwestböhmen
-266,Losenstein,1,0,0,0,1,47.92,14.44,1,,Oberösterreich,Oberösterreich,Oberösterreich
-267,Louka,1,0,0,1,0,48.84,16.06,1,,Mähren,Znaimer Teil,Znaimer Teil
-268,Lovešice,1,0,0,0,1,49.43,17.45,1,,Mähren,Nordostmähren,Nordostmähren
-269,Lovosice,1,0,0,0,1,50.52,14.05,1,,Böhmen,Nordböhmen,Nordböhmen
-270,Lubljana,3,1,1,1,0,46.05,14.51,1,,Krain,Krain,Krain
-271,Lukov,2,0,0,1,1,49.07,15.82,1,,Mähren,Znaimer Teil,Znaimer Teil
-272,Machland,2,0,0,1,1,,,2,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-273,Magyaróvár,4,1,1,2,0,47.87,17.26,1,,Ungarn,Westungarn,Westungarn
-274,Mähren,5,0,0,5,0,,,2,,Mähren,Mähren,Mähren
-275,Mailberg,7,1,1,5,0,48.67,16.18,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-276,Mainz,3,0,0,3,0,50.00,8.27,1,,Rheinland,Rheinland,Rheinland
-277,Maissau,3,0,0,3,0,48.57,15.79,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-278,Makarov,1,0,0,0,1,49.25,13.81,1,,Böhmen,Südböhmen,Südböhmen
-279,Malé Hoštice,1,0,0,0,1,49.94,17.94,1,,Schlesien,Troppauer Teil,Troppauer Teil
-280,Marchegg,7,2,2,2,1,48.26,16.89,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-281,Maria Enzersdorf,2,0,0,0,2,48.10,16.29,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-282,Mariazell,5,2,2,0,1,47.77,15.32,1,,Steiermark,Nordsteiermark,Nordsteiermark
-283,Maribor,11,5,5,0,1,46.55,15.65,1,,Steiermark,Südsteiermark,Südsteiermark
-284,Marienthal,3,0,0,3,0,51.00,14.93,1,,Böhmen,Nordböhmen,Nordböhmen
-285,Martinsberg,2,0,0,0,2,48.38,15.15,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-286,Massenburg,2,0,0,1,1,47.38,15.10,1,,Steiermark,Nordsteiermark,Nordsteiermark
-287,Mauthausen,3,0,0,0,3,48.24,14.52,1,,Oberösterreich,Oberösterreich,Oberösterreich
-288,Meissen,1,0,0,1,0,51.16,13.47,1,,Meissen,Meissen,Meissen
-289,Mel'nikovo,2,1,1,0,0,54.88,20.46,1,,Preussen,Preussen,Preussen
-290,Melk,8,0,0,7,1,48.23,15.33,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-291,Mělník,4,0,0,4,0,50.35,14.47,1,,Böhmen,Nordböhmen,Nordböhmen
-292,Metten,4,0,0,4,0,48.85,12.91,3,,Bayern,Bayern,Bayern
-293,Michelhausen,2,0,0,0,2,48.29,15.94,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-294,Michelndorf,1,0,0,0,1,48.28,15.89,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-295,Michelstetten,1,0,0,0,1,48.58,16.43,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-296,Mikulov,3,0,0,2,1,48.81,16.64,1,,Mähren,Znaimer Teil,Znaimer Teil
-297,Mikulovce,1,0,0,0,1,50.39,13.23,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-298,Miletín,1,0,0,1,0,50.49,15.68,1,,Böhmen,Nordostböhmen,Nordostböhmen
-299,Milevsko,2,1,1,0,0,49.45,14.36,1,,Böhmen,Südböhmen,Südböhmen
-300,Mirotice,1,0,0,1,0,49.43,14.04,1,,Böhmen,Südböhmen,Südböhmen
-301,Mírov,4,2,2,0,0,49.80,16.85,1,,Mähren,Olmützer Teil,Olmützer Teil
-302,Mittelböhmen,1,1,0,0,0,,,2,,Böhmen,Mittelböhmen,Mittelböhmen
-303,Mittelsteiermark,0,0,0,0,0,,,2,,Steiermark,Mittelsteiermark,Mittelsteiermark
-304,Mödling,3,0,0,0,3,48.09,16.28,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-305,Modřice,4,4,0,0,0,49.13,16.61,1,,Mähren,Brünner Teil,Brünner Teil
-306,Mokrá,1,0,0,0,1,48.76,14.13,1,,Böhmen,Südböhmen,Südböhmen
-307,Mokrá,1,0,0,0,1,48.76,14.13,1,,Böhmen,Südböhmen,Südböhmen
-308,Molln,2,0,0,1,1,47.89,14.26,1,,Oberösterreich,Oberösterreich,Oberösterreich
-309,Mondsee,8,0,0,8,0,47.85,13.35,1,,Salzburg,Salzburg,Salzburg
-310,Moravská Loděnice,1,0,0,0,1,49.66,17.28,3,,Mähren,Olmützer Teil,Olmützer Teil
-311,Moravské Málkovice,1,0,0,1,0,49.22,17.01,1,,Mähren,Olmützer Teil,Olmützer Teil
-312,Moson,2,1,1,0,0,47.86,17.26,2,,Ungarn,Westungarn,Westungarn
-313,Most,6,1,1,2,2,50.50,13.64,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-314,Mühldorf,2,1,1,0,0,48.24,12.52,1,Muhldorf am Inn,Bayern,Bayern,Bayern
-315,Münchendorf,2,1,1,0,0,48.03,16.38,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-316,Münichreith um Garsten,1,0,0,0,1,48.02,14.41,2,,Oberösterreich,Oberösterreich,Oberösterreich
-317,Muta,1,0,0,0,1,46.61,15.17,1,,Kärnten,Ostkärnten,Ostkärnten
-318,Muthmannsdorf,1,0,0,0,1,47.84,16.11,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-319,Myšenec,2,1,1,0,0,49.22,14.21,1,,Böhmen,Südböhmen,Südböhmen
-320,Němčice,1,0,0,0,1,49.03,14.27,1,,Böhmen,Südböhmen,Südböhmen
-321,Nenakovice,1,0,0,0,1,49.47,17.29,1,,Mähren,Olmützer Teil,Olmützer Teil
-322,Neprobylice,1,0,0,0,1,50.26,14.03,1,,Böhmen,Mittelböhmen,Mittelböhmen
-323,Netolice,2,1,1,0,0,49.05,14.20,1,,Böhmen,Südböhmen,Südböhmen
-324,Neuburg am Inn,10,1,1,2,6,48.52,13.40,1,,Oberösterreich,Oberösterreich,Oberösterreich
-325,Neuhofen an der Ybbs,1,0,0,0,1,48.06,14.85,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-326,Neulengbach,2,0,0,2,0,48.20,15.91,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-327,Neumarkt,3,0,0,1,2,47.06,14.44,1,,Steiermark,Nordsteiermark,Nordsteiermark
-328,Neunkirchen,3,1,1,1,0,47.73,16.08,3,V Nemecku sú ďalšie,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-329,Neuruppersdorf,1,0,0,1,0,48.75,16.52,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-330,Niederabsdorf,1,0,0,0,1,48.57,16.86,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-331,Niederaltaich,5,0,0,5,0,48.77,13.03,1,,Bayern,Bayern,Bayern
-332,Niederhollabrunn,2,0,0,0,2,48.45,16.31,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-333,Niederstrahlbach,1,0,0,0,1,48.61,15.13,1,,Niederösterreich,Niederösterreich,Niederösterreich
-334,Niederösterreich,6,0,0,6,0,,,2,,Niederösterreich,Niederösterreich,Niederösterreich
-335,Nisowje,2,1,1,0,0,54.70,20.74,1,,Preussen,Preussen,Preussen
-336,Nitra,1,0,0,1,0,48.31,18.09,1,,Ungarn,Westungarn,Westungarn
-337,Nittenau,2,1,1,0,0,49.20,12.27,1,,Bayern,Bayern,Bayern
-338,Nižbor,4,2,2,0,0,50.00,14.00,1,,Böhmen,Mittelböhmen,Mittelböhmen
-339,Nordböhmen,0,0,0,0,0,,,2,,Böhmen,Nordböhmen,Nordböhmen
-340,Nordkärnten,0,0,0,0,0,,,2,,Kärnten,Ostkärnten,Ostkärnten
-341,Nordostböhmen,0,0,0,0,0,,,2,,Böhmen,Nordostböhmen,Nordostböhmen
-342,Nordostmähren,2,0,0,2,0,,,2,,Mähren,Nordostmähren,Nordostmähren
-343,Nordostniederösterreich,0,0,0,0,0,,,2,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-344,Nordostniederösterreich (Ausland),0,0,0,0,0,,,2,,Niederösterreich,Nordostniederösterreich (Ausland),Nordostniederösterreich (Ausland)
-345,Nordoststeiermark,0,0,0,0,0,,,2,,Steiermark,Nordsteiermark,Nordsteiermark
-346,Nordsteiermark,0,0,0,0,0,,,2,,Steiermark,Nordsteiermark,Nordsteiermark
-347,Nordwestböhmen,0,0,0,0,0,,,2,,Böhmen,Nordwestböhmen,Nordwestböhmen
-348,Nordwestniederösterreich,0,0,0,0,0,,,2,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-349,"Nordwestniederösterreich, Nordostniederösterreich",0,0,0,0,0,,,2,,Niederösterreich,"Nordwestniederösterreich, Nordostniederösterreich","Nordwestniederösterreich, Nordostniederösterreich"
-350,Norsteiermark,0,0,0,0,0,,,2,,Steiermark,Nordsteiermark,Nordsteiermark
-351,Nová Říše,1,0,0,1,0,49.14,15.56,1,,Mähren,Znaimer Teil,Znaimer Teil
-352,Novákovice,2,0,0,0,2,49.37,13.26,1,,Böhmen,Südwestböhmen,Südwestböhmen
-353,Nowa Cerekwia,2,0,0,0,2,50.09,17.93,1,,Schlesien,Troppauer Teil,Troppauer Teil
-354,Nučice,2,1,1,0,0,49.96,14.88,1,,Böhmen,Mittelböhmen,Mittelböhmen
-355,Nürnberg,9,0,0,9,0,49.45,11.07,1,,Bayern,Bayern,Bayern
-356,Nuzice,1,0,0,0,1,49.27,14.46,1,,Böhmen,Südböhmen,Südböhmen
-357,Nymburk,1,0,0,1,0,50.19,15.04,1,,Böhmen,Ostböhmen,Ostböhmen
-358,Oberösterreich,7,0,0,7,0,,,2,,Oberösterreich,Oberösterreich,Oberösterreich
-359,Oberösterreich,7,0,0,7,0,,,2,,Oberösterreich,Oberösterreich,Oberösterreich
-360,Oberseifersdorf,1,0,0,0,1,50.94,14.80,1,,Böhmen,Nordböhmen,Nordböhmen
-361,Öblarn,1,0,0,0,1,47.46,13.99,1,,Steiermark,Nordsteiermark,Nordsteiermark
-362,Očihovec,1,0,0,0,1,50.19,13.47,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-363,Offenburg,3,0,0,3,0,47.23,14.60,1,,Steiermark,Nordsteiermark,Nordsteiermark
-364,Ohučov,1,0,0,0,1,49.57,13.08,1,,Böhmen,Südwestböhmen,Südwestböhmen
-365,Ollern,1,0,0,0,1,48.27,16.08,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-366,Olmützer Teil,1,0,0,1,0,,,2,,Mähren,Olmützer Teil,Olmützer Teil
-367,Olomouc,85,21,21,38,5,49.60,17.25,1,,Mähren,Olmützer Teil,Olmützer Teil
-368,Opatovice nad Labem,2,0,0,2,0,50.15,15.79,3,,Böhmen,Ostböhmen,Ostböhmen
-369,Opava,15,5,5,4,1,49.94,17.90,1,,Schlesien,Troppauer Teil,Troppauer Teil
-370,Opavice,0,0,0,0,0,50.15,17.60,1,,Schlesien,Troppauer Teil,Troppauer Teil
-371,Opole,1,0,0,1,0,50.67,17.93,1,,Schlesien,Schlesien,Schlesien
-372,Orlamünde,2,1,1,0,0,50.78,11.53,1,,Brandenburg,Brandenburg,Brandenburg
-373,Osek,7,0,0,7,0,50.62,13.69,1,,Böhmen,Nordböhmen,Nordböhmen
-374,Oslavany,6,1,1,4,0,49.12,16.34,1,,Mähren,Brünner Teil,Brünner Teil
-375,Ostböhmen,0,0,0,0,0,,,2,,Böhmen,Ostböhmen,Ostböhmen
-376,Osterhofen,2,0,0,2,0,48.69,13.00,1,,Bayern,Bayern,Bayern
-377,Ostkärnten,2,0,0,2,0,,,2,,Kärnten,Ostkärnten,Ostkärnten
-378,Ostritz,0,0,0,0,0,51.02,14.93,1,,Böhmen,Nordböhmen,Nordböhmen
-379,Ostrov,2,0,0,2,0,50.31,12.95,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-380,Ostrov u Davle,0,0,0,0,0,49.88,14.39,1,,Böhmen,Mittelböhmen,Mittelböhmen
-381,Osttkärnten (Ausland),0,0,0,0,0,,,2,,Kärnten,Ostkärnten (Ausland),Ostkärnten (Ausland)
-382,Ottenschlag im Mühlkreis,1,0,0,0,1,48.47,14.38,1,,Oberösterreich,Oberösterreich,Oberösterreich
-383,Ottensheim,1,0,0,1,0,48.33,14.18,1,,Oberösterreich,Oberösterreich,Oberösterreich
-384,Panbruck,1,0,0,1,0,48.22,13.72,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-385,Pannonhalma,3,1,1,1,0,47.55,17.75,1,,Ungarn,Westungarn,Westungarn
-386,Passau,19,2,2,15,0,48.57,13.47,1,,Bayern,Bayern,Bayern
-387,Patriarchat Aquileia,0,0,0,0,0,,,2,,,Patriarchat Aquileia,Patriarchat Aquileia
-388,Pellendorf,1,0,0,0,1,48.10,16.45,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-389,Perchtolsdorf,2,0,0,2,0,48.12,16.27,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-390,Perg,1,0,0,1,0,48.25,14.63,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-391,Pernegg,1,0,0,0,1,48.74,15.63,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-392,Persenbeug - Gottsdorf,1,0,0,0,1,48.19,15.08,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-393,Pezinok,3,1,1,1,0,48.29,17.27,1,,Ungarn,Westungarn,Westungarn
-394,Pfannberg,4,0,0,3,1,47.24,15.34,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-395,Pillichsdorf,1,0,0,1,0,48.36,16.54,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-396,Písek,28,13,13,1,1,49.31,14.15,1,,Böhmen,Südböhmen,Südböhmen
-397,Planá,3,0,0,1,2,49.87,12.74,1,,Böhmen,Südwestböhmen,Südwestböhmen
-398,Planina pri Sevnici,1,0,0,1,0,46.10,15.40,1,,Krain,Krain,Krain
-399,Plasy,15,4,4,7,0,49.93,13.39,1,,Böhmen,Mittelböhmen,Mittelböhmen
-400,Plauen,1,0,0,1,0,50.49,12.14,1,,Bayern,Bayern,Bayern
-401,Plchov,1,0,0,0,1,50.26,13.99,1,,Böhmen,Mittelböhmen,Mittelböhmen
-402,Plzeň,1,0,0,0,1,49.74,13.37,1,,Böhmen,Südwestböhmen,Südwestböhmen
-403,Poboří,1,0,0,0,1,50.02,15.05,1,,Böhmen,Ostböhmen,Ostböhmen
-404,Poděbrady,18,9,9,0,0,50.14,15.12,1,,Böhmen,Ostböhmen,Ostböhmen
-405,Podgrad,1,0,0,0,1,46.13,15.23,1,,Steiermark,Südsteiermark,Südsteiermark
-406,Podlehnik (Lichtenegg),1,0,0,1,0,46.34,15.88,1,,Steiermark,Südsteiermark,
-407,Podmokly,1,0,0,0,1,49.94,13.70,1,,Böhmen,Mittelböhmen,Mittelböhmen
-408,Podůlšany,1,0,0,0,1,50.13,15.74,1,,Böhmen,Ostböhmen,Ostböhmen
-409,Pohled,1,0,0,1,0,49.60,15.65,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-410,Pohořelice,3,1,1,0,1,48.98,16.52,1,,Mähren,Brünner Teil,Brünner Teil
-411,Police nad Metují,1,0,0,1,0,50.54,16.23,1,,Böhmen,Nordostböhmen,Nordostböhmen
-412,Polička,1,0,0,1,0,49.71,16.27,1,,Böhmen,Ostböhmen,Ostböhmen
-413,Pollen,0,0,0,0,0,,,2,,Pollen,Pollen,Pollen
-414,Possendorf,1,0,0,0,1,50.97,13.71,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-415,Postoloprty,1,0,0,1,0,50.36,13.70,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-416,Pottenburg,2,1,1,0,0,48.12,17.03,1,,Ungarn,Westungarn,Westungarn
-417,Pottschach,1,0,0,1,0,47.70,16.00,3,Druhý je na hraniciach SI-AT,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-418,Pottschach,1,0,0,1,0,47.70,16.01,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-419,Prácheň,1,0,0,0,1,49.32,13.68,1,,Böhmen,Südböhmen,Südböhmen
-420,Prag,1,0,0,0,1,,,2,,Prag,Prag,Prag
-421,Praha,399,171,175,44,9,50.09,14.41,1,,Prag,Prag,Prag
-422,Přelouč,1,0,0,1,0,50.04,15.56,1,,Böhmen,Ostböhmen,Ostböhmen
-423,Prepolje,1,0,0,0,1,46.45,15.77,1,,Steiermark,Südsteiermark,Südsteiermark
-424,Přerov,2,0,0,1,1,49.46,17.45,1,,Mähren,Nordostmähren,Nordostmähren
-425,Přešovice,1,0,0,0,1,49.05,16.06,1,,Mähren,Znaimer Teil,Znaimer Teil
-426,Preussen,0,0,0,0,0,,,2,,Preussen,Preussen,Preussen
-427,Příbor,1,0,0,1,0,49.64,18.14,1,,Mähren,Nordostmähren,Nordostmähren
-428,Přibyslavice,1,0,0,1,0,49.26,15.78,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-429,Přimda,1,0,0,1,0,49.67,12.67,1,,Böhmen,Südwestböhmen,Südwestböhmen
-430,Přištpo,2,1,1,0,0,49.07,15.93,1,,Mähren,Znaimer Teil,Znaimer Teil
-431,Probstdorf,1,0,0,0,1,48.17,16.62,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-432,Prudnik,1,0,0,0,1,50.32,17.58,1,,Schlesien,Troppauer Teil,Troppauer Teil
-433,Prüfening,1,0,0,1,0,49.01,12.04,1,,Bayern,Bayern,Bayern
-434,Prunéřov,1,0,0,0,1,50.43,13.26,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-435,Ptuj,4,0,0,4,0,46.42,15.88,1,,Steiermark,Südsteiermark,Südsteiermark
-436,Puchheim,1,0,0,1,0,48.01,13.72,1,,Oberösterreich,Oberösterreich,Oberösterreich
-437,Purschenstein,1,0,0,0,1,50.68,13.46,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-438,Pustiměř,4,2,2,0,0,49.32,17.03,1,,Mähren,Olmützer Teil,Olmützer Teil
-439,Raabs an der Thaya,5,0,0,2,3,48.85,15.49,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-440,Rabenstein,1,0,0,0,1,47.40,14.82,1,,Steiermark,Nordsteiermark,Nordsteiermark
-441,Radlje ob Dravi,3,0,0,3,0,46.62,15.22,1,,Steiermark,Südsteiermark,Südsteiermark
-442,Radynia,1,0,0,0,1,50.15,17.67,1,,Schlesien,Troppauer Teil,Troppauer Teil
-443,Ragogna,1,0,0,1,0,46.17,12.98,1,,,Patriarchat Aquileia,Patriarchat Aquileia
-444,Raitenhaslach,3,0,0,3,0,48.13,12.79,1,,Bayern,Bayern,Bayern
-445,Rakovník,1,0,0,0,1,50.10,13.73,1,,Böhmen,Mittelböhmen,Mittelböhmen
-446,Randegg,4,0,0,0,4,48.01,14.97,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-447,Rauchenwarth,1,0,0,0,1,48.08,16.53,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-448,Řečkovice,1,0,0,0,1,49.25,16.58,1,,Mähren,Brünner Teil,Brünner Teil
-449,Regensburg,6,1,1,4,0,49.02,12.10,1,,Bayern,Bayern,Bayern
-450,Regenstauf,2,1,1,0,0,49.15,12.17,1,,Bayern,Bayern,Bayern
-451,Rehberg,1,0,0,1,0,48.43,15.59,,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-452,region Meissen,0,0,0,0,0,,,2,,Meissen,Meissen,Meissen
-453,Reichersberg,1,0,0,1,0,48.34,13.36,1,,Bayern,Bayern,Bayern
-454,Rein,10,1,1,8,0,47.13,15.28,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-455,Reinsberg,2,0,0,2,0,47.99,15.07,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-456,Répca (Fluss),0,0,0,0,0,47.60,16.99,2,,Ungarn,Westungarn,Westungarn
-457,Řeporyje,1,0,0,0,1,50.03,14.30,1,,Böhmen,Mittelböhmen,Mittelböhmen
-458,Rettenbach in Oststeiermark,1,0,0,0,1,46.99,15.61,2,,Steiermark,Mittelsteiermark,Mittelsteiermark
-459,Retz,1,0,0,0,1,48.76,15.95,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-460,Řevnice,1,0,0,0,1,49.91,14.23,1,,Böhmen,Mittelböhmen,Mittelböhmen
-461,Rheinland,0,0,0,0,0,,,2,,Rheinland,Rheinland,Rheinland
-462,Ried am Riederberg,1,0,0,0,1,48.26,16.07,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-463,Ried im Innkreis,3,1,1,1,0,48.21,13.49,1,BUrg,Oberösterreich,Oberösterreich,Oberösterreich
-464,Rinchnach,1,0,0,1,0,48.95,13.20,1,,Bayern,Bayern,Bayern
-465,Rohr,2,1,1,0,0,48.78,11.99,3,,Bayern,Bayern,Bayern
-466,Rohr im Kremstal,1,0,0,1,0,48.07,14.19,1,,Oberösterreich,Oberösterreich,Oberösterreich
-467,Röhrenbach,2,0,0,0,2,48.66,15.49,3,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-468,Rossatz,1,0,0,0,1,48.40,15.50,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-469,Roštín,1,0,0,0,1,49.19,17.29,1,,Mähren,Olmützer Teil,Olmützer Teil
-470,Rottenmann,1,0,0,0,1,47.53,14.36,1,,Steiermark,Nordsteiermark,Nordsteiermark
-471,Rouchovany,1,0,0,1,0,49.07,16.11,1,,Mähren,Znaimer Teil,Znaimer Teil
-472,Rožmberk nad Vltavou,6,0,0,6,0,48.65,14.37,1,,Böhmen,Südböhmen,Südböhmen
-473,Rožnov u Českých Budějovic,1,0,0,0,1,48.95,14.47,1,,Böhmen,Südböhmen,Südböhmen
-474,Rozvadovice,1,0,0,0,1,49.68,17.09,1,,Mähren,Olmützer Teil,Olmützer Teil
-475,Rudeč,1,0,0,0,1,50.24,14.59,1,,Böhmen,Mittelböhmen,Mittelböhmen
-476,Ruprechtsdorf,2,0,0,1,1,,,3,nicht identifiziert,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-477,Russdorf bei Ostritz,1,0,0,0,1,51.02,14.93,2,,Böhmen,Nordböhmen,Nordböhmen
-478,Ruzyně,1,0,0,0,1,50.09,14.31,1,,Böhmen,Mittelböhmen,Mittelböhmen
-479,Rýzmburk,3,0,0,3,0,50.63,13.66,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-480,Sadská,6,3,3,0,0,50.13,14.98,1,,Böhmen,Ostböhmen,Ostböhmen
-481,Salzburg,23,1,2,20,0,47.80,13.05,1,,Salzburg,Salzburg,Salzburg
-482,Salzburg kreis,0,0,0,0,0,,,2,,Salzburg,Salzburg,Salzburg
-483,Sankt Georgen an der Stiefing,2,0,0,0,2,46.88,15.58,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-484,Sankt Peter am Kammersberg,2,0,0,0,2,47.19,14.19,1,,Steiermark,Nordsteiermark,Nordsteiermark
-485,"Sankt Peter in der Au-Markt, Austria",2,0,0,0,2,48.04,14.62,1,,Oberösterreich,Oberösterreich,Oberösterreich
-486,Sankt Veit an der Gölsen,1,0,0,0,1,48.04,15.67,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-487,Sayda,1,0,0,0,1,50.71,13.42,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-488,Scharlinz,0,0,0,0,0,48.27,14.32,1,,Oberösterreich,Oberösterreich,Oberösterreich
-489,Schlesien,0,0,0,0,0,,,2,,Schlesien,Schlesien,Schlesien
-490,Schönau an der Triesting,0,0,0,0,0,48.17,16.62,3,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-491,Schönberg am Kamp,1,0,0,1,0,48.54,15.68,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-492,Schwechat,1,0,0,0,1,48.14,16.48,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-493,Sebranice,1,0,0,0,1,49.50,16.57,1,,Mähren,Brünner Teil,Brünner Teil
-494,Seckau,25,0,0,25,0,47.27,14.79,1,,Steiermark,Nordsteiermark,Nordsteiermark
-495,Sedlec,4,0,0,4,0,49.96,15.29,1,,Böhmen,Ostböhmen,Ostböhmen
-496,Sedlisko,1,0,0,0,1,49.64,17.22,3,"Sedlisko u Olomouce, Horka nad Moravou",Mähren,Olmützer Teil,Olmützer Teil
-497,Seefeld,2,0,0,2,0,48.72,16.19,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-498,Seitenstetten,5,1,1,3,0,48.04,14.65,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-499,Sereď,2,1,1,0,0,48.28,17.73,1,,Ungarn,Westungarn,Westungarn
-500,Sewernaja Gora,2,1,1,0,0,54.76,20.55,1,,Preussen,Preussen,Preussen
-501,Sitzenberg,3,1,1,1,0,48.32,15.81,1,Druhá je v Bavorsku,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-502,Skřípov,1,0,0,0,1,49.82,17.91,2,,Schlesien,Troppauer Teil,Troppauer Teil
-503,Šlapanice,2,1,1,0,0,49.17,16.73,1,,Mähren,Brünner Teil,Brünner Teil
-504,Slovenj Gradec,4,2,2,0,0,46.52,15.08,1,,Kärnten,Ostkärnten,Ostkärnten
-505,Sobotovice,1,0,0,0,1,49.06,16.56,1,,Mähren,Brünner Teil,Brünner Teil
-506,Söding,2,0,0,0,2,47.00,15.29,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-507,Sonnegg,2,0,0,0,2,46.56,14.64,3,,Kärnten,Ostkärnten,Ostkärnten
-508,Sopron,6,2,2,2,0,47.69,16.59,1,,Ungarn,Westungarn,Westungarn
-509,Spital am Pyhrn,4,0,0,4,0,47.66,14.34,1,,Oberösterreich,Oberösterreich,Oberösterreich
-510,Spital am Semmering,5,0,0,5,0,47.62,15.75,1,,Steiermark,Nordsteiermark,Nordsteiermark
-511,St. Florian,5,1,1,3,0,48.21,14.38,1,,Oberösterreich,Oberösterreich,Oberösterreich
-512,St. Lambrecht,9,0,0,8,1,47.07,14.30,1,,Steiermark,Nordsteiermark,Nordsteiermark
-513,St. Martin,1,0,0,0,1,47.10,13.65,1,,Salzburg,Salzburg,Salzburg
-514,St. Pölten,9,0,1,8,0,48.20,15.63,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-515,Staatz,2,1,1,0,0,48.69,16.49,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-516,Stadlau,1,0,0,1,0,48.22,16.45,3,,Wien,Wien,Wien
-517,Stainz,1,0,0,1,0,46.89,15.26,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-518,Stammersdorf,2,0,0,0,2,48.30,16.42,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-519,Staňkov,1,0,0,0,1,49.55,13.07,1,,Böhmen,Südwestböhmen,Südwestböhmen
-520,Stará Říše,2,0,0,2,0,49.18,15.59,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-521,Steiermark,5,0,0,5,0,,,2,,Steiermark,Steiermark,Steiermark
-522,Stein an der Donau,6,0,0,2,4,48.40,15.58,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-523,Šternberk,0,0,0,0,0,49.73,17.30,1,,Mähren,Olmützer Teil,Olmützer Teil
-524,Steyeregg,1,0,0,1,0,48.28,14.37,1,,Oberösterreich,Oberösterreich,Oberösterreich
-525,Steyr,7,2,2,1,2,48.04,14.42,1,,Oberösterreich,Oberösterreich,Oberösterreich
-526,Stickelberg,1,0,0,0,1,47.61,16.24,1,,Niederösterreich,Südostniederösterreich,
-527,Stičná,2,1,1,0,0,45.96,14.81,1,,Krain,Krain,Krain
-528,Strahov,4,0,0,4,0,50.08,14.39,1,,Prag,Prag,Prag
-529,Strakonice,3,0,0,3,0,49.26,13.90,1,,Böhmen,Südböhmen,Südböhmen
-530,Straning-Grafenberg,3,0,0,0,3,48.61,15.86,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-531,Stranzendorf,1,0,0,0,1,48.45,16.08,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-532,Straßberg,2,0,0,0,2,45.99,15.16,1,hrad,Krain,Krain,Krain
-533,Stratzing,2,0,0,0,2,48.45,15.61,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-534,Strettweg,5,0,0,3,2,47.18,14.66,1,,Steiermark,Nordsteiermark,Nordsteiermark
-535,Stříbro,4,1,1,1,1,49.75,13.00,1,,Böhmen,Südwestböhmen,Südwestböhmen
-536,Střílky,3,0,0,3,0,49.14,17.22,1,,Mähren,Brünner Teil,Brünner Teil
-537,Stubenberg,3,0,0,2,1,47.25,15.81,1,,Steiermark,Südsteiermark,Südsteiermark
-538,Studenice,2,0,0,2,0,46.30,15.61,1,,Steiermark,Südsteiermark,Südsteiermark
-539,Südböhmen,1,0,0,0,1,,,2,,Böhmen,Südböhmen,Südböhmen
-540,Sudice,1,0,0,0,1,49.53,16.67,1,,Mähren,Brünner Teil,Brünner Teil
-541,Südostmähren,0,0,0,0,0,,,2,,Mähren,Südostmähren,Südostmähren
-542,Südostniederösterreich,0,0,0,0,0,,,2,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-543,Südsteiermark,0,0,0,0,0,,,2,,Steiermark,Südsteiermark,Südsteiermark
-544,Südwestböhmen,0,0,0,0,0,,,2,,Böhmen,Südwestböhmen,Südwestböhmen
-545,Sudwestniederösterreich,0,0,0,0,0,,,2,,Niederösterreich,Sudwestniederösterreich,Sudwestniederösterreich
-546,Südwestniederösterreich,0,0,0,0,0,,,2,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-547,Sušice,1,0,0,1,0,49.23,13.52,1,,Böhmen,Südböhmen,Südböhmen
-548,Svařenice,2,0,0,0,2,50.50,14.30,1,,Böhmen,Nordböhmen,Nordböhmen
-549,Svatobor,1,0,0,0,1,50.24,13.02,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-550,Svätý Júr,3,1,1,1,0,48.25,17.21,1,,Ungarn,Westungarn,Westungarn
-551,Svečina,2,1,1,0,0,46.67,15.59,1,,Steiermark,Südsteiermark,Südsteiermark
-552,Svibno,1,0,0,1,0,46.06,15.10,1,,Krain,Krain,Krain
-553,Tachov,4,1,1,1,1,49.80,12.63,1,,Böhmen,Südwestböhmen,Südwestböhmen
-554,Tannberg,1,0,0,1,0,48.50,13.94,1,,Bayern,Bayern,Bayern
-555,Tegernsee,3,0,0,3,0,47.71,11.76,1,,Bayern,Bayern,Bayern
-556,Teplá,3,0,0,3,0,49.98,12.86,1,,Böhmen,Südwestböhmen,Südwestböhmen
-557,Ternberg,3,0,0,1,2,47.95,14.36,1,,Oberösterreich,Oberösterreich,Oberösterreich
-558,Těšetice,1,0,0,0,1,49.59,17.13,1,,Mähren,Olmützer Teil,Olmützer Teil
-559,Těšov,1,0,0,0,1,49.03,17.67,,,Mähren,Südostmähren,Südostmähren
-560,Thallern,2,0,0,0,2,48.05,16.29,3,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-561,Thaures,1,0,0,1,0,48.65,14.98,1,,Niederösterreich,Nordwestniederösterreich,
-562,Theiß,1,0,0,0,1,48.40,15.69,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-563,Tišnov,4,0,0,4,0,49.35,16.42,1,,Mähren,Brünner Teil,Brünner Teil
-564,Tittmoning,2,1,1,0,0,48.06,12.77,1,,Salzburg,Salzburg,Salzburg
-565,Tobra,1,0,0,0,1,48.23,14.69,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-566,Toruń,2,1,1,0,0,53.01,18.60,1,,Pommern,Pommern,Pommern
-567,Traboch,1,0,0,0,1,47.38,14.99,1,,Steiermark,Nordsteiermark,Nordsteiermark
-568,Traiskirchen,2,1,1,0,0,48.01,16.30,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-569,Traubenberg,0,0,0,0,0,46.95,15.62,1,kopec,Steiermark,Mittelsteiermark,Mittelsteiermark
-570,Třebelovice,1,0,0,1,0,49.02,15.67,1,,Mähren,Znaimer Teil,Znaimer Teil
-571,Trhové Sviny,2,0,0,2,0,48.84,14.64,1,,Böhmen,Südböhmen,Südböhmen
-572,Trnava,3,1,1,1,0,48.38,17.59,1,,Ungarn,Westungarn,Westungarn
-573,Trnovany,1,0,0,1,0,50.32,13.60,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-574,Troppauer Teil,1,0,0,1,0,,,2,,Schlesien,Troppauer Teil,Troppauer Teil
-575,Troppauer Teil Olmützer Teil,0,0,0,0,0,,,2,,,Troppauer Teil Olmützer Teil,Troppauer Teil Olmützer Teil
-576,Trübensee,2,0,0,1,1,48.36,16.04,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-577,Trzebnica,2,1,1,0,0,51.31,17.06,1,,Schlesien,Schlesien,Schlesien
-578,Tulln,9,0,0,7,2,48.33,16.06,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-579,Türnitz,1,0,0,0,1,47.93,15.49,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-580,Tursko,1,0,0,0,1,50.19,14.32,1,,Böhmen,Mittelböhmen,Mittelböhmen
-581,Úherce,1,0,0,0,1,50.37,14.99,3,,Böhmen,Nordböhmen,Nordböhmen
-582,Uherské Hradiště,9,2,3,3,1,49.07,17.46,1,,Mähren,Südostmähren,Südostmähren
-583,Uherský Brod,4,0,0,3,1,49.03,17.65,1,,Mähren,Südostmähren,Südostmähren
-584,Uherský Ostroh,2,1,1,0,0,48.99,17.39,1,,Mähren,Südostmähren,Südostmähren
-585,Ujazd,2,1,1,0,0,50.39,18.35,1,,Schlesien,Troppauer Teil,Troppauer Teil
-586,Ulmerfeld,1,0,0,0,1,48.08,14.82,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-587,Uničov,2,1,1,0,0,49.77,17.12,1,,Mähren,Olmützer Teil,Olmützer Teil
-588,Unterlaa,1,0,0,0,1,48.13,16.42,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-589,Ústí nad Labem,2,0,0,2,0,50.66,14.04,1,,Böhmen,Nordböhmen,Nordböhmen
-590,Valtice,1,0,0,0,1,48.74,16.75,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-591,Velehrad,12,2,1,9,0,49.11,17.40,1,,Mähren,Südostmähren,Südostmähren
-592,Velké Hoštice,1,0,0,0,1,49.94,17.97,1,,Schlesien,Troppauer Teil,Troppauer Teil
-593,Velký Týnec,1,0,0,0,1,49.55,17.34,1,,Mähren,Olmützer Teil,Olmützer Teil
-594,Vernéřov,1,0,0,0,1,50.40,13.22,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-595,Veveří,1,1,0,0,0,49.26,16.46,1,,Mähren,Brünner Teil,Brünner Teil
-596,Viechtwang,1,0,0,0,1,47.92,13.96,1,,Oberösterreich,Oberösterreich,Oberösterreich
-597,Viehofen,2,0,0,2,0,48.19,15.62,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-598,Viktring,4,0,0,4,0,46.59,14.27,1,,Kärnten,Ostkärnten,Ostkärnten
-599,Vilémov,2,0,0,2,0,49.81,15.53,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-600,Vilstal,2,1,1,0,0,48.45,12.36,,,,,
-601,Villach,2,1,1,0,0,46.61,13.86,1,,Kärnten,Westkärnten,Westkärnten
-602,Vizovice,1,0,0,1,0,49.22,17.85,,,Mähren,Nordostmähren,Nordostmähren
-603,Vöcklabruck,2,1,1,0,0,48.01,13.65,1,,Oberösterreich,Oberösterreich,Oberösterreich
-604,Vogtland,0,0,0,0,0,,,2,,Bayern,Bayern,Bayern
-605,Voitsberg,3,2,1,0,0,47.05,15.15,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-606,Völkermarkt,2,1,1,0,0,46.66,14.63,1,,Kärnten,Ostkärnten,Ostkärnten
-607,Volkersdorf,1,0,0,1,0,48.19,14.43,1,,Oberösterreich,Oberösterreich,Oberösterreich
-608,Vornbach,1,0,0,1,0,48.49,13.44,1,,Bayern,Bayern,Bayern
-609,Vracov,2,1,1,0,0,48.98,17.21,1,,Mähren,Südostmähren,Südostmähren
-610,Vratěnín,1,0,0,0,1,48.90,15.60,1,,Mähren,Znaimer Teil,Znaimer Teil
-611,Vronovy,1,0,0,1,0,,,4,,Mähren,Südostmähren,Südostmähren
-612,Vsisko,2,0,0,0,2,49.55,17.31,1,,Mähren,Olmützer Teil,Olmützer Teil
-613,Vyšehrad,13,0,0,13,0,50.06,14.42,1,,Prag,Prag,Prag
-614,Vyškov,4,2,2,0,0,49.28,17.00,1,,Mähren,Olmützer Teil,Olmützer Teil
-615,Vysoké Mýto,1,0,0,1,0,49.95,16.16,1,,Böhmen,Ostböhmen,Ostböhmen
-616,Vyšší Brod,4,1,1,2,0,48.62,14.31,1,,Böhmen,Südböhmen,Südböhmen
-617,Waidhofen,1,0,0,1,0,47.96,14.77,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-618,Waidhofen an der Ybbs,1,0,0,0,1,47.96,14.77,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-619,Waldhausen,0,0,0,0,0,48.52,15.26,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-620,Waldhausen im Strudengau,4,0,0,4,0,48.27,14.95,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-621,Waldsassen,4,0,0,4,0,50.00,12.31,1,,Egerland,Egerland,Egerland
-622,Waxenegg,1,0,0,0,1,47.27,15.68,1,ruiny hradu,Steiermark,Mittelsteiermark,Mittelsteiermark
-623,Weikertschlag,1,0,0,0,1,48.62,14.86,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-624,Weiselburg,1,0,0,0,1,48.13,15.14,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-625,Weißenstein,2,0,0,1,1,46.67,13.74,1,,Kärnten,Westkärnten,Westkärnten
-626,Weißkirchen in Steiermark,1,0,0,0,1,47.16,14.74,1,,Steiermark,Nordsteiermark,Nordsteiermark
-627,Weitra,3,0,0,3,0,48.69,14.93,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-628,Wels,14,6,6,1,1,48.16,14.03,1,,Oberösterreich,Oberösterreich,Oberösterreich
-629,Westkärnten,0,0,0,0,0,,,2,,Kärnten,Westkärnten,Westkärnten
-630,Westungarn,0,0,0,0,0,,,2,,Ungarn,Westungarn,Westungarn
-631,Wetzleinsdorf,1,0,0,0,1,48.48,16.38,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-632,Wien,268,116,124,20,8,48.22,16.39,1,,Wien,Wien,Wien
-633,Wiener Neustadt,32,8,8,11,5,47.81,16.24,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-634,Wienflusse,0,0,0,0,0,48.21,16.37,2,,Wien,Wien,Wien
-635,Wiesenfeld,2,0,0,1,1,48.05,15.64,3,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-636,Wildon,3,0,0,3,0,46.89,15.50,1,,Steiermark,Mittelsteiermark,Mittelsteiermark
-637,Wilfleinsdorf,1,0,0,0,1,48.01,16.72,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-638,Wilhemsburg,1,1,0,0,0,48.11,15.61,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-639,Wilhering,9,0,0,9,0,48.32,14.19,1,,Oberösterreich,Oberösterreich,Oberösterreich
-640,Wimpassing im Schwarzatale,1,0,0,0,1,47.70,16.03,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-641,Winden am See,2,0,0,1,1,47.95,16.75,1,,Ungarn,Westungarn,Westungarn
-642,Windischgarsten,3,0,0,0,3,47.72,14.33,1,,Oberösterreich,Oberösterreich,Oberösterreich
-643,Winkl,1,0,0,0,1,48.67,15.48,1,,,,
-644,Winzendorf-Muthmannsdorf,1,0,0,0,1,47.81,16.12,1,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-645,Wolkersdorf,1,0,0,1,0,48.38,16.52,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-646,Wrocław,13,6,6,1,0,51.11,17.03,1,,Schlesien,Schlesien,Schlesien
-647,Ybbs an der Donau,5,0,0,2,3,48.17,15.06,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-648,Ysperklamm,1,0,0,0,1,48.34,15.06,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-649,Zábrdovice,1,0,0,1,0,49.20,16.62,1,,Mähren,Brünner Teil,Brünner Teil
-650,Zahořany,1,0,0,0,1,49.43,13.00,1,,Böhmen,Südwestböhmen,Südwestböhmen
-651,Žalkovice,1,0,0,0,1,49.37,17.44,1,,Mähren,Nordostmähren,Nordostmähren
-652,Žatec,4,1,1,1,1,50.33,13.54,1,,Böhmen,Nordwestböhmen,Nordwestböhmen
-653,Zbraslav,3,3,0,0,0,49.98,14.39,1,,Böhmen,Mittelböhmen,Mittelböhmen
-654,Zbůch,1,0,0,0,1,49.68,13.23,1,,Böhmen,Südwestböhmen,Südwestböhmen
-655,Žďákov,1,0,0,0,1,49.51,14.17,2,zaniklé,Böhmen,Südböhmen,Südböhmen
-656,Ždánice,1,0,0,0,1,49.97,14.96,1,,Böhmen,Ostböhmen,Ostböhmen
-657,Žďár nad Sázavou,6,0,0,6,0,49.56,15.94,1,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
-658,Zduchovice,0,0,0,0,0,49.64,14.21,1,,Böhmen,Mittelböhmen,Mittelböhmen
-659,Železná,1,0,0,0,1,49.97,14.96,1,,Böhmen,Mittelböhmen,Mittelböhmen
-660,Zelking-Matzleinsdorf,1,0,0,1,0,48.18,15.26,1,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
-661,Zhoř (Tachov),1,0,0,0,1,49.66,12.97,1,,Böhmen,Südwestböhmen,Südwestböhmen
-662,Žiče,3,0,0,3,0,46.32,15.48,3,Na severe SI je ďalšia Žiče,Steiermark,Südsteiermark,Südsteiermark
-663,Zlatá Koruna,5,0,0,5,0,48.85,14.37,1,,Böhmen,Südböhmen,Südböhmen
-664,Zlatníky,1,0,0,0,1,49.94,17.83,3,,Schlesien,Troppauer Teil,Troppauer Teil
-665,Zlíchov,2,0,0,0,2,50.05,14.41,1,,Böhmen,Mittelböhmen,Mittelböhmen
-666,Znaimer Teil,1,0,0,1,0,,,2,,Mähren,Znaimer Teil,Znaimer Teil
-667,Znojmo,59,27,27,3,2,48.86,16.05,1,,Mähren,Znaimer Teil,Znaimer Teil
-668,Zvíkov,5,2,2,1,0,49.44,14.19,1,,Böhmen,Südböhmen,Südböhmen
-669,Zwerndorf,1,0,0,0,1,48.34,16.84,1,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
-670,Zwettl,23,2,2,18,1,48.61,15.17,1,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
-671,Vrutice,2,0,0,0,2,50.50,14.29,1,,,,
-672,Polepy,1,0,0,0,1,50.51,14.27,1,,,,
-673,Červený Újezd,1,0,0,0,1,50.07,14.17,1,,,,
-674,Čretež pri Krškem,2,0,0,0,2,45.97,15.46,1,,,,
-675,Dolenje Mokro Polje,2,0,0,0,2,45.83,15.28,1,,,,
-676,Dvorec Prežek,2,0,0,0,2,45.80,15.32,1,,,,
-677,Leitzersdorf,1,0,0,0,1,48.42,16.24,1,,,,
-678,Pulkau,0,0,0,0,0,48.71,15.86,1,,,,
-679,Oberweiden,1,0,0,0,1,48.31,16.83,1,,,,
-680,Chrastičky,1,0,0,0,1,49.57,14.08,1,,,,
-681,Dürnberg,1,0,0,0,1,48.34,14.21,1,,,,
-682,Hainersdorf,1,0,0,0,1,47.11,15.94,1,,,,
-683,Würflach,1,0,0,0,1,47.78,16.05,1,,,,
-684,Rebenstein an der Pielach,1,0,0,0,1,48.06,15.47,1,,,,
-685,Hüttenberg,1,0,0,0,1,50.52,8.58,1,,,,
-686,Trnová,1,0,0,0,1,49.92,14.36,1,,,,
-687,Bruck an der Leitha,1,0,0,0,1,48.03,16.78,1,,,,
-688,Žiželice,1,0,0,0,1,50.13,15.40,1,,,,
-689,Kučerov,1,0,0,0,1,49.22,17.00,1,,,,
-690,Urfar,1,0,0,0,1,48.30,13.19,1,,,,
-691,Schönau,1,0,0,0,1,48.49,12.84,1,,,,
-692,Šentjur pri Celju,1,0,0,0,1,46.21,15.40,1,,,,
-693,Škofja Loka,1,0,0,0,1,46.17,14.31,1,,,,
-694,Litochovice nad Labem,1,0,0,0,1,50.56,14.03,1,,,,
-695,Sankt Georgen an der Stiefing,2,0,0,0,2,46.88,15.58,1,,,,
-696,Eppenstein,1,0,0,0,1,47.13,14.74,1,,,,
-697,Rabenstein an der Pielach,3,0,0,3,0,48.06,15.47,1,,,,
-698,Falkenstein an der Ranna,1,0,0,1,0,48.49,13.78,1,,,,
-699,Kreuzenstein,1,0,0,1,0,48.38,16.31,1,,,,
-700,Grimma,2,1,1,0,0,51.23,12.72,1,,,,
-701,Atzelldorf,1,0,0,0,1,48.50,16.55,1,,,,
-702,Obermarkesdorf,1,0,0,0,1,48.74,15.90,1,,,,
+id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1,region2,region3
+1,Absdorf,1,0,0,0,1,48.40,15.98,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+2,Admont,7,0,0,7,0,47.58,14.47,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+3,Aisthofen in Riedmark,1,0,0,0,1,48.26,14.59,3,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+4,Aldersbach,1,0,0,1,0,48.59,13.09,1,gemeinde,,Bayern,Bayern,Bayern
+5,Alland,1,0,0,0,1,48.06,16.08,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+6,Alt-Melon/Altmelon,1,0,0,1,0,48.46,14.97,3,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+7,Altenburg,6,1,1,4,0,48.65,15.59,3,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+8,Altenhofen,2,0,0,1,1,48.18,14.55,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+9,Altpölla,3,0,0,2,1,48.63,15.38,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+10,Altzelle,1,0,0,1,0,51.06,13.28,1,gemeinde,,Meissen,Meissen,Meissen
+11,Amstetten,3,1,1,0,1,48.12,14.87,1,gemeinde,,,,
+12,Apfaltersbach,1,0,0,0,1,47.68,15.90,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+13,Ardagger,4,0,0,3,1,48.18,14.83,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+14,Arnoldstein,2,1,1,0,0,46.55,13.75,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+15,Arzwald,3,0,0,0,3,47.22,15.28,2,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+16,Assisi,2,1,1,0,0,43.07,12.61,1,gemeinde,,Italien,Italien,Italien
+17,Atzelsdorf,0,0,0,0,0,48.29,15.96,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+18,Bad Aussee,1,0,0,0,1,47.61,13.78,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+19,Bad Ischl,2,0,0,0,2,47.71,13.62,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+20,Bad Radkersburg,2,1,1,0,0,46.69,15.99,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+21,Balga,2,1,1,0,0,54.56,19.97,1,gemeinde,,Preussen (Ausland),Preussen (Ausland),Preussen (Ausland)
+22,Baumgartenberg,3,0,0,3,0,48.21,14.74,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+23,Baumkirchen,1,0,0,1,0,47.15,14.75,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+24,Bautzen,0,0,0,0,0,51.18,14.42,1,gemeinde,,Bautzenland,Bautzenland,Bautzenland
+25,Bautzenland,0,0,0,0,0,,,2,region,,Bautzenland,Bautzenland,Bautzenland
+26,Bayern,1,0,0,1,0,,,2,region,,Bayern,Bayern,Bayern
+27,Benešov,1,0,0,1,0,49.93,18.00,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+28,Beňovice,2,0,0,0,2,49.39,13.26,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+29,Berchtesgaden,2,0,0,2,0,47.63,13.00,1,gemeinde,,Salzburg,Salzburg,Salzburg
+30,Beroun,4,2,2,0,0,49.96,14.07,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+31,Bítov,2,0,0,2,0,48.94,15.73,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+32,Bítov bei Stříbro,1,0,0,0,1,49.75,13.00,2,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+33,Blansko,4,2,2,0,0,49.36,16.64,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+34,Bliszyczyce,1,0,0,0,1,50.08,17.75,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+35,Blučina,1,0,0,0,1,49.06,16.65,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+36,Böhmen,8,0,0,8,0,,,2,region,,Böhmen,Böhmen,Böhmen
+37,Böhmisch Bruck,2,0,0,2,0,49.58,12.35,1,gemeinde,,Bayern,Bayern,Bayern
+38,Böhmischmährische Höhe,0,0,0,0,0,,,2,region,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+39,Boletice,1,0,0,0,1,48.83,14.22,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+40,Brandenburg,0,0,0,0,0,,,2,region,,Brandenburg,Brandenburg,Brandenburg
+41,Bratislava,29,12,12,5,0,48.14,17.10,1,gemeinde,,Ungarn,Westungarn,Westungarn
+42,Břevnov,13,0,0,13,0,50.07,14.38,1,gemeinde,,Prag,Prag,Prag
+43,Brixen,1,0,0,1,0,46.72,11.66,1,gemeinde,,Kärnten,Westkärnten,Westkärnten
+44,Brno,104,42,48,10,4,49.19,16.61,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+45,Brozany nad Ohří,1,0,0,0,1,50.45,14.15,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+46,Bruck an der Mur,2,0,0,2,0,47.41,15.27,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+47,Brünner Teil,0,0,0,0,0,,,2,region,,Mähren,Brünner Teil,Brünner Teil
+48,Bubeneč,1,0,0,0,1,50.10,14.40,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+49,Buda,0,0,0,0,0,47.49,19.05,1,gemeinde,,Ungarn,Westungarn,Westungarn
+50,Budeč,2,0,0,0,2,50.19,14.25,1,gemeinde,hrad,Böhmen,Mittelböhmen,Mittelböhmen
+51,Budyně nad Ohří,8,4,4,0,0,50.40,14.13,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+52,Čáslav,5,1,1,2,1,49.91,15.39,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+53,Čepihory,1,0,0,1,0,50.49,13.62,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+54,Cerhonice,1,0,0,0,1,49.42,14.06,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+55,Cerhovice,1,0,0,0,1,49.85,13.83,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+56,Červený Kameň,3,1,1,1,0,48.39,17.34,1,gemeinde,,Ungarn,Westungarn,Westungarn
+57,České Budějovice,4,1,1,1,1,48.97,14.47,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+58,České Kopisty,1,0,0,0,1,50.53,14.17,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+59,Český Krumlov,1,0,0,1,0,48.81,14.32,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+60,Cetonice,1,0,0,0,1,48.88,15.96,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+61,Cham,4,2,2,0,0,49.22,12.67,1,gemeinde,,Bayern,Bayern,Bayern
+62,Cheb,4,1,1,2,0,50.07,12.38,1,gemeinde,,Egerland,Egerland,Egerland
+63,Chełmno,4,2,2,0,0,53.35,18.42,1,gemeinde,,Preussen,Preussen,Preussen
+64,Chomutov,1,0,0,1,0,50.46,13.41,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+65,Chomýž,1,0,0,0,1,50.11,17.65,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+66,Chotěšov,5,0,0,5,0,49.65,13.20,3,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+67,Chrudim,1,0,0,1,0,49.95,15.80,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+68,Cvilín,1,0,0,1,0,50.08,17.72,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+69,Dědice,2,0,0,2,0,49.29,16.98,3,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+70,Deutschlandsberg,1,0,0,0,1,,,1,gemeinde,,,,
+71,Diváky,2,0,0,0,2,48.99,16.79,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+72,Dobi,1,0,0,0,1,46.95,15.37,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+73,Dobra (bei St. Peter in der Au-Markt ),1,0,0,1,0,48.05,14.63,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+74,Dobrava pri Škocjanu,3,0,0,1,2,45.88,15.33,1,gemeinde,,Krain,Krain,Krain
+75,Dobrenje,1,0,0,0,1,46.61,15.66,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+76,Dobříš,2,1,1,0,0,49.78,14.18,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+77,Doksany,4,0,0,4,0,50.45,14.16,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+78,Doksy,1,0,0,1,0,50.56,14.66,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+79,Dolní Bukovsko,1,0,0,0,1,49.17,14.58,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+80,Dolní Černošice,1,0,0,0,1,49.96,14.33,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+81,Dolní Vltavice,1,0,0,0,1,48.70,14.08,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+82,Domažlice,6,2,2,1,1,49.44,12.93,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+83,Doubravník,2,0,0,2,0,49.42,16.35,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+84,Doudleby,1,0,0,0,1,48.89,14.50,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+85,Dranek (Treun heute bei Videm při Ptuju),1,0,0,1,0,46.37,15.90,1,gemeinde,,Steiermark,Südsteiermark,
+86,Dravograd,1,0,0,0,1,46.59,15.02,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+87,Dřenice,1,0,0,0,1,49.98,15.75,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+88,Drnholec,2,0,0,2,0,48.86,16.49,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+89,Drosendorf,5,2,2,0,1,48.87,15.62,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+90,Dürnstein,2,0,0,2,0,48.41,15.52,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+91,Eckartsau,1,0,0,1,0,48.16,16.80,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+92,Eferding,1,0,0,0,1,48.31,14.02,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+93,Eger,3,1,1,1,0,47.90,20.37,1,gemeinde,,Ungarn,Westungarn,Westungarn
+94,Egerland,1,0,0,1,0,,,2,region,,Egerland,Egerland,Egerland
+95,Eggenburg,4,1,1,0,2,48.64,15.82,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+96,Eggendorf am Wagram,1,0,0,0,1,48.40,16.04,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+97,Eggendorf bei Wiener Neustadt,1,0,0,0,1,47.86,16.32,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+98,ein Wald Bor zwischen Kolín und Čáslav,2,0,0,0,2,50.00,15.31,2,gemeinde,les,Böhmen,Ostböhmen,Ostböhmen
+99,Eisdorf,1,0,0,1,0,51.76,10.18,1,gemeinde,untergegangenes Dorf,Niederösterreich,Nordostniederösterreich,
+100,Eisenreichdornach,1,0,0,0,1,48.13,14.89,3,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+101,Elbląg,4,2,2,0,0,54.15,19.41,1,gemeinde,,Preussen,Preussen,Preussen
+102,Emmersdorf an der Donau,3,0,0,1,2,48.25,15.32,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+103,Enns,9,2,2,2,3,48.21,14.48,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+104,Erla,2,0,0,2,0,48.20,14.57,3,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+105,Ernstbrunn,2,0,0,1,1,48.53,16.36,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+106,Falkenberg,2,0,0,2,0,48.50,15.73,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+107,Falkenstein,1,0,0,0,1,48.72,16.59,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+108,Falkenstein an der Ranna,1,0,0,1,0,48.49,13.78,1,gemeinde,,Bayern,Bayern,Bayern
+109,Feistritz bei Prank,1,0,0,0,1,47.28,14.86,2,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+110,Frankenreith,1,0,0,0,1,48.68,15.53,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+111,Freising,33,0,0,33,0,48.40,11.75,3,gemeinde,,Bayern,Bayern,Bayern
+112,Freistadt,18,9,9,0,0,48.52,14.52,3,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+113,Friesach,11,4,4,2,1,46.98,14.33,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+114,Frýdlant,2,0,0,1,1,50.92,15.08,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+115,Fulštejn,3,0,0,2,1,50.24,17.71,3,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+116,Fürstenfeld,1,0,0,1,0,47.05,16.07,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+117,Gaflenz,1,0,0,0,1,47.90,14.73,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+118,Gaming,4,2,2,0,0,47.93,15.09,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+119,Gars am Kamp,1,0,0,0,1,48.60,15.66,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+120,Garsten,5,0,0,5,0,48.02,14.41,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+121,Geras,3,0,0,3,0,48.78,15.66,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+122,Gerasdorf,1,0,0,0,1,48.30,16.47,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+123,Glanz an der Weinstraße,1,0,0,0,1,46.66,15.54,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+124,Glaubitsch,2,0,0,1,1,48.65,16.38,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+125,Gleink,4,0,0,4,0,48.07,14.42,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+126,Głubczyce,9,2,2,4,1,50.20,17.83,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+127,Gornji Grad,1,0,0,1,0,46.29,14.80,1,gemeinde,,Patriarchat Aquileia,Patriarchat Aquileia,Patriarchat Aquileia
+128,Gosau,1,0,0,0,1,47.59,13.54,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+129,Gössendorf,2,0,0,0,2,47.00,15.49,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+130,Göttweig,3,0,0,3,0,48.37,15.61,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+131,Gramastetten,2,0,0,0,2,48.38,14.19,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+132,Graslupp,0,0,0,0,0,47.07,14.38,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+133,Gratwein,2,0,0,1,1,47.13,15.32,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+134,Graz,80,38,39,2,1,47.07,15.45,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+135,Grobniki,6,0,0,4,2,50.20,17.87,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+136,Groißenbrunn,2,1,1,0,0,48.22,16.90,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+137,Großjedlersdorf,0,0,0,0,0,48.28,16.41,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+138,Groß-Enzersdorf,3,0,0,0,3,48.20,16.55,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+139,Großotten,2,0,0,2,0,48.64,14.98,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+140,Grosspolen,0,0,0,0,0,,,2,region,,Pollen,Grosspolen,Grosspolen
+141,Guntersdorf,1,0,0,0,1,48.65,16.05,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+142,Gurk,3,0,0,2,1,46.87,14.29,1,gemeinde,,Kärnten,Ostkärnten (Ausland),Ostkärnten (Ausland)
+143,Gwardeisk,2,1,1,0,0,54.65,21.07,1,gemeinde,,Preussen,Preussen,Preussen
+144,Györ,3,1,1,1,0,47.69,17.63,1,gemeinde,,Ungarn,Westungarn,Westungarn
+145,Haidershofen,2,0,0,0,2,48.08,14.46,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+146,Hainburg,11,5,5,0,1,48.15,16.95,3,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+147,Halbenrein,2,0,0,1,1,46.73,15.93,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+148,Hardegg,3,0,0,3,0,48.85,15.86,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+149,Haringsee,1,0,0,0,1,48.19,16.79,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+150,Hartberg,2,1,1,0,0,47.28,15.97,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+151,Haslau an der Donau,1,0,0,1,0,48.12,16.72,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+152,Hassbach,1,0,0,1,0,47.65,16.06,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+153,Havlíčkův Brod,9,3,3,2,1,49.61,15.58,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+154,Heiligenkreuz,15,0,0,15,0,48.06,16.13,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+155,Hejčín,2,0,0,0,2,49.60,17.24,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+156,Helfenstein,1,0,0,0,1,47.09,15.19,1,gemeinde,hrad,Steiermark,Mittelsteiermark,Mittelsteiermark
+157,Hennersdorf bei Wien,1,0,0,0,1,48.11,16.36,1,gemeinde,,Wien,Wien,Wien
+158,Hernstein,2,0,0,0,2,47.89,16.10,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+159,Herzogenbirbaum,2,1,1,0,0,48.52,16.25,2,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+160,Heunburg,1,0,0,1,0,46.69,14.67,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+161,Hluboký,0,0,0,0,0,49.52,14.04,2,gemeinde,zaniklé,Böhmen,Südböhmen,Südböhmen
+162,Hlučín,1,0,0,1,0,49.90,18.19,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+163,Hněvkovice,1,0,0,1,0,49.69,15.20,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+164,Hohenberg,5,0,0,5,0,47.91,15.62,3,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+165,Hohenwarth,1,0,0,0,1,48.51,15.83,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+166,Holenstein an der Ybbs,1,0,0,0,1,47.81,14.77,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+167,Hořepník,2,0,0,1,1,49.51,15.11,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+168,Hórky u Klatov,2,0,0,0,2,49.40,13.30,2,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+169,Horn,1,0,0,1,0,48.67,15.66,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+170,Horní Slavkov,1,0,0,0,1,50.14,12.81,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+171,Hradec Králové,9,4,4,1,0,50.21,15.83,1,gemeinde,,Böhmen,Nordostböhmen,Nordostböhmen
+172,Hradec nad Moravicí,6,3,3,0,0,49.87,17.87,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+173,Hradisko u Olomouce,0,0,0,0,0,49.61,17.27,3,gemeinde,"Pokiaľ je to správne Hradisko, tak asi zjednotiť s Olomoucí",Mähren,Olmützer Teil,Olmützer Teil
+174,Hrdibořice,1,0,0,0,1,49.48,17.22,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+175,Hrušovany,3,0,0,0,3,50.52,14.28,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+176,Hulín,1,0,0,0,1,49.32,17.46,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+177,Hundsheim,2,0,0,1,1,48.39,15.56,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+178,Hustopeče,1,0,0,1,0,48.94,16.74,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+179,Imbach,4,0,0,4,0,48.44,15.58,1,gemeinde,Zjednotiť s Krems?,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+180,Italien,0,0,0,0,0,,,2,region,,Italien,Italien,Italien
+181,Jablonné v Podještědí,2,1,1,0,0,50.77,14.76,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+182,Jägerberg bei Steyr,1,0,0,1,0,48.04,14.42,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+183,Jaroměřice nad Rokytkou,5,2,2,1,0,49.09,15.89,1,gemeinde,Jaromerice nad Rokytnou?,Mähren,Znaimer Teil,Znaimer Teil
+184,Jedenspeigen,4,2,2,0,0,48.50,16.87,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+185,Jemníky,1,0,0,0,1,50.21,14.12,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+186,Jeneč,1,0,0,0,1,50.09,14.21,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+187,Jevíčko,1,0,0,1,0,49.63,16.71,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+188,Jihlava,18,7,7,4,0,49.40,15.59,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+189,Jindřichův Hradec,3,1,1,1,0,49.14,15.00,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+190,Judenburg,16,5,5,5,1,47.17,14.67,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+191,Jundrov,1,0,0,0,1,49.21,16.54,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+192,Kadaň,2,0,0,2,0,50.38,13.27,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+193,Kahlenberg (heute Leopoldberg),1,1,0,0,0,48.28,16.35,1,gemeinde,,Wien,Wien,Wien
+194,Kaliningrad,2,1,1,0,0,54.71,20.51,1,gemeinde,,Preussen,Preussen,Preussen
+195,Kalisz,2,1,1,0,0,51.76,18.09,1,gemeinde,,Pollen,Pollen,Pollen
+196,Kamenz,2,1,1,0,0,51.27,14.10,1,gemeinde,,,,
+197,Kamnik,1,0,0,1,0,46.22,14.61,1,gemeinde,,Krain,Krain,Krain
+198,Kamýk nad Vltavou,6,3,3,0,0,49.64,14.25,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+199,Kappling,1,0,0,1,0,48.14,13.90,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+200,Kärnten,1,0,0,1,0,,,2,region,,Kärnten,Kärnten,Kärnten
+201,Kelč,4,2,2,0,0,49.48,17.82,1,gemeinde,,,,
+202,Kienberg,1,0,0,0,1,46.78,14.77,1,gemeinde,,Kärnten,Westkärnten,Westkärnten
+203,Kirchberg am Wechsel,1,0,0,1,0,47.61,15.99,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+204,Kircheim unter Teck,1,0,0,0,1,48.65,9.45,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+205,Kladruby,6,2,2,2,0,49.71,13.00,3,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+206,Klagenfurt,1,0,0,0,1,46.62,14.31,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+207,Klatovy,2,0,0,2,0,49.40,13.30,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+208,Kleinweikersdorf,3,1,1,0,1,48.63,16.20,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+209,Kleinzwettl,1,0,0,0,1,48.88,15.22,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+210,Klevevž (Klingenfels),1,0,0,1,0,45.91,15.23,2,gemeinde,,Krain,Krain,Krain
+211,Kłodzko,3,0,0,3,0,50.43,16.66,1,gemeinde,,Böhmen,Nordostböhmen,Nordostböhmen
+212,Klosterneuburg,9,0,0,8,1,48.31,16.33,1,gemeinde,,Wien,Wien,Wien
+213,Knínice - Konice,1,0,0,0,1,49.57,16.79,2,gemeinde,oblast,Mähren,Olmützer Teil,Olmützer Teil
+214,Knittelfeld,1,0,0,1,0,47.20,14.84,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+215,Kolín,1,0,0,1,0,50.03,15.20,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+216,Königsbrunn am Wagram,4,0,0,4,0,48.39,15.93,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+217,Korneuburg,8,7,0,1,0,48.34,16.33,1,gemeinde,,Wien,Wien,Wien
+218,Kostanjevica na Krki,9,2,2,4,1,45.85,15.42,1,gemeinde,,Krain,Krain,Krain
+219,Kostelec,1,0,0,0,1,50.15,17.67,4,gemeinde,část dnešní obce Radynia,Schlesien,Troppauer Teil,Troppauer Teil
+220,Kostelní Myslová,1,0,0,0,1,49.15,15.43,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+221,Kouřim,1,0,0,1,0,50.00,14.98,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+222,Kozłówki,1,0,0,0,1,50.09,17.97,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+223,Krain,0,0,0,0,0,,,2,region,,Krain,Krain,Krain
+224,Krakauer Land,0,0,0,0,0,,,2,region,,Pollen,Krakauer Land,Krakauer Land
+225,Kraków,2,0,0,2,0,50.06,19.94,1,gemeinde,,Pollen,Krakauer Land,Krakauer Land
+226,Kralice,1,0,0,0,1,49.20,16.20,1,gemeinde,,,,
+227,Kraslice,1,0,0,0,1,50.32,12.52,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+228,Kravaře u České Lípy,3,1,1,1,0,50.63,14.39,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+229,Krems an der Donau,72,30,30,5,7,48.41,15.62,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+230,Kremsmünster,8,0,0,8,0,48.05,14.13,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+231,Křivoklát,14,7,7,0,0,50.04,13.87,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+232,Krnov,1,0,0,1,0,50.09,17.70,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+233,Kroměříž,13,6,6,1,0,49.30,17.39,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+234,Krumau an der Kamp,7,3,3,0,1,48.59,15.45,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+235,Krzanowice,1,0,0,1,0,50.02,18.12,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+236,Kühnring,1,0,0,1,0,48.63,15.78,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+237,Kumberg,1,0,0,0,1,47.16,15.53,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+238,Kvítkovice,1,0,0,1,0,48.96,14.33,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+239,Laa an der Thaya,24,11,11,2,0,48.73,16.38,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+240,Ladendorf,1,0,0,0,1,48.53,16.49,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+241,Lahovice,1,0,0,0,1,49.99,14.39,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+242,Lambach,2,0,0,2,0,48.09,13.88,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+243,Laufen,2,1,1,0,0,47.94,12.93,1,gemeinde,,Salzburg,Salzburg,Salzburg
+244,Lavanttal,1,0,0,1,0,46.70,14.86,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+245,Ledce,1,0,0,0,1,49.82,13.33,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+246,Leibnitz,3,0,0,0,3,46.78,15.54,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+247,Leising bei Kraubath,2,0,0,0,2,47.30,14.93,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+248,Lemberg pri Novi Cerkvi/Lemberg bei Neuhaus,2,0,0,2,0,46.32,15.25,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+249,Lengbach,0,0,0,0,0,48.19,15.96,2,gemeinde,Toto je iba nejaké rieka asi,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+250,Leoben,5,2,2,1,0,47.38,15.10,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+251,Leobendorf,1,0,0,0,1,48.37,16.32,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+252,Lešany,1,0,0,1,0,49.50,17.02,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+253,Lhota,1,0,0,0,1,49.31,16.95,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+254,Libčice nad Vltavou,0,0,0,0,0,50.20,14.36,1,gemeinde,,Prag,Prag,Prag
+255,Lichnice,1,0,0,1,0,49.88,15.59,1,gemeinde,"49.2614067, 13.9023714",Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+256,Liechtenstein,3,0,0,3,0,48.09,16.27,2,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+257,Liesing,1,0,0,0,1,48.15,16.30,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+258,Lilienfeld,23,4,4,15,0,48.01,15.60,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+259,Linz,49,19,19,4,7,48.31,14.29,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+260,Litoměřice,14,4,4,6,0,50.53,14.13,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+261,Litomyšl,9,0,0,9,0,49.87,16.31,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+262,Litovel,1,0,0,1,0,49.70,17.08,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+263,Lobenstein,2,0,0,2,0,48.44,14.24,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+264,Logvino,2,1,1,0,0,54.77,20.21,1,gemeinde,,Preussen,Preussen,Preussen
+265,Loket,2,1,1,0,0,50.19,12.75,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+266,Losenstein,1,0,0,0,1,47.92,14.44,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+267,Louka,1,0,0,1,0,48.84,16.06,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+268,Lovešice,1,0,0,0,1,49.43,17.45,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+269,Lovosice,1,0,0,0,1,50.52,14.05,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+270,Lubljana,3,1,1,1,0,46.05,14.51,1,gemeinde,,Krain,Krain,Krain
+271,Lukov,2,0,0,1,1,49.07,15.82,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+272,Machland,3,0,0,1,2,,,2,region,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+273,Magyaróvár,4,1,1,2,0,47.87,17.26,1,gemeinde,,Ungarn,Westungarn,Westungarn
+274,Mähren,5,0,0,5,0,,,2,region,,Mähren,Mähren,Mähren
+275,Mailberg,7,1,1,5,0,48.67,16.18,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+276,Mainz,3,0,0,3,0,50.00,8.27,1,gemeinde,,Rheinland,Rheinland,Rheinland
+277,Maissau,3,0,0,3,0,48.57,15.79,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+278,Makarov,1,0,0,0,1,49.25,13.81,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+279,Malé Hoštice,1,0,0,0,1,49.94,17.94,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+280,Marchegg,7,2,2,2,1,48.26,16.89,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+281,Maria Enzersdorf,2,0,0,0,2,48.10,16.29,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+282,Mariazell,5,2,2,0,1,47.77,15.32,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+283,Maribor,11,5,5,0,1,46.55,15.65,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+284,Marienthal,3,0,0,3,0,51.00,14.93,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+285,Martinsberg,2,0,0,0,2,48.38,15.15,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+286,Massenburg,2,0,0,1,1,47.38,15.10,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+287,Mauthausen,3,0,0,0,3,48.24,14.52,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+288,Meissen,1,0,0,1,0,51.16,13.47,1,gemeinde,,Meissen,Meissen,Meissen
+289,Mel'nikovo,2,1,1,0,0,54.88,20.46,1,gemeinde,,Preussen,Preussen,Preussen
+290,Melk,8,0,0,7,1,48.23,15.33,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+291,Mělník,4,0,0,4,0,50.35,14.47,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+292,Metten,4,0,0,4,0,48.85,12.91,3,gemeinde,,Bayern,Bayern,Bayern
+293,Michelhausen,2,0,0,0,2,48.29,15.94,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+294,Michelndorf,1,0,0,0,1,48.28,15.89,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+295,Michelstetten,1,0,0,0,1,48.58,16.43,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+296,Mikulov,3,0,0,2,1,48.81,16.64,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+297,Mikulovce,1,0,0,0,1,50.39,13.23,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+298,Miletín,1,0,0,1,0,50.49,15.68,1,gemeinde,,Böhmen,Nordostböhmen,Nordostböhmen
+299,Milevsko,2,1,1,0,0,49.45,14.36,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+300,Mirotice,1,0,0,1,0,49.43,14.04,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+301,Mírov,4,2,2,0,0,49.80,16.85,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+302,Mittelböhmen,0,0,0,0,0,,,2,region,,Böhmen,Mittelböhmen,Mittelböhmen
+303,Mittelsteiermark,0,0,0,0,0,,,2,region,,Steiermark,Mittelsteiermark,Mittelsteiermark
+304,Mödling,3,0,0,0,3,48.09,16.28,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+305,Modřice,4,4,0,0,0,49.13,16.61,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+306,Mokrá,1,0,0,0,1,48.76,14.13,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+308,Molln,2,0,0,1,1,47.89,14.26,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+309,Mondsee,8,0,0,8,0,47.85,13.35,1,gemeinde,,Salzburg,Salzburg,Salzburg
+310,Moravská Loděnice,1,0,0,0,1,49.66,17.28,3,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+311,Moravské Málkovice,1,0,0,1,0,49.22,17.01,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+312,Moson,2,1,1,0,0,47.86,17.26,2,gemeinde,,Ungarn,Westungarn,Westungarn
+313,Most,6,1,1,2,2,50.50,13.64,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+314,Mühldorf,2,1,1,0,0,48.24,12.52,1,gemeinde,Muhldorf am Inn,Bayern,Bayern,Bayern
+315,Münchendorf,2,1,1,0,0,48.03,16.38,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+316,Münichreith um Garsten,1,0,0,0,1,48.02,14.41,2,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+317,Muta,1,0,0,0,1,46.61,15.17,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+318,Muthmannsdorf,1,0,0,0,1,47.84,16.11,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+319,Myšenec,2,1,1,0,0,49.22,14.21,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+320,Němčice,1,0,0,0,1,49.03,14.27,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+321,Nenakovice,1,0,0,0,1,49.47,17.29,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+322,Neprobylice,1,0,0,0,1,50.26,14.03,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+323,Netolice,2,1,1,0,0,49.05,14.20,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+324,Neuburg am Inn,10,1,1,2,6,48.52,13.40,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+325,Neuhofen an der Ybbs,1,0,0,0,1,48.06,14.85,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+326,Neulengbach,2,0,0,2,0,48.20,15.91,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+327,Neumarkt,3,0,0,1,2,47.06,14.44,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+328,Neunkirchen,3,1,1,1,0,47.73,16.08,3,gemeinde,V Nemecku sú ďalšie,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+329,Neuruppersdorf,1,0,0,1,0,48.75,16.52,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+330,Niederabsdorf,1,0,0,0,1,48.57,16.86,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+331,Niederaltaich,5,0,0,5,0,48.77,13.03,1,gemeinde,,Bayern,Bayern,Bayern
+332,Niederhollabrunn,3,0,0,1,2,48.45,16.31,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+333,Niederstrahlbach,1,0,0,0,1,48.61,15.13,1,gemeinde,,Niederösterreich,Niederösterreich,Niederösterreich
+334,Niederösterreich,6,0,0,6,0,,,2,region,,Niederösterreich,Niederösterreich,Niederösterreich
+335,Nisowje,2,1,1,0,0,54.70,20.74,1,gemeinde,,Preussen,Preussen,Preussen
+336,Nitra,1,0,0,1,0,48.31,18.09,1,gemeinde,,Ungarn,Westungarn,Westungarn
+337,Nittenau,2,1,1,0,0,49.20,12.27,1,gemeinde,,Bayern,Bayern,Bayern
+338,Nižbor,4,2,2,0,0,50.00,14.00,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+339,Nordböhmen,0,0,0,0,0,,,2,region,,Böhmen,Nordböhmen,Nordböhmen
+340,Nordkärnten,0,0,0,0,0,,,2,region,,Kärnten,Ostkärnten,Ostkärnten
+341,Nordostböhmen,0,0,0,0,0,,,2,region,,Böhmen,Nordostböhmen,Nordostböhmen
+342,Nordostmähren,2,0,0,2,0,,,2,region,,Mähren,Nordostmähren,Nordostmähren
+343,Nordostniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+344,Nordostniederösterreich (Ausland),0,0,0,0,0,,,2,gemeinde,,Niederösterreich,Nordostniederösterreich (Ausland),Nordostniederösterreich (Ausland)
+345,Nordoststeiermark,0,0,0,0,0,,,2,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+346,Nordsteiermark,0,0,0,0,0,,,2,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+347,Nordwestböhmen,0,0,0,0,0,,,2,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+348,Nordwestniederösterreich,0,0,0,0,0,,,2,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+349,"Nordwestniederösterreich, Nordostniederösterreich",0,0,0,0,0,,,2,gemeinde,,Niederösterreich,"Nordwestniederösterreich, Nordostniederösterreich","Nordwestniederösterreich, Nordostniederösterreich"
+350,Norsteiermark,0,0,0,0,0,,,2,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+351,Nová Říše,1,0,0,1,0,49.14,15.56,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+352,Novákovice,2,0,0,0,2,49.37,13.26,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+353,Nowa Cerekwia,2,0,0,0,2,50.09,17.93,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+354,Nučice,2,1,1,0,0,49.96,14.88,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+355,Nürnberg,9,0,0,9,0,49.45,11.07,1,gemeinde,,Bayern,Bayern,Bayern
+356,Nuzice,1,0,0,0,1,49.27,14.46,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+357,Nymburk,1,0,0,1,0,50.19,15.04,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+358,Oberösterreich,7,0,0,7,0,,,2,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+360,Oberseifersdorf,1,0,0,0,1,50.94,14.80,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+361,Öblarn,1,0,0,0,1,47.46,13.99,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+362,Očihovec,1,0,0,0,1,50.19,13.47,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+363,Offenburg,3,0,0,3,0,47.23,14.60,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+364,Ohučov,1,0,0,0,1,49.57,13.08,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+365,Ollern,1,0,0,0,1,48.27,16.08,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+366,Olmützer Teil,1,0,0,1,0,,,2,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+367,Olomouc,84,21,21,37,5,49.60,17.25,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+368,Opatovice nad Labem,2,0,0,2,0,50.15,15.79,3,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+369,Opava,15,5,5,4,1,49.94,17.90,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+370,Opavice,1,0,0,0,1,50.15,17.60,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+371,Opole,1,0,0,1,0,50.67,17.93,1,gemeinde,,Schlesien,Schlesien,Schlesien
+372,Orlamünde,2,1,1,0,0,50.78,11.53,1,gemeinde,,Brandenburg,Brandenburg,Brandenburg
+373,Osek,7,0,0,7,0,50.62,13.69,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+374,Oslavany,6,1,1,4,0,49.12,16.34,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+375,Ostböhmen,0,0,0,0,0,,,2,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+376,Osterhofen,2,0,0,2,0,48.69,13.00,1,gemeinde,,Bayern,Bayern,Bayern
+377,Ostkärnten,2,0,0,2,0,,,2,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+378,Ostritz,0,0,0,0,0,51.02,14.93,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+379,Ostrov,2,0,0,2,0,50.31,12.95,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+380,Ostrov u Davle,0,0,0,0,0,49.88,14.39,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+381,Osttkärnten (Ausland),0,0,0,0,0,,,2,gemeinde,,Kärnten,Ostkärnten (Ausland),Ostkärnten (Ausland)
+382,Ottenschlag im Mühlkreis,1,0,0,0,1,48.47,14.38,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+383,Ottensheim,1,0,0,1,0,48.33,14.18,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+384,Panbruck,1,0,0,1,0,48.22,13.72,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+385,Pannonhalma,3,1,1,1,0,47.55,17.75,1,gemeinde,,Ungarn,Westungarn,Westungarn
+386,Passau,19,2,2,15,0,48.57,13.47,1,gemeinde,,Bayern,Bayern,Bayern
+387,Patriarchat Aquileia,0,0,0,0,0,,,2,gemeinde,,,Patriarchat Aquileia,Patriarchat Aquileia
+388,Pellendorf,1,0,0,0,1,48.10,16.45,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+389,Perchtolsdorf,2,0,0,2,0,48.12,16.27,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+390,Perg,1,0,0,1,0,48.25,14.63,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+391,Pernegg,1,0,0,0,1,48.74,15.63,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+392,Persenbeug - Gottsdorf,1,0,0,0,1,48.19,15.08,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+393,Pezinok,3,1,1,1,0,48.29,17.27,1,gemeinde,,Ungarn,Westungarn,Westungarn
+394,Pfannberg,4,0,0,3,1,47.24,15.34,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+395,Pillichsdorf,1,0,0,1,0,48.36,16.54,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+396,Písek,28,13,13,1,1,49.31,14.15,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+397,Planá,3,0,0,1,2,49.87,12.74,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+398,Planina pri Sevnici,1,0,0,1,0,46.10,15.40,1,gemeinde,,Krain,Krain,Krain
+399,Plasy,15,4,4,7,0,49.93,13.39,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+400,Plauen,1,0,0,1,0,50.49,12.14,1,gemeinde,,Bayern,Bayern,Bayern
+401,Plchov,1,0,0,0,1,50.26,13.99,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+402,Plzeň,2,0,0,0,2,49.74,13.37,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+403,Poboří,1,0,0,0,1,50.02,15.05,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+404,Poděbrady,18,9,9,0,0,50.14,15.12,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+405,Podgrad,1,0,0,0,1,46.13,15.23,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+406,Podlehnik (Lichtenegg),1,0,0,1,0,46.34,15.88,1,gemeinde,,Steiermark,Südsteiermark,
+407,Podmokly,1,0,0,0,1,49.94,13.70,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+408,Podůlšany,1,0,0,0,1,50.13,15.74,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+409,Pohled,1,0,0,1,0,49.60,15.65,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+410,Pohořelice,3,1,1,0,1,48.98,16.52,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+411,Police nad Metují,1,0,0,1,0,50.54,16.23,1,gemeinde,,Böhmen,Nordostböhmen,Nordostböhmen
+412,Polička,1,0,0,1,0,49.71,16.27,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+413,Pollen,0,0,0,0,0,,,2,region,,Pollen,Pollen,Pollen
+414,Possendorf,1,0,0,0,1,50.97,13.71,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+415,Postoloprty,1,0,0,1,0,50.36,13.70,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+416,Pottenburg,2,1,1,0,0,48.12,17.03,1,gemeinde,,Ungarn,Westungarn,Westungarn
+417,Pottschach,1,0,0,1,0,47.70,16.00,3,gemeinde,Druhý je na hraniciach SI-AT,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+419,Prácheň,1,0,0,0,1,49.32,13.68,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+420,Prag,1,0,0,0,1,,,2,region,,Prag,Prag,Prag
+421,Praha,399,171,175,44,9,50.09,14.41,1,gemeinde,,Prag,Prag,Prag
+422,Přelouč,1,0,0,1,0,50.04,15.56,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+423,Prepolje,1,0,0,0,1,46.45,15.77,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+424,Přerov,2,0,0,1,1,49.46,17.45,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+425,Přešovice,1,0,0,0,1,49.05,16.06,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+426,Preussen,0,0,0,0,0,,,2,region,,Preussen,Preussen,Preussen
+427,Příbor,1,0,0,1,0,49.64,18.14,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+428,Přibyslavice,1,0,0,1,0,49.26,15.78,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+429,Přimda,1,0,0,1,0,49.67,12.67,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+430,Přištpo,2,1,1,0,0,49.07,15.93,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+431,Probstdorf,1,0,0,0,1,48.17,16.62,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+432,Prudnik,1,0,0,0,1,50.32,17.58,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+433,Prüfening,1,0,0,1,0,49.01,12.04,1,gemeinde,,Bayern,Bayern,Bayern
+434,Prunéřov,1,0,0,0,1,50.43,13.26,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+435,Ptuj,4,0,0,4,0,46.42,15.88,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+436,Puchheim,1,0,0,1,0,48.01,13.72,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+437,Purschenstein,1,0,0,0,1,50.68,13.46,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+438,Pustiměř,4,2,2,0,0,49.32,17.03,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+439,Raabs an der Thaya,5,0,0,2,3,48.85,15.49,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+440,Rabenstein,1,0,0,0,1,47.40,14.82,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+441,Radlje ob Dravi,3,0,0,3,0,46.62,15.22,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+442,Radynia,1,0,0,0,1,50.15,17.67,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+443,Ragogna,1,0,0,1,0,46.17,12.98,1,gemeinde,,,Patriarchat Aquileia,Patriarchat Aquileia
+444,Raitenhaslach,3,0,0,3,0,48.13,12.79,1,gemeinde,,Bayern,Bayern,Bayern
+445,Rakovník,2,0,0,0,2,50.10,13.73,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+446,Randegg,4,0,0,0,4,48.01,14.97,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+447,Rauchenwarth,1,0,0,0,1,48.08,16.53,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+448,Řečkovice,1,0,0,0,1,49.25,16.58,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+449,Regensburg,6,1,1,4,0,49.02,12.10,1,gemeinde,,Bayern,Bayern,Bayern
+450,Regenstauf,2,1,1,0,0,49.15,12.17,1,gemeinde,,Bayern,Bayern,Bayern
+451,Rehberg,1,0,0,1,0,48.43,15.59,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+452,region Meissen,0,0,0,0,0,,,2,region,,Meissen,Meissen,Meissen
+453,Reichersberg,1,0,0,1,0,48.34,13.36,1,gemeinde,,Bayern,Bayern,Bayern
+454,Rein,10,1,1,8,0,47.13,15.28,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+455,Reinsberg,2,0,0,2,0,47.99,15.07,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+456,Répca (Fluss),0,0,0,0,0,47.60,16.99,2,gemeinde,,Ungarn,Westungarn,Westungarn
+457,Řeporyje,1,0,0,0,1,50.03,14.30,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+458,Rettenbach in Oststeiermark,1,0,0,0,1,46.99,15.61,2,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+459,Retz,1,0,0,0,1,48.76,15.95,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+460,Řevnice,1,0,0,0,1,49.91,14.23,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+461,Rheinland,0,0,0,0,0,,,2,gemeinde,,Rheinland,Rheinland,Rheinland
+462,Ried am Riederberg,1,0,0,0,1,48.26,16.07,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+463,Ried im Innkreis,3,1,1,1,0,48.21,13.49,1,gemeinde,BUrg,Oberösterreich,Oberösterreich,Oberösterreich
+464,Rinchnach,1,0,0,1,0,48.95,13.20,1,gemeinde,,Bayern,Bayern,Bayern
+465,Rohr,2,1,1,0,0,48.78,11.99,3,gemeinde,,Bayern,Bayern,Bayern
+466,Rohr im Kremstal,1,0,0,1,0,48.07,14.19,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+467,Röhrenbach,2,0,0,0,2,48.66,15.49,3,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+468,Rossatz,1,0,0,0,1,48.40,15.50,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+469,Roštín,1,0,0,0,1,49.19,17.29,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+470,Rottenmann,1,0,0,0,1,47.53,14.36,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+471,Rouchovany,1,0,0,1,0,49.07,16.11,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+472,Rožmberk nad Vltavou,6,0,0,6,0,48.65,14.37,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+473,Rožnov u Českých Budějovic,1,0,0,0,1,48.95,14.47,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+474,Rozvadovice,1,0,0,0,1,49.68,17.09,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+475,Rudeč,1,0,0,0,1,50.24,14.59,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+476,Ruprechtsdorf,2,0,0,1,1,,,4,gemeinde,nicht identifiziert,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+477,Russdorf bei Ostritz,1,0,0,0,1,51.02,14.93,2,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+478,Ruzyně,1,0,0,0,1,50.09,14.31,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+479,Rýzmburk,3,0,0,3,0,50.63,13.66,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+480,Sadská,6,3,3,0,0,50.13,14.98,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+481,Salzburg,23,1,2,20,0,47.80,13.05,1,gemeinde,,Salzburg,Salzburg,Salzburg
+482,Salzburg kreis,0,0,0,0,0,,,2,gemeinde,,Salzburg,Salzburg,Salzburg
+483,Sankt Georgen an der Stiefing,2,0,0,0,2,46.88,15.58,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+484,Sankt Peter am Kammersberg,2,0,0,0,2,47.19,14.19,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+485,"Sankt Peter in der Au-Markt, Austria",2,0,0,0,2,48.04,14.62,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+486,Sankt Veit an der Gölsen,1,0,0,0,1,48.04,15.67,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+487,Sayda,1,0,0,0,1,50.71,13.42,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+488,Scharlinz,0,0,0,0,0,48.27,14.32,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+489,Schlesien,0,0,0,0,0,,,2,region,,Schlesien,Schlesien,Schlesien
+490,Schönau an der Triesting,0,0,0,0,0,48.17,16.62,3,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+491,Schönberg am Kamp,1,0,0,1,0,48.54,15.68,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+492,Schwechat,1,0,0,0,1,48.14,16.48,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+493,Sebranice,1,0,0,0,1,49.50,16.57,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+494,Seckau,25,0,0,25,0,47.27,14.79,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+495,Sedlec,4,0,0,4,0,49.96,15.29,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+496,Sedlisko,1,0,0,0,1,49.64,17.22,3,gemeinde,"Sedlisko u Olomouce, Horka nad Moravou",Mähren,Olmützer Teil,Olmützer Teil
+497,Seefeld,2,0,0,2,0,48.72,16.19,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+498,Seitenstetten,5,1,1,3,0,48.04,14.65,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+499,Sereď,2,1,1,0,0,48.28,17.73,1,gemeinde,,Ungarn,Westungarn,Westungarn
+500,Sewernaja Gora,2,1,1,0,0,54.76,20.55,1,gemeinde,,Preussen,Preussen,Preussen
+501,Sitzenberg,3,1,1,1,0,48.32,15.81,1,gemeinde,Druhá je v Bavorsku,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+502,Skřípov,1,0,0,0,1,49.82,17.91,2,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+503,Šlapanice,2,1,1,0,0,49.17,16.73,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+504,Slovenj Gradec,4,2,2,0,0,46.52,15.08,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+505,Sobotovice,1,0,0,0,1,49.06,16.56,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+506,Söding,2,0,0,0,2,47.00,15.29,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+507,Sonnegg,2,0,0,0,2,46.56,14.64,3,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+508,Sopron,6,2,2,2,0,47.69,16.59,1,gemeinde,,Ungarn,Westungarn,Westungarn
+509,Spital am Pyhrn,4,0,0,4,0,47.66,14.34,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+510,Spital am Semmering,5,0,0,5,0,47.62,15.75,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+511,St. Florian,5,1,1,3,0,48.21,14.38,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+512,St. Lambrecht,9,0,0,8,1,47.07,14.30,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+513,St. Martin,1,0,0,0,1,47.10,13.65,1,gemeinde,,Salzburg,Salzburg,Salzburg
+514,St. Pölten,9,0,1,8,0,48.20,15.63,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+515,Staatz,2,1,1,0,0,48.69,16.49,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+516,Stadlau,1,0,0,1,0,48.22,16.45,3,gemeinde,,Wien,Wien,Wien
+517,Stainz,1,0,0,1,0,46.89,15.26,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+518,Stammersdorf,2,0,0,0,2,48.30,16.42,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+519,Staňkov,1,0,0,0,1,49.55,13.07,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+520,Stará Říše,2,0,0,2,0,49.18,15.59,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+521,Steiermark,5,0,0,5,0,,,2,region,,Steiermark,Steiermark,Steiermark
+522,Stein an der Donau,6,0,0,2,4,48.40,15.58,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+523,Šternberk,0,0,0,0,0,49.73,17.30,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+524,Steyeregg,1,0,0,1,0,48.28,14.37,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+525,Steyr,7,2,2,1,2,48.04,14.42,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+526,Stickelberg,1,0,0,0,1,47.61,16.24,1,gemeinde,,Niederösterreich,Südostniederösterreich,
+527,Stičná,2,1,1,0,0,45.96,14.81,1,gemeinde,,Krain,Krain,Krain
+528,Strahov,4,0,0,4,0,50.08,14.39,1,gemeinde,,Prag,Prag,Prag
+529,Strakonice,3,0,0,3,0,49.26,13.90,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+530,Straning-Grafenberg,3,0,0,0,3,48.61,15.86,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+531,Stranzendorf,1,0,0,0,1,48.45,16.08,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+532,Straßberg,2,0,0,0,2,45.99,15.16,1,gemeinde,hrad,Krain,Krain,Krain
+533,Stratzing,2,0,0,0,2,48.45,15.61,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+534,Strettweg,5,0,0,3,2,47.18,14.66,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+535,Stříbro,5,1,1,1,2,49.75,13.00,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+536,Střílky,3,0,0,3,0,49.14,17.22,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+537,Stubenberg,3,0,0,2,1,47.25,15.81,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+538,Studenice,2,0,0,2,0,46.30,15.61,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+539,Südböhmen,1,0,0,0,1,,,2,region,,Böhmen,Südböhmen,Südböhmen
+540,Sudice,1,0,0,0,1,49.53,16.67,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+541,Südostmähren,0,0,0,0,0,,,2,region,,Mähren,Südostmähren,Südostmähren
+542,Südostniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+543,Südsteiermark,1,0,0,1,0,,,2,region,,Steiermark,Südsteiermark,Südsteiermark
+544,Südwestböhmen,0,0,0,0,0,,,2,region,,Böhmen,Südwestböhmen,Südwestböhmen
+545,Sudwestniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Sudwestniederösterreich,Sudwestniederösterreich
+546,Südwestniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+547,Sušice,1,0,0,1,0,49.23,13.52,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+548,Svařenice,2,0,0,0,2,50.50,14.30,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+549,Svatobor,1,0,0,0,1,50.24,13.02,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+550,Svätý Júr,3,1,1,1,0,48.25,17.21,1,gemeinde,,Ungarn,Westungarn,Westungarn
+551,Svečina,2,1,1,0,0,46.67,15.59,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
+552,Svibno,1,0,0,1,0,46.06,15.10,1,gemeinde,,Krain,Krain,Krain
+553,Tachov,4,1,1,1,1,49.80,12.63,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+554,Tannberg,1,0,0,1,0,48.50,13.94,1,gemeinde,,Bayern,Bayern,Bayern
+555,Tegernsee,3,0,0,3,0,47.71,11.76,1,gemeinde,,Bayern,Bayern,Bayern
+556,Teplá,3,0,0,3,0,49.98,12.86,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+557,Ternberg,3,0,0,1,2,47.95,14.36,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+558,Těšetice,1,0,0,0,1,49.59,17.13,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+559,Těšov,1,0,0,0,1,49.03,17.67,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+560,Thallern,2,0,0,0,2,48.05,16.29,3,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+561,Thaures,1,0,0,1,0,48.65,14.98,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,
+562,Theiß,1,0,0,0,1,48.40,15.69,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+563,Tišnov,4,0,0,4,0,49.35,16.42,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+564,Tittmoning,2,1,1,0,0,48.06,12.77,1,gemeinde,,Salzburg,Salzburg,Salzburg
+565,Tobra,1,0,0,0,1,48.23,14.69,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+566,Toruń,2,1,1,0,0,53.01,18.60,1,gemeinde,,Pommern,Pommern,Pommern
+567,Traboch,1,0,0,0,1,47.38,14.99,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+568,Traiskirchen,2,1,1,0,0,48.01,16.30,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+569,Traubenberg,0,0,0,0,0,46.95,15.62,1,gemeinde,kopec,Steiermark,Mittelsteiermark,Mittelsteiermark
+570,Třebelovice,1,0,0,1,0,49.02,15.67,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+571,Trhové Sviny,2,0,0,2,0,48.84,14.64,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+572,Trnava,3,1,1,1,0,48.38,17.59,1,gemeinde,,Ungarn,Westungarn,Westungarn
+573,Trnovany,1,0,0,1,0,50.32,13.60,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+574,Troppauer Teil,1,0,0,1,0,,,2,region,,Schlesien,Troppauer Teil,Troppauer Teil
+575,Troppauer Teil Olmützer Teil,0,0,0,0,0,,,2,region,,,Troppauer Teil Olmützer Teil,Troppauer Teil Olmützer Teil
+576,Trübensee,2,0,0,1,1,48.36,16.04,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+577,Trzebnica,2,1,1,0,0,51.31,17.06,1,gemeinde,,Schlesien,Schlesien,Schlesien
+578,Tulln,9,0,0,7,2,48.33,16.06,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+579,Türnitz,1,0,0,0,1,47.93,15.49,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+580,Tursko,1,0,0,0,1,50.19,14.32,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+581,Úherce,1,0,0,0,1,50.37,14.99,3,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+582,Uherské Hradiště,9,2,3,3,1,49.07,17.46,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+583,Uherský Brod,4,0,0,3,1,49.03,17.65,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+584,Uherský Ostroh,2,1,1,0,0,48.99,17.39,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+585,Ujazd,2,1,1,0,0,50.39,18.35,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+586,Ulmerfeld,1,0,0,0,1,48.08,14.82,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+587,Uničov,2,1,1,0,0,49.77,17.12,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+588,Unterlaa,1,0,0,0,1,48.13,16.42,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+589,Ústí nad Labem,2,0,0,2,0,50.66,14.04,1,gemeinde,,Böhmen,Nordböhmen,Nordböhmen
+590,Valtice,1,0,0,0,1,48.74,16.75,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+591,Velehrad,12,2,1,9,0,49.11,17.40,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+592,Velké Hoštice,1,0,0,0,1,49.94,17.97,1,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+593,Velký Týnec,1,0,0,0,1,49.55,17.34,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+594,Vernéřov,1,0,0,0,1,50.40,13.22,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+595,Veveří,1,1,0,0,0,49.26,16.46,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+596,Viechtwang,1,0,0,0,1,47.92,13.96,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+597,Viehofen,2,0,0,2,0,48.19,15.62,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+598,Viktring,4,0,0,4,0,46.59,14.27,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+599,Vilémov,2,0,0,2,0,49.81,15.53,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+600,Vilstal,2,1,1,0,0,48.45,12.36,1,gemeinde,,,,
+601,Villach,2,1,1,0,0,46.61,13.86,1,gemeinde,,Kärnten,Westkärnten,Westkärnten
+602,Vizovice,1,0,0,1,0,49.22,17.85,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+603,Vöcklabruck,2,1,1,0,0,48.01,13.65,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+604,Vogtland,0,0,0,0,0,,,2,region,,Bayern,Bayern,Bayern
+605,Voitsberg,3,2,1,0,0,47.05,15.15,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+606,Völkermarkt,2,1,1,0,0,46.66,14.63,1,gemeinde,,Kärnten,Ostkärnten,Ostkärnten
+607,Volkersdorf,1,0,0,1,0,48.19,14.43,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+608,Vornbach,1,0,0,1,0,48.49,13.44,1,gemeinde,,Bayern,Bayern,Bayern
+609,Vracov,2,1,1,0,0,48.98,17.21,1,gemeinde,,Mähren,Südostmähren,Südostmähren
+610,Vratěnín,1,0,0,0,1,48.90,15.60,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+611,Vronovy,1,0,0,1,0,,,4,gemeinde,,Mähren,Südostmähren,Südostmähren
+612,Vsisko,2,0,0,0,2,49.55,17.31,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+613,Vyšehrad,13,0,0,13,0,50.06,14.42,1,gemeinde,,Prag,Prag,Prag
+614,Vyškov,4,2,2,0,0,49.28,17.00,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
+615,Vysoké Mýto,1,0,0,1,0,49.95,16.16,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+616,Vyšší Brod,4,1,1,2,0,48.62,14.31,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+617,Waidhofen,1,0,0,1,0,47.96,14.77,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+618,Waidhofen an der Ybbs,1,0,0,0,1,47.96,14.77,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+619,Waldhausen,0,0,0,0,0,48.52,15.26,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+620,Waldhausen im Strudengau,4,0,0,4,0,48.27,14.95,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+621,Waldsassen,4,0,0,4,0,50.00,12.31,1,gemeinde,,Egerland,Egerland,Egerland
+622,Waxenegg,1,0,0,0,1,47.27,15.68,1,gemeinde,ruiny hradu,Steiermark,Mittelsteiermark,Mittelsteiermark
+623,Weikertschlag,1,0,0,0,1,48.62,14.86,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+624,Weiselburg,1,0,0,0,1,48.13,15.14,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+625,Weißenstein,2,0,0,1,1,46.67,13.74,1,gemeinde,,Kärnten,Westkärnten,Westkärnten
+626,Weißkirchen in Steiermark,1,0,0,0,1,47.16,14.74,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
+627,Weitra,3,0,0,3,0,48.69,14.93,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+628,Wels,14,6,6,1,1,48.16,14.03,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+629,Westkärnten,0,0,0,0,0,,,2,region,,Kärnten,Westkärnten,Westkärnten
+630,Westungarn,0,0,0,0,0,,,2,region,,Ungarn,Westungarn,Westungarn
+631,Wetzleinsdorf,1,0,0,0,1,48.48,16.38,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+632,Wien,266,115,123,20,8,48.22,16.39,1,gemeinde,,Wien,Wien,Wien
+633,Wiener Neustadt,32,8,8,11,5,47.81,16.24,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+634,Wienflusse,0,0,0,0,0,48.21,16.37,2,gemeinde,,Wien,Wien,Wien
+635,Wiesenfeld,2,0,0,1,1,48.05,15.64,3,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+636,Wildon,3,0,0,3,0,46.89,15.50,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
+637,Wilfleinsdorf,1,0,0,0,1,48.01,16.72,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+638,Wilhemsburg,1,1,0,0,0,48.11,15.61,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+639,Wilhering,9,0,0,9,0,48.32,14.19,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+640,Wimpassing im Schwarzatale,1,0,0,0,1,47.70,16.03,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+641,Winden am See,2,0,0,1,1,47.95,16.75,1,gemeinde,,Ungarn,Westungarn,Westungarn
+642,Windischgarsten,3,0,0,0,3,47.72,14.33,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
+643,Winkl,1,0,0,0,1,48.67,15.48,1,gemeinde,,,,
+644,Winzendorf-Muthmannsdorf,1,0,0,0,1,47.81,16.12,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
+645,Wolkersdorf,1,0,0,1,0,48.38,16.52,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+646,Wrocław,13,6,6,1,0,51.11,17.03,1,gemeinde,,Schlesien,Schlesien,Schlesien
+647,Ybbs an der Donau,5,0,0,2,3,48.17,15.06,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+648,Ysperklamm,1,0,0,0,1,48.34,15.06,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+649,Zábrdovice,1,0,0,1,0,49.20,16.62,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
+650,Zahořany,1,0,0,0,1,49.43,13.00,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+651,Žalkovice,1,0,0,0,1,49.37,17.44,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
+652,Žatec,4,1,1,1,1,50.33,13.54,1,gemeinde,,Böhmen,Nordwestböhmen,Nordwestböhmen
+653,Zbraslav,3,3,0,0,0,49.98,14.39,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+654,Zbůch,1,0,0,0,1,49.68,13.23,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+655,Žďákov,1,0,0,0,1,49.51,14.17,2,gemeinde,zaniklé,Böhmen,Südböhmen,Südböhmen
+656,Ždánice,1,0,0,0,1,49.97,14.96,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
+657,Žďár nad Sázavou,6,0,0,6,0,49.56,15.94,1,gemeinde,,Böhmen,Böhmischmährische Höhe,Böhmischmährische Höhe
+658,Zduchovice,0,0,0,0,0,49.64,14.21,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+659,Železná,1,0,0,0,1,49.97,14.96,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+660,Zelking-Matzleinsdorf,1,0,0,1,0,48.18,15.26,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+661,Zhoř (Tachov),1,0,0,0,1,49.66,12.97,1,gemeinde,,Böhmen,Südwestböhmen,Südwestböhmen
+662,Žiče,3,0,0,3,0,46.32,15.48,3,gemeinde,Na severe SI je ďalšia Žiče,Steiermark,Südsteiermark,Südsteiermark
+663,Zlatá Koruna,5,0,0,5,0,48.85,14.37,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+664,Zlatníky,1,0,0,0,1,49.94,17.83,3,gemeinde,,Schlesien,Troppauer Teil,Troppauer Teil
+665,Zlíchov,2,0,0,0,2,50.05,14.41,1,gemeinde,,Böhmen,Mittelböhmen,Mittelböhmen
+666,Znaimer Teil,1,0,0,1,0,,,2,region,,Mähren,Znaimer Teil,Znaimer Teil
+667,Znojmo,59,27,27,3,2,48.86,16.05,1,gemeinde,,Mähren,Znaimer Teil,Znaimer Teil
+668,Zvíkov,5,2,2,1,0,49.44,14.19,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
+669,Zwerndorf,1,0,0,0,1,48.34,16.84,1,gemeinde,,Niederösterreich,Nordostniederösterreich,Nordostniederösterreich
+670,Zwettl,23,2,2,18,1,48.61,15.17,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
+671,Vrutice,2,0,0,0,2,50.50,14.29,1,gemeinde,,,,
+672,Polepy,1,0,0,0,1,50.51,14.27,1,gemeinde,,,,
+673,Červený Újezd,1,0,0,0,1,50.07,14.17,1,gemeinde,,,,
+674,Čretež pri Krškem,2,0,0,0,2,45.97,15.46,1,gemeinde,,,,
+675,Dolenje Mokro Polje,2,0,0,0,2,45.83,15.28,1,gemeinde,,,,
+676,Dvorec Prežek,2,0,0,0,2,45.80,15.32,1,gemeinde,,,,
+677,Leitzersdorf,1,0,0,0,1,48.42,16.24,1,gemeinde,,,,
+678,Pulkau,0,0,0,0,0,48.71,15.86,1,gemeinde,,,,
+679,Oberweiden,1,0,0,0,1,48.31,16.83,1,gemeinde,,,,
+680,Chrastičky,1,0,0,0,1,49.57,14.08,1,gemeinde,,,,
+681,Dürnberg,1,0,0,0,1,48.34,14.21,1,gemeinde,,,,
+682,Hainersdorf,1,0,0,0,1,47.11,15.94,1,gemeinde,,,,
+683,Würflach,1,0,0,0,1,47.78,16.05,1,gemeinde,,,,
+684,Rebenstein an der Pielach,1,0,0,0,1,48.06,15.47,1,gemeinde,,,,
+685,Hüttenberg,1,0,0,0,1,50.52,8.58,1,gemeinde,,,,
+686,Trnová,1,0,0,0,1,49.92,14.36,1,gemeinde,,,,
+687,Bruck an der Leitha,1,0,0,0,1,48.03,16.78,1,gemeinde,,,,
+688,Žiželice,1,0,0,0,1,50.13,15.40,1,gemeinde,,,,
+689,Kučerov,1,0,0,0,1,49.22,17.00,1,gemeinde,,,,
+690,Urfar,1,0,0,0,1,48.30,13.19,1,gemeinde,,,,
+691,Schönau,1,0,0,0,1,48.49,12.84,1,gemeinde,,,,
+692,Šentjur pri Celju,1,0,0,0,1,46.21,15.40,1,gemeinde,,,,
+693,Škofja Loka,1,0,0,0,1,46.17,14.31,1,gemeinde,,,,
+694,Litochovice nad Labem,1,0,0,0,1,50.56,14.03,1,gemeinde,,,,
+696,Eppenstein,1,0,0,0,1,47.13,14.74,1,gemeinde,,,,
+697,Rabenstein an der Pielach,3,0,0,3,0,48.06,15.47,1,gemeinde,,,,
+699,Kreuzenstein,1,0,0,1,0,48.38,16.31,1,gemeinde,,,,
+700,Grimma,2,1,1,0,0,51.23,12.72,1,gemeinde,,,,
+701,Atzelldorf,1,0,0,0,1,48.50,16.55,1,gemeinde,,,,
+702,Obermarkesdorf,1,0,0,0,1,48.74,15.90,1,gemeinde,,,,
