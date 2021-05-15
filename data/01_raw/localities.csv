@@ -128,7 +128,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 127,Gornji Grad,1,0,0,1,0,46.29,14.80,1,gemeinde,,Patriarchat Aquileia,Patriarchat Aquileia,Patriarchat Aquileia
 128,Gosau,1,0,0,0,1,47.59,13.54,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
 129,Gössendorf,2,0,0,0,2,47.00,15.49,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
-130,Göttweig,3,0,0,3,0,48.37,15.61,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
+130,Göttweig,4,0,0,4,0,48.37,15.61,1,gemeinde,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
 131,Gramastetten,2,0,0,0,2,48.38,14.19,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
 132,Graslupp,0,0,0,0,0,47.07,14.38,1,gemeinde,,Steiermark,Nordsteiermark,Nordsteiermark
 133,Gratwein,2,0,0,1,1,47.13,15.32,1,gemeinde,,Steiermark,Mittelsteiermark,Mittelsteiermark
@@ -416,7 +416,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 417,Pottschach,1,0,0,1,0,47.70,16.00,3,gemeinde,Druhý je na hraniciach SI-AT,Niederösterreich,Südostniederösterreich,Südostniederösterreich
 419,Prácheň,1,0,0,0,1,49.32,13.68,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
 420,Prag,1,0,0,0,1,,,2,region,,Prag,Prag,Prag
-421,Praha,399,171,175,44,9,50.09,14.41,1,gemeinde,,Prag,Prag,Prag
+421,Praha,397,170,174,44,9,50.09,14.41,1,gemeinde,,Prag,Prag,Prag
 422,Přelouč,1,0,0,1,0,50.04,15.56,1,gemeinde,,Böhmen,Ostböhmen,Ostböhmen
 423,Prepolje,1,0,0,0,1,46.45,15.77,1,gemeinde,,Steiermark,Südsteiermark,Südsteiermark
 424,Přerov,2,0,0,1,1,49.46,17.45,1,gemeinde,,Mähren,Nordostmähren,Nordostmähren
@@ -521,7 +521,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 523,Šternberk,0,0,0,0,0,49.73,17.30,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
 524,Steyeregg,1,0,0,1,0,48.28,14.37,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
 525,Steyr,7,2,2,1,2,48.04,14.42,1,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich
-526,Stickelberg,1,0,0,0,1,47.61,16.24,1,gemeinde,,Niederösterreich,Südostniederösterreich,
+526,Stickelberg,1,0,0,0,1,47.61,16.24,1,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
 527,Stičná,2,1,1,0,0,45.96,14.81,1,gemeinde,,Krain,Krain,Krain
 528,Strahov,4,0,0,4,0,50.08,14.39,1,gemeinde,,Prag,Prag,Prag
 529,Strakonice,3,0,0,3,0,49.26,13.90,1,gemeinde,,Böhmen,Südböhmen,Südböhmen
@@ -538,7 +538,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 540,Sudice,1,0,0,0,1,49.53,16.67,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
 541,Südostmähren,0,0,0,0,0,,,2,region,,Mähren,Südostmähren,Südostmähren
 542,Südostniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-543,Südsteiermark,1,0,0,1,0,,,2,region,,Steiermark,Südsteiermark,Südsteiermark
+543,Südsteiermark,2,0,0,1,1,,,2,region,,Steiermark,Südsteiermark,Südsteiermark
 544,Südwestböhmen,0,0,0,0,0,,,2,region,,Böhmen,Südwestböhmen,Südwestböhmen
 545,Sudwestniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Sudwestniederösterreich,Sudwestniederösterreich
 546,Südwestniederösterreich,0,0,0,0,0,,,2,region,,Niederösterreich,Südwestniederösterreich,Südwestniederösterreich
@@ -556,7 +556,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 558,Těšetice,1,0,0,0,1,49.59,17.13,1,gemeinde,,Mähren,Olmützer Teil,Olmützer Teil
 559,Těšov,1,0,0,0,1,49.03,17.67,1,gemeinde,,Mähren,Südostmähren,Südostmähren
 560,Thallern,2,0,0,0,2,48.05,16.29,3,gemeinde,,Niederösterreich,Südostniederösterreich,Südostniederösterreich
-561,Thaures,1,0,0,1,0,48.65,14.98,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,
+561,Thaures,1,0,0,1,0,48.65,14.98,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
 562,Theiß,1,0,0,0,1,48.40,15.69,1,gemeinde,,Niederösterreich,Nordwestniederösterreich,Nordwestniederösterreich
 563,Tišnov,4,0,0,4,0,49.35,16.42,1,gemeinde,,Mähren,Brünner Teil,Brünner Teil
 564,Tittmoning,2,1,1,0,0,48.06,12.77,1,gemeinde,,Salzburg,Salzburg,Salzburg
@@ -696,3 +696,8 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region1
 700,Grimma,2,1,1,0,0,51.23,12.72,1,gemeinde,,,,
 701,Atzelldorf,1,0,0,0,1,48.50,16.55,1,gemeinde,,,,
 702,Obermarkesdorf,1,0,0,0,1,48.74,15.90,1,gemeinde,,,,
+,Ebersbach,,,,,,,,,,,,,
+,Nepomuk,,,,,,,,,,,,,
+,Russbach,,,,,,,,,,,,,
+,Hollabrunn,,,,,,,,,,,,,
+,Břeclav,,,,,,,,,,,,,
