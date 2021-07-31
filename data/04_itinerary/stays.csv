@@ -1,0 +1,359 @@
+,locality,from_date,to_date,days,domestic,geometry,no_activities,period1,period2,period3,period4,period5
+0,Wien,1251-06-22,1251-08-26,65,True,POINT (16.388 48.221),2,True,False,False,False,False
+1,Netolice,1251-09-04,1251-11-08,65,False,POINT (14.197 49.05),1,True,False,False,False,False
+2,Enns,1251-11-13,1251-11-17,4,True,POINT (14.479 48.214),1,True,False,False,False,False
+3,Krems an der Donau,1251-11-22,1251-11-30,8,True,POINT (15.62 48.41),1,True,False,False,False,False
+4,Korneuburg,1251-12-03,1251-12-10,7,True,POINT (16.33 48.34),6,True,False,False,False,False
+5,Wien,1251-12-11,1252-01-22,42,True,POINT (16.388 48.221),5,True,False,False,False,False
+6,Hainburg,1252-01-24,1252-03-09,45,True,POINT (16.946 48.146),4,True,False,False,False,False
+7,Wiener Neustadt,1252-03-12,1252-03-15,3,True,POINT (16.24 47.81),1,True,False,False,False,False
+8,Krems an der Donau,1252-03-19,1252-04-07,19,True,POINT (15.62 48.41),5,True,False,False,False,False
+9,Brno,1252-04-12,1252-05-16,34,False,POINT (16.61 49.19),2,True,False,False,False,False
+10,Znojmo,1252-05-19,1252-07-15,57,False,POINT (16.05 48.86),1,True,False,False,False,False
+11,Linz,1252-07-23,1252-09-15,54,True,POINT (14.286 48.306),1,True,False,False,False,False
+12,Graz,1252-09-30,1252-10-30,30,False,POINT (15.45 47.067),1,True,False,False,False,False
+13,Linz,1252-11-14,1252-12-01,17,True,POINT (14.286 48.306),5,True,False,False,False,False
+14,Krems an der Donau,1252-12-07,1252-12-29,22,True,POINT (15.62 48.41),1,True,False,False,False,False
+15,Wien,1253-01-01,1253-03-05,63,True,POINT (16.388 48.221),2,True,False,False,False,False
+16,Praha,1253-03-17,1253-04-11,25,False,POINT (14.41 50.09),2,True,False,False,False,False
+17,Wiener Neustadt,1253-04-24,1253-05-04,10,True,POINT (16.24 47.81),1,True,False,False,False,False
+18,Leoben,1253-05-12,1253-05-21,9,False,POINT (15.095 47.379),1,True,False,False,False,False
+19,Krems an der Donau,1253-06-01,1253-06-22,21,True,POINT (15.62 48.41),1,True,False,False,False,False
+20,Brno,1253-06-27,1253-07-23,26,False,POINT (16.61 49.19),1,True,False,False,False,False
+21,Olomouc,1253-07-26,1253-08-16,21,False,POINT (17.252 49.596),1,True,False,False,False,False
+22,Praha,1253-08-27,1253-09-07,11,False,POINT (14.41 50.09),1,True,False,False,False,False
+23,Krems an der Donau,1253-09-17,1253-09-17,0,True,POINT (15.62 48.41),1,True,False,False,False,False
+24,Kleinweikersdorf,1253-09-20,1253-09-23,3,True,POINT (16.198 48.631),1,True,False,False,False,False
+25,Wien,1253-09-25,1253-10-01,6,True,POINT (16.388 48.221),1,False,True,False,False,False
+26,Praha,1253-10-13,1253-11-25,43,True,POINT (14.41 50.09),8,False,True,False,False,False
+27,Jablonné v Podještědí,1253-11-29,1253-12-09,10,True,POINT (14.76 50.765),1,False,True,False,False,False
+28,Praha,1253-12-13,1253-12-19,6,True,POINT (14.41 50.09),1,False,True,False,False,False
+29,Kladruby,1253-12-25,1254-01-23,29,True,POINT (12.995 49.712),2,False,True,False,False,False
+30,Krems an der Donau,1254-02-04,1254-03-16,40,True,POINT (15.62 48.41),2,False,True,False,False,False
+31,Wien,1254-03-19,1254-04-06,18,True,POINT (16.388 48.221),2,False,True,False,False,False
+32,Krems an der Donau,1254-04-09,1254-04-17,8,True,POINT (15.62 48.41),1,False,True,False,False,False
+33,Bratislava,1254-04-22,1254-04-26,4,True,POINT (17.103 48.142),1,False,True,False,False,False
+34,Wien,1254-04-29,1254-05-13,14,True,POINT (16.388 48.221),1,False,True,False,False,False
+35,Znojmo,1254-05-16,1254-05-28,12,True,POINT (16.05 48.86),1,False,True,False,False,False
+36,Brno,1254-05-31,1254-06-15,15,True,POINT (16.61 49.19),1,False,True,False,False,False
+37,Praha,1254-06-25,1254-07-10,15,True,POINT (14.41 50.09),3,False,True,False,False,False
+38,Balga,1254-07-26,1254-07-26,0,False,POINT (19.998 54.557),1,False,True,False,False,False
+39,Logvino,1254-07-27,1254-07-27,0,False,POINT (20.208 54.766),1,False,True,False,False,False
+40,Mel'nikovo,1254-07-28,1254-07-28,0,False,POINT (20.461 54.875),1,False,True,False,False,False
+41,Sewernaja Gora,1254-07-29,1254-07-29,0,False,POINT (20.55 54.76),1,False,True,False,False,False
+42,Nisowje,1254-07-30,1254-07-30,0,False,POINT (20.739 54.703),1,False,True,False,False,False
+43,Gwardeisk,1254-07-31,1254-07-31,0,False,POINT (21.065 54.648),1,False,True,False,False,False
+44,Kaliningrad,1254-08-01,1254-08-01,0,False,POINT (20.511 54.706),1,False,True,False,False,False
+45,Olomouc,1254-08-17,1254-09-15,29,True,POINT (17.252 49.596),2,False,True,False,False,False
+46,Sadská,1254-09-24,1254-10-31,37,True,POINT (14.985 50.134),1,False,True,False,False,False
+47,Krems an der Donau,1254-11-09,1254-11-30,21,True,POINT (15.62 48.41),1,False,True,False,False,False
+48,Wrocław,1254-12-13,1254-12-25,12,False,POINT (17.034 51.109),1,False,True,False,False,False
+49,Elbląg,1255-01-07,1255-01-19,12,False,POINT (19.409 54.152),2,False,True,False,False,False
+50,Opava,1255-02-05,1255-02-09,4,True,POINT (17.903 49.939),1,False,True,False,False,False
+51,Brno,1255-02-16,1255-02-25,9,True,POINT (16.61 49.19),1,False,True,False,False,False
+52,Krems an der Donau,1255-03-02,1255-03-19,17,True,POINT (15.62 48.41),2,False,True,False,False,False
+53,Seitenstetten,1255-03-23,1255-03-23,0,True,POINT (14.655 48.036),1,False,True,False,False,False
+54,Steyr,1255-03-24,1255-03-26,2,False,POINT (14.419 48.039),1,False,True,False,False,False
+55,Linz,1255-03-28,1255-03-30,2,True,POINT (14.286 48.306),2,False,True,False,False,False
+56,Praha,1255-04-08,1255-05-18,40,True,POINT (14.41 50.09),2,False,True,False,False,False
+57,Křivoklát,1255-05-21,1255-06-03,13,True,POINT (13.872 50.038),1,False,True,False,False,False
+58,Jaroměřice nad Rokytkou,1255-06-13,1255-06-20,7,False,POINT (15.893 49.094),1,False,True,False,False,False
+59,Wien,1255-06-24,1255-07-02,8,True,POINT (16.388 48.221),1,False,True,False,False,False
+60,Praha,1255-07-14,1255-11-03,112,True,POINT (14.41 50.09),2,False,True,False,False,False
+61,Krems an der Donau,1255-11-13,1255-12-15,32,True,POINT (15.62 48.41),2,False,True,False,False,False
+62,Brno,1255-12-20,1256-01-09,20,True,POINT (16.61 49.19),3,False,True,False,False,False
+63,Olomouc,1256-01-12,1256-02-15,34,True,POINT (17.252 49.596),2,False,True,False,False,False
+64,Praha,1256-02-26,1256-03-20,23,True,POINT (14.41 50.09),1,False,True,False,False,False
+65,Sadská,1256-03-22,1256-04-05,14,True,POINT (14.985 50.134),1,False,True,False,False,False
+66,Praha,1256-04-07,1256-05-07,30,True,POINT (14.41 50.09),1,False,True,False,False,False
+67,Wien,1256-05-19,1256-06-23,35,True,POINT (16.388 48.221),1,False,True,False,False,False
+68,Opava,1256-07-02,1256-07-18,16,True,POINT (17.903 49.939),2,False,True,False,False,False
+69,Wien,1256-07-25,1256-07-25,0,True,POINT (16.388 48.221),1,False,True,False,False,False
+70,Praha,1256-08-05,1256-09-20,46,True,POINT (14.41 50.09),1,False,True,False,False,False
+71,Krems an der Donau,1256-09-30,1256-11-21,52,True,POINT (15.62 48.41),1,False,True,False,False,False
+72,Wien,1256-11-24,1256-12-18,24,True,POINT (16.388 48.221),3,False,True,False,False,False
+73,Praha,1256-12-28,1257-03-15,77,True,POINT (14.41 50.09),4,False,True,False,False,False
+74,Linz,1257-03-24,1257-04-27,34,True,POINT (14.286 48.306),1,False,True,False,False,False
+75,Wiener Neustadt,1257-05-06,1257-06-12,37,True,POINT (16.24 47.81),2,False,True,False,False,False
+76,Lilienfeld,1257-06-16,1257-07-28,42,True,POINT (15.598 48.014),1,False,True,False,False,False
+77,Passau,1257-08-06,1257-08-15,9,False,POINT (13.469 48.575),1,False,True,False,False,False
+78,Vilstal,1257-08-17,1257-08-20,3,False,POINT (12.358 48.45),1,False,True,False,False,False
+79,Mühldorf,1257-08-22,1257-08-27,5,False,POINT (12.524 48.242),1,False,True,False,False,False
+80,Tittmoning,1257-08-29,1257-08-31,2,False,POINT (12.768 48.063),1,False,True,False,False,False
+81,Laufen,1257-09-01,1257-09-02,1,False,POINT (12.931 47.935),1,False,True,False,False,False
+82,Vöcklabruck,1257-09-05,1257-09-20,15,False,POINT (13.653 48.009),1,False,True,False,False,False
+83,Plasy,1257-10-01,1257-12-03,63,True,POINT (13.39 49.934),2,False,True,False,False,False
+84,Praha,1257-12-08,1258-01-18,41,True,POINT (14.41 50.09),1,False,True,False,False,False
+85,Wien,1258-01-30,1258-02-10,11,True,POINT (16.388 48.221),2,False,True,False,False,False
+86,Praha,1258-02-11,1258-02-11,0,True,POINT (14.41 50.09),1,False,True,False,False,False
+87,Wien,1258-02-12,1258-02-28,16,True,POINT (16.388 48.221),2,False,True,False,False,False
+88,Písek,1258-03-10,1258-04-19,40,True,POINT (14.148 49.309),1,False,True,False,False,False
+89,Zvíkov,1258-04-20,1258-05-15,25,True,POINT (14.192 49.439),1,False,True,False,False,False
+90,Uherské Hradiště,1258-05-23,1258-06-20,28,True,POINT (17.46 49.07),2,False,True,False,False,False
+91,Wien,1258-06-25,1258-07-23,28,True,POINT (16.388 48.221),1,False,True,False,False,False
+92,Křivoklát,1258-08-06,1258-08-09,3,True,POINT (13.872 50.038),1,False,True,False,False,False
+93,Loket,1258-08-15,1258-09-07,23,True,POINT (12.754 50.187),1,False,True,False,False,False
+94,Dobříš,1258-09-15,1258-10-04,19,True,POINT (14.175 49.783),1,False,True,False,False,False
+95,Wels,1258-10-12,1258-10-12,0,True,POINT (14.027 48.158),3,False,True,False,False,False
+96,Brno,1258-10-17,1259-01-04,79,True,POINT (16.61 49.19),2,False,True,False,False,False
+97,Krems an der Donau,1259-01-09,1259-04-04,85,True,POINT (15.62 48.41),1,False,True,False,False,False
+98,Wien,1259-04-07,1259-04-22,15,True,POINT (16.388 48.221),2,False,True,False,False,False
+99,Enns,1259-04-29,1259-05-02,3,True,POINT (14.479 48.214),1,False,True,False,False,False
+100,Wels,1259-05-03,1259-06-10,38,True,POINT (14.027 48.158),2,False,True,False,False,False
+101,Hradec Králové,1259-06-22,1259-07-22,30,True,POINT (15.833 50.209),1,False,True,False,False,False
+102,Praha,1259-07-27,1259-08-31,35,True,POINT (14.41 50.09),2,False,True,False,False,False
+103,Wien,1259-09-12,1259-10-29,47,True,POINT (16.388 48.221),2,False,True,False,False,False
+104,Krems an der Donau,1259-11-01,1259-11-17,16,True,POINT (15.62 48.41),3,False,True,False,False,False
+105,Znojmo,1259-11-18,1259-11-23,5,True,POINT (16.05 48.86),1,False,True,False,False,False
+106,Zwettl,1259-11-27,1259-12-19,22,True,POINT (15.169 48.607),1,False,True,False,False,False
+107,Wien,1259-12-25,1260-01-14,20,True,POINT (16.388 48.221),1,False,True,False,False,False
+108,Gaming,1260-01-20,1260-01-24,4,True,POINT (15.088 47.929),1,False,True,False,False,False
+109,Wien,1260-01-30,1260-02-10,11,True,POINT (16.388 48.221),2,False,True,False,False,False
+110,Sitzenberg,1260-02-12,1260-02-13,1,True,POINT (15.809 48.321),1,False,True,False,False,False
+111,Křivoklát,1260-02-25,1260-02-25,0,True,POINT (13.872 50.038),1,False,True,False,False,False
+112,Wien,1260-03-10,1260-03-18,8,True,POINT (16.388 48.221),1,False,True,False,False,False
+113,Písek,1260-03-28,1260-04-13,16,True,POINT (14.148 49.309),1,False,True,False,False,False
+114,Praha,1260-04-17,1260-05-06,19,True,POINT (14.41 50.09),2,False,True,False,False,False
+115,Linz,1260-05-15,1260-06-06,22,True,POINT (14.286 48.306),1,False,True,False,False,False
+116,Laa an der Thaya,1260-06-14,1260-07-08,24,True,POINT (16.384 48.728),6,False,True,False,False,False
+117,Groißenbrunn,1260-07-11,1260-07-15,4,True,POINT (16.902 48.223),1,False,True,True,False,False
+118,Bratislava,1260-07-16,1260-07-21,5,True,POINT (17.103 48.142),2,False,False,True,False,False
+119,Wien,1260-07-24,1260-08-02,9,True,POINT (16.388 48.221),1,False,False,True,False,False
+120,Praha,1260-08-14,1260-11-05,83,True,POINT (14.41 50.09),3,False,False,True,False,False
+121,Graz,1260-11-24,1260-12-26,32,True,POINT (15.45 47.067),8,False,False,True,False,False
+122,Havlíčkův Brod,1261-01-09,1261-01-12,3,True,POINT (15.579 49.607),1,False,False,True,False,False
+123,Kravaře u České Lípy,1261-01-19,1261-01-24,5,True,POINT (14.392 50.632),1,False,False,True,False,False
+124,Most,1261-01-28,1261-01-31,3,True,POINT (13.636 50.503),1,False,False,True,False,False
+125,Žatec,1261-02-01,1261-02-22,21,True,POINT (13.54 50.33),1,False,False,True,False,False
+126,Wien,1261-03-09,1261-05-06,58,True,POINT (16.388 48.221),4,False,False,True,False,False
+127,Písek,1261-05-16,1261-07-01,46,True,POINT (14.148 49.309),1,False,False,True,False,False
+128,Olomouc,1261-07-14,1261-08-27,44,True,POINT (17.252 49.596),2,False,False,True,False,False
+129,Praha,1261-09-07,1261-10-04,27,True,POINT (14.41 50.09),2,False,False,True,False,False
+130,Jihlava,1261-10-10,1261-10-15,5,True,POINT (15.591 49.396),1,False,False,True,False,False
+131,Bratislava,1261-10-23,1261-10-27,4,False,POINT (17.103 48.142),1,False,False,True,False,False
+132,Praha,1261-11-09,1261-11-13,4,True,POINT (14.41 50.09),1,False,False,True,False,False
+133,Znojmo,1261-11-22,1261-11-24,2,True,POINT (16.05 48.86),1,False,False,True,False,False
+134,Praha,1261-11-27,1261-11-27,0,True,POINT (14.41 50.09),1,False,False,True,False,False
+135,Wien,1261-12-02,1261-12-02,0,True,POINT (16.388 48.221),2,False,False,True,False,False
+136,Znojmo,1261-12-04,1261-12-08,4,True,POINT (16.05 48.86),1,False,False,True,False,False
+137,Herzogenbirbaum,1261-12-10,1261-12-14,4,True,POINT (16.251 48.519),1,False,False,True,False,False
+138,Wien,1261-12-16,1261-12-16,0,True,POINT (16.388 48.221),1,False,False,True,False,False
+139,Praha,1261-12-20,1262-03-04,74,True,POINT (14.41 50.09),15,False,False,True,False,False
+140,Jihlava,1262-03-10,1262-03-25,15,True,POINT (15.591 49.396),1,False,False,True,False,False
+141,Praha,1262-03-26,1262-03-26,0,True,POINT (14.41 50.09),1,False,False,True,False,False
+142,Wien,1262-03-29,1262-05-15,47,True,POINT (16.388 48.221),3,False,False,True,False,False
+143,Budyně nad Ohří,1262-05-28,1262-06-12,15,True,POINT (14.126 50.404),2,False,False,True,False,False
+144,Jihlava,1262-06-20,1262-06-30,10,True,POINT (15.591 49.396),1,False,False,True,False,False
+145,Praha,1262-07-06,1262-07-15,9,True,POINT (14.41 50.09),1,False,False,True,False,False
+146,Wiener Neustadt,1262-07-25,1262-08-18,24,True,POINT (16.24 47.81),1,False,False,True,False,False
+147,Głubczyce,1262-08-29,1262-10-19,51,True,POINT (17.829 50.201),1,False,False,True,False,False
+148,Linz,1262-11-04,1262-12-27,53,True,POINT (14.286 48.306),2,False,False,True,False,False
+149,Hradec Králové,1263-01-07,1263-05-09,122,True,POINT (15.833 50.209),2,False,False,True,False,False
+150,Plasy,1263-05-18,1263-07-06,49,True,POINT (13.39 49.934),2,False,False,True,False,False
+151,Wiener Neustadt,1263-07-22,1263-08-14,23,True,POINT (16.24 47.81),2,False,False,True,False,False
+152,Písek,1263-08-25,1263-11-17,84,True,POINT (14.148 49.309),1,False,False,True,False,False
+153,Praha,1263-11-21,1264-02-15,86,True,POINT (14.41 50.09),1,False,False,True,False,False
+154,Jihlava,1264-02-21,1264-03-12,20,True,POINT (15.591 49.396),1,False,False,True,False,False
+155,Wien,1264-03-17,1264-04-09,23,True,POINT (16.388 48.221),1,False,False,True,False,False
+156,Písek,1264-04-19,1264-08-21,124,True,POINT (14.148 49.309),2,False,False,True,False,False
+157,Praha,1264-08-25,1264-09-28,34,True,POINT (14.41 50.09),1,False,False,True,False,False
+158,Čáslav,1264-09-30,1264-09-30,0,True,POINT (15.389 49.91),1,False,False,True,False,False
+159,Pottendorf,1264-10-05,1264-10-05,0,True,POINT (16.388 47.91),1,False,False,True,False,False
+160,Praha,1264-10-14,1264-10-16,2,True,POINT (14.41 50.09),1,False,False,True,False,False
+161,Písek,1264-10-20,1264-10-26,6,True,POINT (14.148 49.309),1,False,False,True,False,False
+162,Olomouc,1264-11-08,1264-11-27,19,True,POINT (17.252 49.596),2,False,False,True,False,False
+163,Brno,1264-11-30,1264-12-18,18,True,POINT (16.61 49.19),1,False,False,True,False,False
+164,Praha,1264-12-28,1265-02-16,50,True,POINT (14.41 50.09),4,False,False,True,False,False
+165,Wien,1265-02-28,1265-04-12,43,True,POINT (16.388 48.221),4,False,False,True,False,False
+166,Graz,1265-04-20,1265-04-23,3,True,POINT (15.45 47.067),3,False,False,True,False,False
+167,Neunkirchen,1265-04-26,1265-05-19,23,False,POINT (16.082 47.727),1,False,False,True,False,False
+168,Beroun,1265-06-03,1265-07-01,28,True,POINT (14.073 49.964),1,False,False,True,False,False
+169,České Budějovice,1265-07-06,1265-07-31,25,True,POINT (14.474 48.974),1,False,False,True,False,False
+170,Praha,1265-08-06,1265-09-09,34,True,POINT (14.41 50.09),1,False,False,True,False,False
+171,Nižbor,1265-09-11,1265-09-25,14,True,POINT (14.003 50.002),1,False,False,True,False,False
+172,Praha,1265-09-27,1265-10-13,16,True,POINT (14.41 50.09),1,False,False,True,False,False
+173,Freistadt,1265-10-21,1265-11-29,39,True,POINT (14.517 48.517),1,False,False,True,False,False
+174,Praha,1265-12-07,1265-12-30,23,True,POINT (14.41 50.09),1,False,False,True,False,False
+175,Graz,1266-01-02,1266-01-02,0,True,POINT (15.45 47.067),1,False,False,True,False,False
+176,Praha,1266-01-21,1266-02-13,23,True,POINT (14.41 50.09),2,False,False,True,False,False
+177,Eggenburg,1266-02-22,1266-04-02,39,True,POINT (15.819 48.639),1,False,False,True,False,False
+178,Cheb,1266-04-17,1266-05-05,18,True,POINT (12.38 50.071),1,False,False,True,False,False
+179,Litoměřice,1266-05-13,1266-05-23,10,True,POINT (14.132 50.533),1,False,False,True,False,False
+180,Stříbro,1266-05-29,1266-06-30,32,True,POINT (13.003 49.752),1,False,False,True,False,False
+181,Domažlice,1266-07-02,1266-07-30,28,True,POINT (12.93 49.44),1,False,False,True,False,False
+182,Nittenau,1266-08-02,1266-08-08,6,False,POINT (12.268 49.196),1,False,False,True,False,False
+183,Cham,1266-08-10,1266-08-10,0,False,POINT (12.666 49.218),1,False,False,True,False,False
+184,Regenstauf,1266-08-11,1266-08-12,1,False,POINT (12.17 49.155),1,False,False,True,False,False
+185,Regensburg,1266-08-13,1266-08-22,9,False,POINT (12.102 49.015),1,False,False,True,False,False
+186,Cheb,1266-08-27,1266-09-03,7,False,POINT (12.38 50.071),1,False,False,True,False,False
+187,Praha,1266-09-06,1266-10-14,38,True,POINT (14.41 50.09),1,False,False,True,False,False
+188,Ried im Innkreis,1266-10-25,1266-12-01,37,False,POINT (13.488 48.209),1,False,False,True,False,False
+189,Linz,1266-12-04,1266-12-04,0,True,POINT (14.286 48.306),3,False,False,True,False,False
+190,Graz,1266-12-18,1267-01-11,24,True,POINT (15.45 47.067),3,False,False,True,False,False
+191,Lilienfeld,1267-01-14,1267-01-14,0,True,POINT (15.598 48.014),2,False,False,True,False,False
+192,Wien,1267-01-15,1267-01-16,1,True,POINT (16.388 48.221),2,False,False,True,False,False
+193,Laa an der Thaya,1267-01-19,1267-01-21,2,True,POINT (16.384 48.728),1,False,False,True,False,False
+194,Havlíčkův Brod,1267-01-26,1267-02-10,15,True,POINT (15.579 49.607),1,False,False,True,False,False
+195,Praha,1267-02-15,1267-05-19,93,True,POINT (14.41 50.09),1,False,False,True,False,False
+196,Budyně nad Ohří,1267-05-21,1267-08-08,79,True,POINT (14.126 50.404),1,False,False,True,False,False
+197,Trzebnica,1267-08-20,1267-08-30,10,False,POINT (17.063 51.31),1,False,False,True,False,False
+198,Praha,1267-09-11,1267-10-08,27,True,POINT (14.41 50.09),1,False,False,True,False,False
+199,Brno,1267-10-18,1267-11-18,31,True,POINT (16.61 49.19),2,False,False,True,False,False
+200,Praha,1267-11-28,1267-12-11,13,True,POINT (14.41 50.09),3,False,False,True,False,False
+201,Wrocław,1267-12-15,1267-12-15,0,False,POINT (17.034 51.109),1,False,False,True,False,False
+202,Kalisz,1267-12-19,1267-12-23,4,False,POINT (18.09 51.762),1,False,False,True,False,False
+203,Toruń,1267-12-28,1268-01-14,17,False,POINT (18.605 53.01),1,False,False,True,False,False
+204,Praha,1268-02-02,1268-02-22,20,True,POINT (14.41 50.09),2,False,False,True,False,False
+205,Chełmno,1268-03-01,1268-03-01,0,False,POINT (18.424 53.348),2,False,False,True,False,False
+206,Praha,1268-03-04,1268-03-14,10,True,POINT (14.41 50.09),1,False,False,True,False,False
+207,Písek,1268-03-18,1268-04-01,14,True,POINT (14.148 49.309),1,False,False,True,False,False
+208,Traiskirchen,1268-04-12,1268-04-16,4,True,POINT (16.295 48.014),1,False,False,True,False,False
+209,Praha,1268-04-24,1268-06-23,60,True,POINT (14.41 50.09),2,False,False,True,False,False
+210,Znojmo,1268-07-02,1268-08-18,47,True,POINT (16.05 48.86),2,False,False,True,False,False
+211,Brno,1268-08-21,1268-09-01,11,True,POINT (16.61 49.19),1,False,False,True,False,False
+212,Velehrad,1268-09-05,1268-09-15,10,True,POINT (17.395 49.105),1,False,False,True,False,False
+213,Vracov,1268-09-16,1268-09-17,1,True,POINT (17.209 48.977),1,False,False,True,False,False
+214,Velehrad,1268-09-18,1268-10-13,25,True,POINT (17.395 49.105),1,False,False,True,False,False
+215,Praha,1268-10-26,1268-11-26,31,True,POINT (14.41 50.09),1,False,False,True,False,False
+216,Poděbrady,1268-11-29,1268-12-13,14,True,POINT (15.119 50.142),1,False,False,True,False,False
+217,Vyškov,1268-12-22,1269-01-27,36,True,POINT (17 49.28),2,False,False,True,False,False
+218,Poděbrady,1269-02-05,1269-03-03,26,True,POINT (15.119 50.142),3,False,False,True,False,False
+219,Litoměřice,1269-03-04,1269-03-04,0,True,POINT (14.132 50.533),1,False,False,True,False,False
+220,Praha,1269-03-05,1269-03-05,0,True,POINT (14.41 50.09),4,False,False,True,False,False
+221,Litoměřice,1269-03-07,1269-03-08,1,True,POINT (14.132 50.533),1,False,False,True,False,False
+222,Praha,1269-03-11,1269-03-17,6,True,POINT (14.41 50.09),2,False,False,True,False,False
+223,Křivoklát,1269-03-18,1269-03-28,10,True,POINT (13.872 50.038),1,False,False,True,False,False
+224,Praha,1269-03-31,1269-05-24,54,True,POINT (14.41 50.09),4,False,False,True,False,False
+225,Znojmo,1269-06-02,1269-06-14,12,True,POINT (16.05 48.86),7,False,False,True,False,False
+226,Jaroměřice nad Rokytkou,1269-06-16,1269-06-24,8,True,POINT (15.893 49.094),1,False,False,True,False,False
+227,Brno,1269-06-27,1269-07-08,11,True,POINT (16.61 49.19),1,False,False,True,False,False
+228,Głubczyce,1269-07-15,1269-07-19,4,True,POINT (17.829 50.201),1,False,False,True,False,False
+229,Písek,1269-07-27,1269-07-31,4,True,POINT (14.148 49.309),1,False,False,True,False,False
+230,Praha,1269-08-04,1269-09-06,33,True,POINT (14.41 50.09),1,False,False,True,False,False
+231,Sadská,1269-09-08,1269-11-12,65,True,POINT (14.985 50.134),1,False,False,True,True,False
+232,Praha,1269-11-14,1269-12-28,44,True,POINT (14.41 50.09),1,False,False,False,True,False
+233,Jihlava,1270-01-03,1270-01-12,9,True,POINT (15.591 49.396),1,False,False,False,True,False
+234,Wien,1270-01-17,1270-02-10,24,True,POINT (16.388 48.221),19,False,False,False,True,False
+235,Brno,1270-02-14,1270-02-24,10,True,POINT (16.61 49.19),1,False,False,False,True,False
+236,Praha,1270-03-06,1270-03-22,16,True,POINT (14.41 50.09),1,False,False,False,True,False
+237,Budyně nad Ohří,1270-03-24,1270-04-20,27,True,POINT (14.126 50.404),1,False,False,False,True,False
+238,Znojmo,1270-05-01,1270-06-11,41,True,POINT (16.05 48.86),1,False,False,False,True,False
+239,Brno,1270-06-14,1270-07-28,44,True,POINT (16.61 49.19),3,False,False,False,True,False
+240,Praha,1270-08-07,1270-10-02,56,True,POINT (14.41 50.09),6,False,False,False,True,False
+241,Hainburg,1270-10-15,1270-10-21,6,True,POINT (16.946 48.146),2,False,False,False,True,False
+242,Wien,1270-10-23,1270-11-01,9,True,POINT (16.388 48.221),5,False,False,False,True,False
+243,Slovenj Gradec,1270-11-11,1270-11-12,1,True,POINT (15.079 46.516),2,False,False,False,True,False
+244,Kostanjevica na Krki,1270-11-18,1270-11-22,4,True,POINT (15.42 45.846),2,False,False,False,True,False
+245,Stična,1270-11-24,1270-11-26,2,True,POINT (14.806 45.957),1,False,False,False,True,False
+246,Ljubljana,1270-11-28,1270-11-29,1,True,POINT (14.507 46.05),1,False,False,False,True,False
+247,Arnoldstein,1270-11-30,1270-12-03,3,True,POINT (13.75 46.55),1,False,False,False,True,False
+248,Villach,1270-12-04,1270-12-06,2,True,POINT (13.856 46.61),1,False,False,False,True,False
+249,Friesach,1270-12-09,1270-12-09,0,True,POINT (14.326 46.984),1,False,False,False,True,False
+250,Judenburg,1270-12-11,1270-12-12,1,True,POINT (14.667 47.167),4,False,False,False,True,False
+251,Lilienfeld,1270-12-13,1270-12-13,0,True,POINT (15.598 48.014),1,False,False,False,True,False
+252,Mailberg,1270-12-16,1271-02-08,54,True,POINT (16.183 48.673),1,False,False,False,True,False
+253,Brno,1271-02-11,1271-04-07,55,True,POINT (16.61 49.19),1,False,False,False,True,False
+254,Marchegg,1271-04-11,1271-04-13,2,False,POINT (16.891 48.257),1,False,False,False,True,False
+255,Bratislava,1271-04-14,1271-04-16,2,False,POINT (17.103 48.142),2,False,False,False,True,False
+256,Svätý Júr,1271-04-17,1271-04-18,1,False,POINT (17.213 48.254),1,False,False,False,True,False
+257,Pezinok,1271-04-19,1271-04-19,0,False,POINT (17.269 48.29),1,False,False,False,True,False
+258,Červený Kameň,1271-04-20,1271-04-21,1,False,POINT (17.335 48.392),1,False,False,False,True,False
+259,Trnava,1271-04-22,1271-04-25,3,False,POINT (17.586 48.377),1,False,False,False,True,False
+260,Sereď,1271-04-26,1271-05-03,7,False,POINT (17.733 48.285),1,False,False,False,True,False
+261,Bratislava,1271-05-05,1271-05-12,7,False,POINT (17.103 48.142),1,False,False,False,True,False
+262,Magyaróvár,1271-05-13,1271-05-15,2,False,POINT (17.264 47.873),1,False,False,False,True,False
+263,Moson,1271-05-16,1271-05-19,3,False,POINT (17.262 47.859),1,False,False,False,True,False
+264,Bratislava,1271-05-20,1271-05-23,3,False,POINT (17.103 48.142),1,False,False,False,True,False
+265,Wien,1271-05-24,1271-06-22,29,True,POINT (16.388 48.221),3,False,False,False,True,False
+266,Praha,1271-07-04,1271-07-14,10,False,POINT (14.41 50.09),1,False,False,False,True,False
+267,Völkermarkt,1271-08-06,1271-08-06,0,True,POINT (14.633 46.662),1,False,False,False,True,False
+268,Maribor,1271-08-07,1271-08-07,0,True,POINT (15.648 46.554),1,False,False,False,True,False
+269,Hartberg,1271-08-08,1271-08-08,0,True,POINT (15.97 47.281),1,False,False,False,True,False
+270,Wien,1271-08-09,1271-08-09,0,True,POINT (16.388 48.221),1,False,False,False,True,False
+271,Praha,1271-08-12,1271-10-30,79,True,POINT (14.41 50.09),5,False,False,False,True,False
+272,Wrocław,1271-11-10,1271-12-09,29,False,POINT (17.034 51.109),1,False,False,False,True,False
+273,Praha,1271-12-20,1272-02-05,47,True,POINT (14.41 50.09),3,False,False,False,True,False
+274,Zbraslav,1272-02-06,1272-02-27,21,True,POINT (14.394 49.976),1,False,False,False,True,False
+275,Poděbrady,1272-03-01,1272-03-08,7,True,POINT (15.119 50.142),1,False,False,False,True,False
+276,Praha,1272-03-11,1272-03-14,3,True,POINT (14.41 50.09),1,False,False,False,True,False
+277,Poděbrady,1272-03-16,1272-04-02,17,True,POINT (15.119 50.142),1,False,False,False,True,False
+278,Praha,1272-04-05,1272-08-05,122,True,POINT (14.41 50.09),6,False,False,False,True,False
+279,Wien,1272-08-17,1272-10-01,45,True,POINT (16.388 48.221),1,False,False,False,True,False
+280,Brno,1272-10-05,1272-11-20,46,True,POINT (16.61 49.19),1,False,False,False,True,False
+281,Krems an der Donau,1272-11-25,1272-12-26,31,True,POINT (15.62 48.41),1,False,False,False,True,False
+282,Zbraslav,1273-01-05,1273-01-18,13,True,POINT (14.394 49.976),1,False,False,False,True,False
+283,Myšenec,1273-01-22,1273-02-16,25,True,POINT (14.208 49.223),1,False,False,False,True,False
+284,Zvíkov,1273-02-17,1273-03-13,24,True,POINT (14.192 49.439),1,False,False,False,True,False
+285,Milevsko,1273-03-14,1273-04-01,18,True,POINT (14.361 49.45),1,False,False,False,True,False
+286,Praha,1273-04-05,1273-05-09,34,True,POINT (14.41 50.09),1,False,False,False,True,False
+287,Zbraslav,1273-05-10,1273-06-03,24,True,POINT (14.394 49.976),1,False,False,False,True,False
+288,Znojmo,1273-06-12,1273-06-24,12,True,POINT (16.05 48.86),2,False,False,False,True,False
+289,Brno,1273-06-27,1273-07-08,11,True,POINT (16.61 49.19),1,False,False,False,True,False
+290,Bratislava,1273-07-13,1273-07-26,13,False,POINT (17.103 48.142),1,False,False,False,True,False
+291,Laa an der Thaya,1273-07-30,1273-08-07,8,True,POINT (16.384 48.728),1,False,False,False,True,False
+292,Marchegg,1273-08-08,1273-08-10,2,True,POINT (16.891 48.257),1,False,False,False,True,False
+293,Bratislava,1273-08-11,1273-08-21,10,False,POINT (17.103 48.142),1,False,False,False,True,False
+294,Magyaróvár,1273-08-22,1273-09-12,21,False,POINT (17.264 47.873),1,False,False,False,True,False
+295,Györ,1273-09-14,1273-09-27,13,False,POINT (17.635 47.688),1,False,False,False,True,False
+296,Pannonhalma,1273-09-28,1273-09-29,1,False,POINT (17.755 47.549),1,False,False,False,True,False
+297,Sopron,1273-10-03,1273-10-13,10,False,POINT (16.59 47.685),2,False,False,False,True,False
+298,Krems an der Donau,1273-10-14,1273-11-19,36,True,POINT (15.62 48.41),1,False,False,False,True,False
+299,Brno,1273-11-24,1273-12-31,37,True,POINT (16.61 49.19),2,False,False,False,True,False
+300,Praha,1274-01-08,1274-01-08,0,True,POINT (14.41 50.09),1,False,False,False,True,False
+301,Laa an der Thaya,1274-01-13,1274-02-03,21,True,POINT (16.384 48.728),1,False,False,False,True,False
+302,Praha,1274-02-13,1274-03-14,29,True,POINT (14.41 50.09),1,False,False,False,True,False
+303,Wien,1274-03-26,1274-04-04,9,True,POINT (16.388 48.221),1,False,False,False,True,False
+304,Graz,1274-04-12,1274-04-25,13,True,POINT (15.45 47.067),6,False,False,False,True,False
+305,Wien,1274-05-03,1274-05-20,17,True,POINT (16.388 48.221),6,False,False,False,True,False
+306,Brno,1274-05-24,1274-06-11,18,True,POINT (16.61 49.19),1,False,False,False,True,False
+307,Praha,1274-06-21,1274-09-21,92,True,POINT (14.41 50.09),3,False,False,False,True,False
+308,Písek,1274-09-25,1274-10-31,36,True,POINT (14.148 49.309),2,False,False,False,True,False
+309,Praha,1274-11-04,1274-11-28,24,True,POINT (14.41 50.09),3,False,False,False,True,False
+310,Neuburg am Inn,1274-12-08,1274-12-17,9,True,POINT (13.405 48.518),1,False,False,False,True,False
+311,Uherský Ostroh,1275-01-01,1275-01-14,13,True,POINT (17.39 48.986),1,False,False,False,True,False
+312,Wien,1275-01-19,1275-02-11,23,True,POINT (16.388 48.221),5,False,False,False,True,False
+313,Praha,1275-02-23,1275-03-23,28,True,POINT (14.41 50.09),6,False,False,False,True,False
+314,Brno,1275-04-02,1275-04-28,26,True,POINT (16.61 49.19),1,False,False,False,True,False
+315,Praha,1275-05-08,1275-06-02,25,True,POINT (14.41 50.09),3,False,False,False,True,False
+316,Kamýk nad Vltavou,1275-06-05,1275-06-21,16,True,POINT (14.253 49.639),1,False,False,False,True,False
+317,Wien,1275-07-02,1275-08-06,35,True,POINT (16.388 48.221),1,False,False,False,True,False
+318,Veveří,1275-08-11,1275-08-30,19,True,POINT (16.462 49.257),1,False,False,False,True,False
+319,Kamýk nad Vltavou,1275-09-01,1275-09-16,15,True,POINT (14.253 49.639),2,False,False,False,True,False
+320,Brno,1275-09-26,1275-11-03,38,True,POINT (16.61 49.19),1,False,False,False,True,False
+321,Praha,1275-11-13,1275-12-16,33,True,POINT (14.41 50.09),1,False,False,False,True,False
+322,Křivoklát,1275-12-19,1276-01-12,24,True,POINT (13.872 50.038),1,False,False,False,True,False
+323,Praha,1276-01-15,1276-03-23,68,True,POINT (14.41 50.09),5,False,False,False,True,False
+324,Poděbrady,1276-03-26,1276-04-11,16,True,POINT (15.119 50.142),1,False,False,False,True,False
+325,Brno,1276-04-19,1276-05-06,17,True,POINT (16.61 49.19),4,False,False,False,True,False
+326,Praha,1276-05-16,1276-05-19,3,True,POINT (14.41 50.09),1,False,False,False,True,False
+327,Znojmo,1276-05-27,1276-06-04,8,True,POINT (16.05 48.86),7,False,False,False,True,False
+328,Přištpo,1276-06-06,1276-06-18,12,True,POINT (15.935 49.074),1,False,False,False,True,False
+329,Freistadt,1276-06-25,1276-07-17,22,True,POINT (14.517 48.517),3,False,False,False,True,False
+330,Praha,1276-07-25,1276-09-18,55,True,POINT (14.41 50.09),4,False,False,False,True,False
+331,Freistadt,1276-09-26,1276-10-06,10,True,POINT (14.517 48.517),2,False,False,False,True,False
+332,Zwettl,1276-10-09,1276-10-10,1,True,POINT (15.169 48.607),1,False,False,False,True,False
+333,Drosendorf,1276-10-12,1276-10-22,10,True,POINT (15.622 48.866),1,False,False,False,True,False
+334,Korneuburg,1276-10-26,1276-11-14,19,True,POINT (16.33 48.34),1,False,False,False,True,False
+335,Kahlenberg (heute Leopoldberg),1276-11-15,1276-11-25,10,False,POINT (16.346 48.278),1,False,False,False,True,True
+336,Wien,1276-11-26,1276-11-30,4,False,POINT (16.388 48.221),1,False,False,False,False,True
+337,Praha,1276-12-12,1277-02-12,62,True,POINT (14.41 50.09),1,False,False,False,False,True
+338,Brno,1277-02-22,1277-05-04,71,True,POINT (16.61 49.19),4,False,False,False,False,True
+339,Jindřichův Hradec,1277-05-11,1277-05-17,6,True,POINT (15.003 49.144),1,False,False,False,False,True
+340,Hradec Králové,1277-05-23,1277-05-26,3,True,POINT (15.833 50.209),1,False,False,False,False,True
+341,Praha,1277-05-30,1277-06-06,7,True,POINT (14.41 50.09),3,False,False,False,False,True
+342,Uničov,1277-06-16,1277-06-21,5,True,POINT (17.121 49.771),1,False,False,False,False,True
+343,Hradec nad Moravicí,1277-06-25,1277-07-05,10,True,POINT (17.875 49.871),2,False,False,False,False,True
+344,Wrocław,1277-07-11,1277-07-29,18,False,POINT (17.034 51.109),3,False,False,False,False,True
+345,Hradec nad Moravicí,1277-08-04,1277-08-19,15,True,POINT (17.875 49.871),1,False,False,False,False,True
+346,Opava,1277-08-20,1277-08-23,3,True,POINT (17.903 49.939),1,False,False,False,False,True
+347,Praha,1277-09-04,1277-09-28,24,True,POINT (14.41 50.09),3,False,False,False,False,True
+348,Litoměřice,1277-10-01,1277-10-22,21,True,POINT (14.132 50.533),1,False,False,False,False,True
+349,Poděbrady,1277-10-26,1277-11-18,23,True,POINT (15.119 50.142),1,False,False,False,False,True
+350,Opava,1277-11-29,1277-12-27,28,True,POINT (17.903 49.939),1,False,False,False,False,True
+351,Olomouc,1277-12-31,1278-01-16,16,True,POINT (17.252 49.596),1,False,False,False,False,True
+352,Brno,1278-01-19,1278-01-26,7,True,POINT (16.61 49.19),1,False,False,False,False,True
+353,Praha,1278-02-05,1278-05-04,88,True,POINT (14.41 50.09),3,False,False,False,False,True
+354,Brno,1278-05-14,1278-06-22,39,True,POINT (16.61 49.19),1,False,False,False,False,True
+355,Praha,1278-06-27,1278-07-11,14,True,POINT (14.41 50.09),2,False,False,False,False,True
+356,Drosendorf,1278-07-19,1278-08-03,15,False,POINT (15.622 48.866),1,False,False,False,False,True
+357,Laa an der Thaya,1278-08-06,1278-08-14,8,False,POINT (16.384 48.728),1,False,False,False,False,True
