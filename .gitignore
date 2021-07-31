@@ -2,6 +2,5 @@
 .vscode
 data/01_raw/srtm
 data/01_raw/rivers
-data/02_processed/**/**.*
 data/03_paths/**/**.*
 maps/data/topo.tiff
