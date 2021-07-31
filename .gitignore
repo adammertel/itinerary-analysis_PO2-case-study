@@ -4,3 +4,4 @@ data/01_raw/srtm
 data/01_raw/rivers
 data/03_paths/**/**.*
 maps/data/topo.tiff
+data/02_processed/elevation.tif

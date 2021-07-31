@@ -356,7 +356,7 @@ id,name,no_alle,no_activity,no_reise,no_bi,no_gg,x,y,prazision,typ,noten,region0
 355,Nürnberg,9,0,0,9,0,49.452,11.075,1,gemeinde,,Ausland,Bayern,Bayern,Ba,Bayern
 356,Nuzice,1,0,0,0,1,49.272,14.457,1,gemeinde,,Böhmen,Böhmen,Südböhmen,SB,Südböhmen
 357,Nymburk,1,0,0,1,0,50.186,15.042,1,gemeinde,,Böhmen,Böhmen,Ostböhmen,OB,Ostböhmen
-358,Oberösterreich,8,1,0,7,0,,,2,region,,Oberösterreich,Oberösterreich,Oberösterreich,OÖ,Oberösterreich
+358,Oberösterreich,8,1,0,7,0,,,2,gemeinde,,Oberösterreich,Oberösterreich,Oberösterreich,OÖ,Oberösterreich
 360,Oberseifersdorf,1,0,0,0,1,50.942,14.805,1,gemeinde,,Böhmen,Böhmen,Nordböhmen,NB,Nordböhmen
 361,Öblarn,1,0,0,0,1,47.459,13.992,1,gemeinde,,Steiermark,Steiermark,Nordsteiermark,NS,Nordsteiermark
 362,Očihovec,1,0,0,0,1,50.190,13.474,1,gemeinde,,Böhmen,Böhmen,Nordwestböhmen,NWB,Nordwestböhmen
