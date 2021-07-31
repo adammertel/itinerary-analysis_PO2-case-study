@@ -1,4 +1,6 @@
 .env
 .vscode
-data/**/*.*
+data/01_raw/srtm
+data/01_raw/rivers
+data/02_processed/elevation.tif
 maps/data/topo.tiff
