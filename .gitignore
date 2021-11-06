@@ -1,5 +1,6 @@
 .env
 .vscode
+figures
 data/01_raw/srtm
 data/01_raw/rivers
 data/03_paths/**/**.*
