@@ -806,8 +806,8 @@
 804,False,Praha,False,False,1253-09-03,3,9,1253,1
 805,False,Praha,False,False,1253-09-04,4,9,1253,1
 806,False,Praha,False,False,1253-09-05,5,9,1253,1
-807,True,Praha,False,False,1253-09-06,6,9,1253,1
-808,False,Praha,True,False,1253-09-07,7,9,1253,1
+807,True,Praha,True,False,1253-09-06,6,9,1253,1
+808,False,False,True,False,1253-09-07,7,9,1253,1
 809,False,False,True,False,1253-09-08,8,9,1253,1
 810,False,False,True,False,1253-09-09,9,9,1253,1
 811,False,False,True,False,1253-09-10,10,9,1253,1
@@ -1255,8 +1255,8 @@
 1253,False,Krems an der Donau,False,True,1254-11-26,26,11,1254,2
 1254,False,Krems an der Donau,False,True,1254-11-27,27,11,1254,2
 1255,False,Krems an der Donau,False,True,1254-11-28,28,11,1254,2
-1256,False,Krems an der Donau,False,True,1254-11-29,29,11,1254,2
-1257,False,Krems an der Donau,True,False,1254-11-30,30,11,1254,2
+1256,False,Krems an der Donau,True,False,1254-11-29,29,11,1254,2
+1257,False,False,True,False,1254-11-30,30,11,1254,2
 1258,False,False,True,False,1254-12-01,1,12,1254,2
 1259,False,False,True,False,1254-12-02,2,12,1254,2
 1260,False,False,True,False,1254-12-03,3,12,1254,2
@@ -1322,8 +1322,8 @@
 1320,False,False,True,False,1255-02-01,1,2,1255,2
 1321,False,False,True,False,1255-02-02,2,2,1255,2
 1322,False,False,True,False,1255-02-03,3,2,1255,2
-1323,False,False,True,False,1255-02-04,4,2,1255,2
-1324,False,Opava,False,False,1255-02-05,5,2,1255,2
+1323,False,Opava,False,False,1255-02-04,4,2,1255,2
+1324,False,Opava,False,True,1255-02-05,5,2,1255,2
 1325,True,Opava,False,True,1255-02-06,6,2,1255,2
 1326,False,Opava,False,True,1255-02-07,7,2,1255,2
 1327,False,Opava,False,True,1255-02-08,8,2,1255,2
@@ -1440,8 +1440,8 @@
 1438,False,Křivoklát,False,True,1255-05-30,30,5,1255,2
 1439,False,Křivoklát,False,True,1255-05-31,31,5,1255,2
 1440,False,Křivoklát,False,True,1255-06-01,1,6,1255,2
-1441,False,Křivoklát,False,True,1255-06-02,2,6,1255,2
-1442,False,Křivoklát,True,False,1255-06-03,3,6,1255,2
+1441,False,Křivoklát,True,False,1255-06-02,2,6,1255,2
+1442,False,False,True,False,1255-06-03,3,6,1255,2
 1443,False,False,True,False,1255-06-04,4,6,1255,2
 1444,False,False,True,False,1255-06-05,5,6,1255,2
 1445,False,False,True,False,1255-06-06,6,6,1255,2
@@ -1593,8 +1593,8 @@
 1591,False,Praha,False,True,1255-10-30,30,10,1255,2
 1592,False,Praha,False,True,1255-10-31,31,10,1255,2
 1593,False,Praha,False,True,1255-11-01,1,11,1255,2
-1594,False,Praha,False,True,1255-11-02,2,11,1255,2
-1595,False,Praha,True,True,1255-11-03,3,11,1255,2
+1594,False,Praha,True,True,1255-11-02,2,11,1255,2
+1595,False,False,True,True,1255-11-03,3,11,1255,2
 1596,False,False,True,True,1255-11-04,4,11,1255,2
 1597,False,False,True,True,1255-11-05,5,11,1255,2
 1598,False,False,True,True,1255-11-06,6,11,1255,2
@@ -1836,7 +1836,7 @@
 1834,False,False,True,True,1256-06-29,29,6,1256,2
 1835,False,False,True,True,1256-06-30,30,6,1256,2
 1836,False,False,True,True,1256-07-01,1,7,1256,2
-1837,False,Opava,False,True,1256-07-02,2,7,1256,2
+1837,False,False,True,True,1256-07-02,2,7,1256,2
 1838,False,Opava,False,True,1256-07-03,3,7,1256,2
 1839,False,Opava,False,True,1256-07-04,4,7,1256,2
 1840,False,Opava,False,True,1256-07-05,5,7,1256,2
@@ -1915,8 +1915,8 @@
 1913,False,Praha,False,True,1256-09-16,16,9,1256,2
 1914,False,Praha,False,True,1256-09-17,17,9,1256,2
 1915,False,Praha,False,True,1256-09-18,18,9,1256,2
-1916,False,Praha,False,True,1256-09-19,19,9,1256,2
-1917,False,Praha,True,True,1256-09-20,20,9,1256,2
+1916,False,Praha,True,True,1256-09-19,19,9,1256,2
+1917,False,False,True,True,1256-09-20,20,9,1256,2
 1918,False,False,True,True,1256-09-21,21,9,1256,2
 1919,False,False,True,True,1256-09-22,22,9,1256,2
 1920,False,False,True,True,1256-09-23,23,9,1256,2
@@ -2101,7 +2101,7 @@
 2099,False,False,True,True,1257-03-21,21,3,1257,2
 2100,False,False,True,True,1257-03-22,22,3,1257,2
 2101,False,False,True,True,1257-03-23,23,3,1257,2
-2102,False,Linz,False,True,1257-03-24,24,3,1257,2
+2102,False,False,True,True,1257-03-24,24,3,1257,2
 2103,False,Linz,False,True,1257-03-25,25,3,1257,2
 2104,False,Linz,False,True,1257-03-26,26,3,1257,2
 2105,False,Linz,False,True,1257-03-27,27,3,1257,2
@@ -3239,8 +3239,8 @@
 3237,False,Praha,False,True,1260-05-02,2,5,1260,2
 3238,False,Praha,False,True,1260-05-03,3,5,1260,2
 3239,False,Praha,False,True,1260-05-04,4,5,1260,2
-3240,False,Praha,False,True,1260-05-05,5,5,1260,2
-3241,False,Praha,True,True,1260-05-06,6,5,1260,2
+3240,False,Praha,True,True,1260-05-05,5,5,1260,2
+3241,False,False,True,True,1260-05-06,6,5,1260,2
 3242,False,False,True,True,1260-05-07,7,5,1260,2
 3243,False,False,True,True,1260-05-08,8,5,1260,2
 3244,False,False,True,True,1260-05-09,9,5,1260,2
@@ -3422,8 +3422,8 @@
 3420,False,Praha,False,True,1260-11-01,1,11,1260,3
 3421,False,Praha,False,True,1260-11-02,2,11,1260,3
 3422,False,Praha,False,True,1260-11-03,3,11,1260,3
-3423,False,Praha,False,True,1260-11-04,4,11,1260,3
-3424,False,Praha,True,True,1260-11-05,5,11,1260,3
+3423,False,Praha,True,True,1260-11-04,4,11,1260,3
+3424,False,False,True,True,1260-11-05,5,11,1260,3
 3425,False,False,True,True,1260-11-06,6,11,1260,3
 3426,False,False,True,True,1260-11-07,7,11,1260,3
 3427,False,False,True,True,1260-11-08,8,11,1260,3
@@ -3473,8 +3473,8 @@
 3471,True,Graz,False,False,1260-12-22,22,12,1260,3
 3472,True,Graz,False,False,1260-12-23,23,12,1260,3
 3473,True,Graz,False,False,1260-12-24,24,12,1260,3
-3474,True,Graz,False,True,1260-12-25,25,12,1260,3
-3475,False,Graz,True,True,1260-12-26,26,12,1260,3
+3474,True,Graz,True,True,1260-12-25,25,12,1260,3
+3475,False,False,True,True,1260-12-26,26,12,1260,3
 3476,False,False,True,True,1260-12-27,27,12,1260,3
 3477,False,False,True,True,1260-12-28,28,12,1260,3
 3478,False,False,True,True,1260-12-29,29,12,1260,3
@@ -3792,8 +3792,8 @@
 3790,False,False,True,False,1261-11-06,6,11,1261,3
 3791,False,False,True,False,1261-11-07,7,11,1261,3
 3792,False,False,True,False,1261-11-08,8,11,1261,3
-3793,False,Praha,False,False,1261-11-09,9,11,1261,3
-3794,False,Praha,False,True,1261-11-10,10,11,1261,3
+3793,False,False,True,False,1261-11-09,9,11,1261,3
+3794,False,Praha,False,False,1261-11-10,10,11,1261,3
 3795,True,Praha,False,True,1261-11-11,11,11,1261,3
 3796,False,Praha,False,True,1261-11-12,12,11,1261,3
 3797,False,Praha,True,True,1261-11-13,13,11,1261,3
@@ -3978,8 +3978,8 @@
 3976,False,Wien,False,True,1262-05-11,11,5,1262,3
 3977,False,Wien,False,True,1262-05-12,12,5,1262,3
 3978,False,Wien,False,True,1262-05-13,13,5,1262,3
-3979,False,Wien,False,True,1262-05-14,14,5,1262,3
-3980,False,Wien,True,True,1262-05-15,15,5,1262,3
+3979,False,Wien,True,True,1262-05-14,14,5,1262,3
+3980,False,False,True,True,1262-05-15,15,5,1262,3
 3981,False,False,True,True,1262-05-16,16,5,1262,3
 3982,False,False,True,True,1262-05-17,17,5,1262,3
 3983,False,False,True,True,1262-05-18,18,5,1262,3
@@ -4073,8 +4073,8 @@
 4071,False,Wiener Neustadt,False,True,1262-08-14,14,8,1262,3
 4072,False,Wiener Neustadt,False,True,1262-08-15,15,8,1262,3
 4073,False,Wiener Neustadt,False,True,1262-08-16,16,8,1262,3
-4074,False,Wiener Neustadt,False,True,1262-08-17,17,8,1262,3
-4075,False,Wiener Neustadt,True,True,1262-08-18,18,8,1262,3
+4074,False,Wiener Neustadt,True,True,1262-08-17,17,8,1262,3
+4075,False,False,True,True,1262-08-18,18,8,1262,3
 4076,False,False,True,True,1262-08-19,19,8,1262,3
 4077,False,False,True,True,1262-08-20,20,8,1262,3
 4078,False,False,True,True,1262-08-21,21,8,1262,3
@@ -4135,8 +4135,8 @@
 4133,False,Głubczyce,False,True,1262-10-15,15,10,1262,3
 4134,False,Głubczyce,False,True,1262-10-16,16,10,1262,3
 4135,False,Głubczyce,False,True,1262-10-17,17,10,1262,3
-4136,False,Głubczyce,False,True,1262-10-18,18,10,1262,3
-4137,False,Głubczyce,True,True,1262-10-19,19,10,1262,3
+4136,False,Głubczyce,True,True,1262-10-18,18,10,1262,3
+4137,False,False,True,True,1262-10-19,19,10,1262,3
 4138,False,False,True,True,1262-10-20,20,10,1262,3
 4139,False,False,True,True,1262-10-21,21,10,1262,3
 4140,False,False,True,True,1262-10-22,22,10,1262,3
@@ -5191,8 +5191,8 @@
 5189,False,Praha,False,True,1265-09-05,5,9,1265,3
 5190,False,Praha,False,True,1265-09-06,6,9,1265,3
 5191,False,Praha,False,True,1265-09-07,7,9,1265,3
-5192,False,Praha,False,True,1265-09-08,8,9,1265,3
-5193,False,Praha,True,True,1265-09-09,9,9,1265,3
+5192,False,Praha,True,True,1265-09-08,8,9,1265,3
+5193,False,False,True,True,1265-09-09,9,9,1265,3
 5194,False,False,True,True,1265-09-10,10,9,1265,3
 5195,False,Nižbor,False,True,1265-09-11,11,9,1265,3
 5196,False,Nižbor,False,True,1265-09-12,12,9,1265,3
@@ -5348,8 +5348,8 @@
 5346,False,Praha,False,True,1266-02-09,9,2,1266,3
 5347,False,Praha,False,True,1266-02-10,10,2,1266,3
 5348,False,Praha,False,True,1266-02-11,11,2,1266,3
-5349,False,Praha,False,True,1266-02-12,12,2,1266,3
-5350,False,Praha,True,True,1266-02-13,13,2,1266,3
+5349,False,Praha,True,True,1266-02-12,12,2,1266,3
+5350,False,False,True,True,1266-02-13,13,2,1266,3
 5351,False,False,True,True,1266-02-14,14,2,1266,3
 5352,False,False,True,True,1266-02-15,15,2,1266,3
 5353,False,False,True,True,1266-02-16,16,2,1266,3
@@ -5396,8 +5396,8 @@
 5394,False,Eggenburg,False,True,1266-03-29,29,3,1266,3
 5395,False,Eggenburg,False,True,1266-03-30,30,3,1266,3
 5396,False,Eggenburg,False,True,1266-03-31,31,3,1266,3
-5397,False,Eggenburg,False,True,1266-04-01,1,4,1266,3
-5398,False,Eggenburg,True,True,1266-04-02,2,4,1266,3
+5397,False,Eggenburg,True,True,1266-04-01,1,4,1266,3
+5398,False,False,True,True,1266-04-02,2,4,1266,3
 5399,False,False,True,True,1266-04-03,3,4,1266,3
 5400,False,False,True,True,1266-04-04,4,4,1266,3
 5401,False,False,True,True,1266-04-05,5,4,1266,3
@@ -5716,7 +5716,7 @@
 5714,False,False,True,True,1267-02-12,12,2,1267,3
 5715,False,False,True,True,1267-02-13,13,2,1267,3
 5716,False,False,True,True,1267-02-14,14,2,1267,3
-5717,False,Praha,False,True,1267-02-15,15,2,1267,3
+5717,False,False,True,True,1267-02-15,15,2,1267,3
 5718,False,Praha,False,True,1267-02-16,16,2,1267,3
 5719,False,Praha,False,True,1267-02-17,17,2,1267,3
 5720,False,Praha,False,True,1267-02-18,18,2,1267,3
@@ -5902,7 +5902,7 @@
 5900,False,False,True,False,1267-08-17,17,8,1267,3
 5901,False,False,True,False,1267-08-18,18,8,1267,3
 5902,False,False,True,False,1267-08-19,19,8,1267,3
-5903,False,Trzebnica,False,False,1267-08-20,20,8,1267,3
+5903,False,False,True,False,1267-08-20,20,8,1267,3
 5904,True,Trzebnica,False,False,1267-08-21,21,8,1267,3
 5905,False,Trzebnica,False,False,1267-08-22,22,8,1267,3
 5906,False,Trzebnica,False,False,1267-08-23,23,8,1267,3
@@ -6068,8 +6068,8 @@
 6066,False,False,True,False,1268-01-30,30,1,1268,3
 6067,False,False,True,False,1268-01-31,31,1,1268,3
 6068,False,False,True,False,1268-02-01,1,2,1268,3
-6069,False,Praha,False,False,1268-02-02,2,2,1268,3
-6070,False,Praha,False,True,1268-02-03,3,2,1268,3
+6069,False,False,True,False,1268-02-02,2,2,1268,3
+6070,False,Praha,False,False,1268-02-03,3,2,1268,3
 6071,False,Praha,False,True,1268-02-04,4,2,1268,3
 6072,False,Praha,False,True,1268-02-05,5,2,1268,3
 6073,False,Praha,False,True,1268-02-06,6,2,1268,3
@@ -6597,7 +6597,7 @@
 6595,False,False,True,True,1269-07-12,12,7,1269,3
 6596,False,False,True,True,1269-07-13,13,7,1269,3
 6597,False,False,True,True,1269-07-14,14,7,1269,3
-6598,False,Głubczyce,False,True,1269-07-15,15,7,1269,3
+6598,False,False,True,True,1269-07-15,15,7,1269,3
 6599,False,Głubczyce,False,True,1269-07-16,16,7,1269,3
 6600,False,Głubczyce,False,True,1269-07-17,17,7,1269,3
 6601,False,Głubczyce,False,True,1269-07-18,18,7,1269,3
@@ -7262,8 +7262,8 @@
 7260,False,Bratislava,False,False,1271-05-08,8,5,1271,4
 7261,True,Bratislava,False,False,1271-05-09,9,5,1271,4
 7262,False,Bratislava,False,False,1271-05-10,10,5,1271,4
-7263,False,Bratislava,False,False,1271-05-11,11,5,1271,4
-7264,False,Bratislava,True,False,1271-05-12,12,5,1271,4
+7263,False,Bratislava,True,False,1271-05-11,11,5,1271,4
+7264,False,False,True,False,1271-05-12,12,5,1271,4
 7265,False,Magyaróvár,False,False,1271-05-13,13,5,1271,4
 7266,False,Magyaróvár,False,False,1271-05-14,14,5,1271,4
 7267,True,Magyaróvár,True,False,1271-05-15,15,5,1271,4
@@ -7271,7 +7271,7 @@
 7269,False,Moson,False,False,1271-05-17,17,5,1271,4
 7270,False,Moson,False,False,1271-05-18,18,5,1271,4
 7271,False,Moson,True,False,1271-05-19,19,5,1271,4
-7272,False,Bratislava,False,False,1271-05-20,20,5,1271,4
+7272,False,False,True,False,1271-05-20,20,5,1271,4
 7273,False,Bratislava,False,False,1271-05-21,21,5,1271,4
 7274,False,Bratislava,False,False,1271-05-22,22,5,1271,4
 7275,True,Bratislava,True,False,1271-05-23,23,5,1271,4
@@ -8096,7 +8096,7 @@
 8094,False,Bratislava,False,False,1273-08-19,19,8,1273,4
 8095,False,Bratislava,False,False,1273-08-20,20,8,1273,4
 8096,False,Bratislava,True,False,1273-08-21,21,8,1273,4
-8097,False,Magyaróvár,False,False,1273-08-22,22,8,1273,4
+8097,False,False,True,False,1273-08-22,22,8,1273,4
 8098,False,Magyaróvár,False,False,1273-08-23,23,8,1273,4
 8099,False,Magyaróvár,False,False,1273-08-24,24,8,1273,4
 8100,False,Magyaróvár,False,False,1273-08-25,25,8,1273,4
@@ -8133,8 +8133,8 @@
 8131,False,Györ,False,False,1273-09-25,25,9,1273,4
 8132,True,Györ,False,False,1273-09-26,26,9,1273,4
 8133,False,Györ,True,False,1273-09-27,27,9,1273,4
-8134,True,Pannonhalma,False,False,1273-09-28,28,9,1273,4
-8135,False,Pannonhalma,True,False,1273-09-29,29,9,1273,4
+8134,True,Pannonhalma,True,False,1273-09-28,28,9,1273,4
+8135,False,False,True,False,1273-09-29,29,9,1273,4
 8136,False,False,True,False,1273-09-30,30,9,1273,4
 8137,False,False,True,False,1273-10-01,1,10,1273,4
 8138,False,False,True,False,1273-10-02,2,10,1273,4
@@ -9508,8 +9508,8 @@
 9506,False,Hradec nad Moravicí,False,True,1277-07-01,1,7,1277,5
 9507,False,Hradec nad Moravicí,False,True,1277-07-02,2,7,1277,5
 9508,False,Hradec nad Moravicí,False,True,1277-07-03,3,7,1277,5
-9509,False,Hradec nad Moravicí,False,True,1277-07-04,4,7,1277,5
-9510,False,Hradec nad Moravicí,True,False,1277-07-05,5,7,1277,5
+9509,False,Hradec nad Moravicí,True,False,1277-07-04,4,7,1277,5
+9510,False,False,True,False,1277-07-05,5,7,1277,5
 9511,False,False,True,False,1277-07-06,6,7,1277,5
 9512,False,False,True,False,1277-07-07,7,7,1277,5
 9513,False,False,True,False,1277-07-08,8,7,1277,5
@@ -9539,8 +9539,8 @@
 9537,False,False,True,False,1277-08-01,1,8,1277,5
 9538,False,False,True,False,1277-08-02,2,8,1277,5
 9539,False,False,True,False,1277-08-03,3,8,1277,5
-9540,False,Hradec nad Moravicí,False,False,1277-08-04,4,8,1277,5
-9541,False,Hradec nad Moravicí,False,True,1277-08-05,5,8,1277,5
+9540,False,False,True,False,1277-08-04,4,8,1277,5
+9541,False,Hradec nad Moravicí,False,False,1277-08-05,5,8,1277,5
 9542,False,Hradec nad Moravicí,False,True,1277-08-06,6,8,1277,5
 9543,False,Hradec nad Moravicí,False,True,1277-08-07,7,8,1277,5
 9544,False,Hradec nad Moravicí,False,True,1277-08-08,8,8,1277,5
@@ -9644,8 +9644,8 @@
 9642,False,Poděbrady,False,True,1277-11-14,14,11,1277,5
 9643,False,Poděbrady,False,True,1277-11-15,15,11,1277,5
 9644,False,Poděbrady,False,True,1277-11-16,16,11,1277,5
-9645,False,Poděbrady,False,True,1277-11-17,17,11,1277,5
-9646,False,Poděbrady,True,True,1277-11-18,18,11,1277,5
+9645,False,Poděbrady,True,True,1277-11-17,17,11,1277,5
+9646,False,False,True,True,1277-11-18,18,11,1277,5
 9647,False,False,True,True,1277-11-19,19,11,1277,5
 9648,False,False,True,True,1277-11-20,20,11,1277,5
 9649,False,False,True,True,1277-11-21,21,11,1277,5
@@ -9888,7 +9888,7 @@
 9886,False,False,True,False,1278-07-16,16,7,1278,5
 9887,False,False,True,False,1278-07-17,17,7,1278,5
 9888,False,False,True,False,1278-07-18,18,7,1278,5
-9889,False,Drosendorf,False,False,1278-07-19,19,7,1278,5
+9889,False,False,True,False,1278-07-19,19,7,1278,5
 9890,False,Drosendorf,False,False,1278-07-20,20,7,1278,5
 9891,False,Drosendorf,False,False,1278-07-21,21,7,1278,5
 9892,False,Drosendorf,False,False,1278-07-22,22,7,1278,5
